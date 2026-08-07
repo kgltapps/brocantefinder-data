@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T11:04:42.746Z",
+  "generatedAt": "2026-08-07T09:26:01.982Z",
   "count": 311,
   "markets": [
     {
@@ -18,10 +18,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/wekelijkse-rommelmarkt-lokeren/df0be1dd-06f3-456d-86c6-5983287dc8ca"
@@ -43,10 +39,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt of braderie",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt/88f96eab-27bb-4c14-9db0-aa414338fe43"
     },
@@ -66,10 +58,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Beurs",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/bras-rommelmarkt/301e9f21-925b-4e91-9075-b1712bf677d1"
@@ -91,10 +79,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt of braderie",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-en-antiekmarkt-gaasbeek/56b7b84c-50fe-4ea1-981b-f7e91fe53fb4"
     },
@@ -114,10 +98,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": 44,
       "sourceUrl": "https://www.wattedoen.be/reties-rommelmarktje-vzw-8711882.shtml"
@@ -139,10 +119,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/bras-rommelmarkt/12d414e1-5a1f-424a-a66d-5b9309707070"
     },
@@ -162,10 +138,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/meermarkt/9670bbe1-63f6-4bac-8d74-93faefc3fa6a"
@@ -187,10 +159,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-teunenberg/bbe4dfb4-5234-4ab0-a51d-9aedf667f575"
     },
@@ -210,10 +178,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/openluchtrommelmarkt-te-beveren-waas/d102296e-27a8-4f80-bc4c-0e3502abb97d"
@@ -235,10 +199,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt/e5be5815-101c-4b4e-af0b-d6af72d702b9"
     },
@@ -258,10 +218,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-op-de-zeedijk/7aac7d73-9e9d-46d9-bec8-2a7e8180045c"
@@ -283,10 +239,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/brocante-en-rommelmarkt/8695be60-1636-4795-977a-9415df023467"
     },
@@ -307,9 +259,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Binnenrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133741/gezellige-wekelijkse-binnenrommelmarkt-putte"
     },
@@ -329,10 +278,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-attenhoven/73db51c3-ecef-4089-b772-299b8059c394"
@@ -355,9 +300,6 @@
         "Garageverkoop",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Garageverkopen en rommelmarkt"
-      ],
       "standCount": 70,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133878/brasschaat"
     },
@@ -376,10 +318,6 @@
       "openingHours": "8:00 - 16:00",
       "admission": "Gratis",
       "categories": [
-        "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Binnen- en buitenrommelmarkt",
         "Rommelmarkt"
       ],
       "standCount": 150,
@@ -402,9 +340,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133473/rommel--en-ambachtenmarkt-vremde"
     },
@@ -424,10 +359,6 @@
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132830/avondrommelmarkt-westerlo-heultje"
@@ -449,9 +380,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt"
-      ],
       "standCount": 50,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133782/---rommelmarkt-kaj-eversel----heusden-zolder"
     },
@@ -471,9 +399,6 @@
       "admission": null,
       "categories": [
         "Garageverkoop"
-      ],
-      "categories_old": [
-        "Garageverkopen"
       ],
       "standCount": 100,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133611/grote-garageverkoop-llummen-en-deelgemeenten--lummen"
@@ -497,16 +422,6 @@
         "Garageverkoop",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Garageverkopen",
-        "Strip- en Dvd beurs",
-        "Antiekbeurs",
-        "Openluchtrommelmarkt",
-        "Garageverkopen en rommelmarkt",
-        "Braderij",
-        "Straatrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133547/24ste-grote-rommelmarkt--wellicht-de-bijzonderste-van-vlaanderen--gent"
     },
@@ -527,11 +442,6 @@
       "categories": [
         "Rommelmarkt",
         "Rommelmarkt (kinder)"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Kinderrommelmarkt"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133707/23ste-kinder-en-rommelmarkt-kruisem"
@@ -554,12 +464,6 @@
         "Garageverkoop",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Garageverkopen en rommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": 80,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133847/ronsiese-rommelmarkt-ronse"
     },
@@ -579,9 +483,6 @@
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Openluchtrommelmarkt"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133420/4de-ambachten--en-rommelmarkt-roosdaal"
@@ -603,10 +504,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Openluchtrommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": 200,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133688/polderfeesten-2026-knokke-heist"
     },
@@ -626,10 +523,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt/7ec35d87-cbcb-4107-8fe8-6dad3ba0fe9e"
@@ -651,10 +544,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133114/antwerpen"
     },
@@ -675,10 +564,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt"
-      ],
       "standCount": 70,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132765/rommelmarkt-klj-berlaar-berlaar"
     },
@@ -693,13 +578,10 @@
       "longitude": 4.45667,
       "geoSource": "address",
       "street": "Stadsplein",
-      "houseNumber": "1",
+      "houseNumber": null,
       "openingHours": "10:00 - 17:00",
       "admission": null,
       "categories": [
-        "Rommelmarkt"
-      ],
-      "categories_old": [
         "Rommelmarkt"
       ],
       "standCount": 100,
@@ -722,9 +604,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133215/veerle-laakdal"
     },
@@ -745,10 +624,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt"
-      ],
       "standCount": 250,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133789/rommelmarkt-vorselaar-vorselaar"
     },
@@ -767,10 +642,6 @@
       "openingHours": "9:00 - 16:00",
       "admission": null,
       "categories": [
-        "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Openluchtrommelmarkt",
         "Rommelmarkt"
       ],
       "standCount": 200,
@@ -793,11 +664,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133576/rommelmarkt-vannitsen-jeuk"
     },
@@ -819,12 +685,6 @@
         "Rommelmarkt",
         "Rommelmarkt (kinder)"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Kinderrommelmarkt",
-        "Binnen- en buitenrommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133797/riemst"
     },
@@ -845,37 +705,28 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Openluchtrommelmarkt"
-      ],
       "standCount": 70,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133912/pinas-jaarlijkse-openluchtrommelmarkten-baasrode---dendermonde---baasrode--dendermonde-"
     },
     {
-      "id": "1-50.88806-4.01722-36",
+      "id": "1-50.88332-4.01-36",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-09",
       "municipality": "Denderhoutem",
       "postalCode": "9450",
       "province": "East Flanders",
-      "latitude": 50.88806,
-      "longitude": 4.01722,
-      "geoSource": "address",
+      "latitude": 50.88332,
+      "longitude": 4.01,
+      "geoSource": "manual",
+      "geoStreet": "Daal 22",
       "street": "Van Daal 22, Vondelen,Stukje Koekelberg Anderenbroek tot Ninovestraat 146.",
-      "houseNumber": "71",
+      "houseNumber": null,
       "openingHours": "7:00 - 17:00",
       "admission": null,
       "categories": [
         "Garageverkoop",
         "Rommelmarkt",
         "Rommelmarkt (kinder)"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Garageverkopen",
-        "Openluchtrommelmarkt",
-        "Kinderrommelmarkt",
-        "Straatrommelmarkt"
       ],
       "standCount": 800,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132821/5de-atomse-rommelmarkt-volzet-denderhoutem"
@@ -896,9 +747,6 @@
       "admission": "Gratis",
       "categories": [
         "Garageverkoop"
-      ],
-      "categories_old": [
-        "Garageverkopen"
       ],
       "standCount": 100,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133408/15de-garageverkoop-cornelius-sneyssenslaan-en-aanpalende-straten-merelbeke---melle"
@@ -921,10 +769,6 @@
         "Garageverkoop",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Straatrommelmarkt",
-        "Garageverkopen en rommelmarkt"
-      ],
       "standCount": 130,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133670/3de-wassenhoofse-brocante-rommelmarkt-zottegem--leeuwergem"
     },
@@ -945,11 +789,6 @@
       "categories": [
         "Brocante",
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs",
-        "Openluchtrommelmarkt"
       ],
       "standCount": 100,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132904/antiek-and-rommelmarkt-te-kortrijk-kortrijk"
@@ -972,15 +811,6 @@
         "Rommelmarkt",
         "Rommelmarkt (kinder)"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Kinderrommelmarkt",
-        "Rommelmarkt in meubilair",
-        "Platenbeurs",
-        "Straatrommelmarkt",
-        "Religieuze Beelden"
-      ],
       "standCount": 300,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133781/----gratis-rommelmarkt-----langemark-poelkapelle"
     },
@@ -1000,10 +830,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt of braderie",
-        "Antiek en brocante"
       ],
       "standCount": 150,
       "sourceUrl": "https://www.wattedoen.be/buitenrommelmarkt-8683603.shtml"
@@ -1025,10 +851,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-in-oostduinkerke-dorp/6b30e953-8c63-4629-b9d1-c625bd879b7a"
     },
@@ -1048,15 +870,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Braderij",
-        "Cd-, platen en boekenbeurs",
-        "Brocante beurs",
-        "Antiekbeurs",
-        "Beauty Beurs",
-        "Boekenbeurs",
-        "Creamarkt"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133442/avondmarkt-banneuxwijk-hasselt-hasselt"
@@ -1079,12 +892,6 @@
         "Garageverkoop",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Garageverkopen en rommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": 80,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133848/rommelmarkt-jaarmarkt-tijdens-feeste-t-ename-oudenaarde-ename"
     },
@@ -1104,9 +911,6 @@
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Binnenrommelmarkt"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133907/booischot"
@@ -1128,9 +932,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Openluchtrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133513/jaarlijkse-rommelmarkt-magerstraat-heusden--destelbergen"
     },
@@ -1150,10 +951,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/42ste-rommelmarkt-van-het-feestcomite-panne-centrum/5b5686d9-d883-4216-ad63-f5da9b6d34ad"
@@ -1175,11 +972,6 @@
       "categories": [
         "Tweedehands"
       ],
-      "categories_old": [
-        "Platen en Cd beurs",
-        "Tweedehands boekenmarkt",
-        "Stripbeurs"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133818/feest-van-alledaagse-waanzin-antwerpen"
     },
@@ -1200,12 +992,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Binnenrommelmarkt",
-        "Verzamelbeurs",
-        "Creamarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133940/antwerpen"
     },
@@ -1220,16 +1006,11 @@
       "longitude": 4.36933,
       "geoSource": "address",
       "street": "Kunstlaan",
-      "houseNumber": "15",
+      "houseNumber": null,
       "openingHours": "8:30 - 16:00",
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Openluchtrommelmarkt",
-        "Rommelmarkt",
-        "Straatrommelmarkt"
       ],
       "standCount": 180,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132972/gezellige-rommelmarkt-parkbuurt-boom-boom"
@@ -1251,10 +1032,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Straatrommelmarkt",
-        "Openluchtrommelmarkt"
-      ],
       "standCount": 400,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133947/rommelmarkt-emblem-emblem"
     },
@@ -1274,11 +1051,6 @@
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Straatrommelmarkt"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133749/grote-rommelmarkt--lille"
@@ -1301,12 +1073,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Brocante beurs",
-        "Openluchtrommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": 150,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133692/rommelmarkt-piringen-tongeren-borgloon"
     },
@@ -1328,13 +1094,6 @@
         "Garageverkoop",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Garageverkopen",
-        "Openluchtrommelmarkt",
-        "Garageverkopen en rommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": 40,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133892/garageverkoop-potterie-evergem-evergem"
     },
@@ -1354,9 +1113,6 @@
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Openluchtrommelmarkt"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133671/gratis-rommelmarkt-scandinavi-straat-gent--gent"
@@ -1379,11 +1135,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs",
-        "Openluchtrommelmarkt"
-      ],
       "standCount": 1000,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132990/antiek-and-rommelmarkt-te-grammene-grammene"
     },
@@ -1398,16 +1149,11 @@
       "longitude": 4.14317,
       "geoSource": "address",
       "street": "LOYSTRAAT nr 70 ( 500 m van het Voetbalstadium )",
-      "houseNumber": "36",
+      "houseNumber": null,
       "openingHours": "8:00 - 17:00",
       "admission": "Gratis",
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Openluchtrommelmarkt",
-        "Platen en Cd beurs",
-        "Verzamelbeurs"
       ],
       "standCount": 120,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133827/pinas-jaarlijkse-rommelmarkt-15-augustus-hamme---bij-st-niklaas---hamme---bij-st-niklaas--"
@@ -1429,13 +1175,6 @@
       "categories": [
         "Rommelmarkt",
         "Tweedehands"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "2de hands speelgoed en baby beurs",
-        "2de hands kledingbeurs",
-        "Straatrommelmarkt"
       ],
       "standCount": 150,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133774/rommelmarkt-openlucht-tijdens-wijkkermis-lochristi-lochristi"
@@ -1459,16 +1198,6 @@
         "Rommelmarkt",
         "Tweedehands"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Cd-, platen en boekenbeurs",
-        "Tweedehands boekenmarkt",
-        "Brocante beurs",
-        "Antiekbeurs",
-        "Openluchtrommelmarkt",
-        "Rommelmarkt in meubilair",
-        "Straatrommelmarkt"
-      ],
       "standCount": 93,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133626/grote-brocanterie-van-zoet-water---oud-herverlee-oud-heverlee"
     },
@@ -1483,16 +1212,12 @@
       "longitude": 4.93303,
       "geoSource": "address",
       "street": "Vogelzangstraat",
-      "houseNumber": "12",
+      "houseNumber": null,
       "openingHours": "7:00 - 17:00",
       "admission": null,
       "categories": [
         "Garageverkoop",
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Garageverkopen en rommelmarkt"
       ],
       "standCount": 100,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133805/rommelmarkt--buurtfeest-tienen"
@@ -1513,9 +1238,6 @@
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Straatrommelmarkt"
       ],
       "standCount": 300,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133775/24ste-feestrommelmarkt-met-gratis-mini-festival--brugge-st-andries"
@@ -1539,13 +1261,6 @@
         "Rommelmarkt",
         "Tweedehands"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Brocante beurs",
-        "2de hands kledingbeurs",
-        "Braderij",
-        "Binnen- en buitenrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133519/rommelmarkt-dadizele"
     },
@@ -1566,10 +1281,6 @@
       "categories": [
         "Rommelmarkt",
         "Rommelmarkt (kinder)"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Kinderrommelmarkt"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133664/kortemark"
@@ -1592,12 +1303,6 @@
         "Garageverkoop",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Garageverkopen en rommelmarkt",
-        "Creamarkt"
-      ],
       "standCount": 30,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133804/poperinge"
     },
@@ -1612,15 +1317,11 @@
       "longitude": 3.37009,
       "geoSource": "source",
       "street": "Desselgemstraat",
-      "houseNumber": "2",
+      "houseNumber": null,
       "openingHours": "06:00-17:00",
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": 100,
       "sourceUrl": "https://www.wattedoen.be/rommelmarkten-8724729.shtml"
@@ -1642,10 +1343,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Beurs",
-        "Antiek en brocante"
-      ],
       "standCount": 500,
       "sourceUrl": "https://www.wattedoen.be/internationale-rommelmarkt-8735417.shtml"
     },
@@ -1665,10 +1362,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": 150,
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-8751417.shtml"
@@ -1690,10 +1383,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/kloostertuin-rommelmarkt/9b9e938d-9800-4108-bba4-1142763f7ed4"
     },
@@ -1713,10 +1402,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/vrijbroekbazaar-2026-rommelmarkt-in-het-vrijbroekpark/a811ba6f-97fe-43fe-b37e-05a89c85bf9f"
@@ -1738,10 +1423,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-in-de-historische-dreef-van-ternat/78d811e2-7524-44dd-9f55-9ce221a5f1d0"
     },
@@ -1761,10 +1442,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt of braderie",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-sint-joris/f126e0ff-1ce0-4d65-88a2-60a89789e72f"
@@ -1786,10 +1463,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-stationswijk-tielt/5306b4a0-d611-4659-a674-682da56e4d03"
     },
@@ -1810,10 +1483,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/proche-rommelmarkt/4701149f-312a-4cf1-ba52-fd5a8e0c3b18"
     },
@@ -1833,10 +1502,6 @@
       "admission": null,
       "categories": [
         "Tweedehands"
-      ],
-      "categories_old": [
-        "2de hands kledingbeurs",
-        "Creamarkt"
       ],
       "standCount": 50,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133693/veelteveel-x-gazon-antwerpen---closet-sale-and-crafts-antwerpen"
@@ -1861,15 +1526,6 @@
         "Rommelmarkt",
         "Tweedehands"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Brocante beurs",
-        "Openluchtrommelmarkt",
-        "Garageverkopen en rommelmarkt",
-        "2de hands kledingbeurs",
-        "Binnen- en buitenrommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133735/retro-brussels-outdoor-brocante-in-jardin-hospice-brussel"
     },
@@ -1888,9 +1544,6 @@
       "openingHours": "8:30 - 16:00",
       "admission": null,
       "categories": [
-        "Rommelmarkt"
-      ],
-      "categories_old": [
         "Rommelmarkt"
       ],
       "standCount": 60,
@@ -1913,9 +1566,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Openluchtrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133723/sabrinas-rommelmarkten--beveren"
     },
@@ -1936,13 +1586,6 @@
       "categories": [
         "Garageverkoop",
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Garageverkopen",
-        "Openluchtrommelmarkt",
-        "Garageverkopen en rommelmarkt",
-        "Straatrommelmarkt"
       ],
       "standCount": 120,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133490/17de-rommelmarkt---garageverkoop-parochiaal-centrum-herdersem--aalst--herdersem"
@@ -1965,12 +1608,6 @@
         "Garageverkoop",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Garageverkopen en rommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": 90,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133849/nazarethse-rommelmarkt-nazareth"
     },
@@ -1991,15 +1628,6 @@
       "categories": [
         "Brocante",
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Binnen- en buitenrommelmarkt",
-        "Brocante beurs",
-        "Openluchtrommelmarkt",
-        "Binnenrommelmarkt",
-        "Rommelmarkt",
-        "Verzamelbeurs",
-        "Straatrommelmarkt"
       ],
       "standCount": 100,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133930/grote-binnen--en-buitenrommelmarkt--diest"
@@ -2022,10 +1650,6 @@
         "Rommelmarkt",
         "Tweedehands"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "2de hands kledingbeurs"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133570/eppegem-bruist--de-rommelmarkt-eppegem"
     },
@@ -2045,9 +1669,6 @@
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Openluchtrommelmarkt"
       ],
       "standCount": 150,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133702/4de-bascule-rommelmarkt-kapelle-op-den-bos"
@@ -2070,14 +1691,6 @@
         "Rommelmarkt",
         "Tweedehands"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Cd-, platen en boekenbeurs",
-        "Openluchtrommelmarkt",
-        "2de hands speelgoed en baby beurs",
-        "2de hands kledingbeurs",
-        "Straatrommelmarkt"
-      ],
       "standCount": 308,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133821/rommelmarkt-koningslo-vilvoorde"
     },
@@ -2092,22 +1705,13 @@
       "longitude": 3.28727,
       "geoSource": "address",
       "street": "Marktplein",
-      "houseNumber": "10",
+      "houseNumber": null,
       "openingHours": "6:00 - 22:00",
       "admission": null,
       "categories": [
         "Brocante",
         "Garageverkoop",
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Brocante beurs",
-        "Antiekbeurs",
-        "Openluchtrommelmarkt",
-        "Garageverkopen en rommelmarkt",
-        "Kofferbakverkoop",
-        "Straatrommelmarkt"
       ],
       "standCount": 500,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133743/------grote-kuurnse-rommelmarkt-------kuurne"
@@ -2127,10 +1731,6 @@
       "openingHours": "7:00 - 17:00",
       "admission": null,
       "categories": [
-        "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Openluchtrommelmarkt",
         "Rommelmarkt"
       ],
       "standCount": null,
@@ -2153,10 +1753,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Beurs",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/mega-grote-openlucht-rommelmarkt-park-spoor-oost-antwerpen/58261bfe-a488-479e-8925-911f2a24fc8f"
     },
@@ -2176,10 +1772,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt of braderie",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt/c4d7a1a4-f974-4663-a37a-74be78152123"
@@ -2201,10 +1793,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-printaniawijk/d818b437-6fd0-48f4-a48d-a02fa0a2566d"
     },
@@ -2225,10 +1813,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-melody-makers/1f001af5-3a29-4fb2-913d-a6f18992109a"
     },
@@ -2248,10 +1832,6 @@
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt"
       ],
       "standCount": 100,
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-met-zomerbar-8751408.shtml"
@@ -2276,16 +1856,6 @@
         "Rommelmarkt (kinder)",
         "Tweedehands"
       ],
-      "categories_old": [
-        "Straatrommelmarkt",
-        "Tweedehands boekenmarkt",
-        "Openluchtrommelmarkt",
-        "Rommelmarkt",
-        "Kinderrommelmarkt",
-        "2de hands speelgoed en baby beurs",
-        "Garageverkopen en rommelmarkt",
-        "2de hands kledingbeurs"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133890/rommelmarkt-sergeysstraat-herent-herent"
     },
@@ -2306,11 +1876,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133521/rommelstraat-kraaiwinkelstraat-lubbeek"
     },
@@ -2323,18 +1888,13 @@
       "province": "West Flanders",
       "latitude": 51.07629,
       "longitude": 3.17191,
-      "geoSource": "manual",
+      "geoSource": "manualApprox",
       "street": "Baliebrugplein",
       "houseNumber": "1",
       "openingHours": "6:00 - 16:00",
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Straatrommelmarkt"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133617/rommelmarkt-baliebrugge-ruddervoorde-baliebrugge"
@@ -2356,9 +1916,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Straatrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133923/vaartfeesten-sint-kruis"
     },
@@ -2378,10 +1935,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Beurs",
-        "Antiek en brocante"
       ],
       "standCount": 100,
       "sourceUrl": "https://www.wattedoen.be/tweedaagse-openlucht-8746967.shtml"
@@ -2403,10 +1956,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": 170,
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-in-louis-van-8760340.shtml"
     },
@@ -2426,10 +1975,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": 90,
       "sourceUrl": "https://www.wattedoen.be/statierommelmarkt-8758224.shtml"
@@ -2451,10 +1996,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt of braderie",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommeldag-garageverkoop-weert/677a9b94-1f05-4560-9a49-8fa444582791"
     },
@@ -2475,10 +2016,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/jaarlijkse-avond-rommelmarkt-in-genk-boxbergheide/f9b9237e-2096-4688-bb69-398962513724"
     },
@@ -2498,10 +2035,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/28ste-rommelmarkt-zingem/12aca4b5-96f1-4236-a729-6f8e731888ca"
@@ -2524,11 +2057,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Brocante beurs",
-        "Openluchtrommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133053/landen"
     },
@@ -2549,10 +2077,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": 300,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133198/nossegem"
     },
@@ -2567,20 +2091,12 @@
       "longitude": 4.98958,
       "geoSource": "address",
       "street": "St. Genovevaplein",
-      "houseNumber": "29",
+      "houseNumber": null,
       "openingHours": "8:00 - 17:00",
       "admission": null,
       "categories": [
         "Rommelmarkt",
         "Tweedehands"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "2de hands speelgoed en baby beurs",
-        "2de hands kledingbeurs",
-        "Straatrommelmarkt",
-        "Creamarkt"
       ],
       "standCount": 100,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133877/grote-rommelmarkt-en-ambachtenmarkt-oplinter"
@@ -2603,11 +2119,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs",
-        "Openluchtrommelmarkt"
-      ],
       "standCount": 100,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132992/antiek-and-rommelmarkt-te-harelbeke-harelbeke"
     },
@@ -2627,9 +2138,6 @@
       "admission": null,
       "categories": [
         "Garageverkoop"
-      ],
-      "categories_old": [
-        "Garageverkoop op één adres"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133846/garageverkoop---vide-grenier-zedelgem"
@@ -2651,10 +2159,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": 50,
       "sourceUrl": "https://www.wattedoen.be/locht-fieest-8754177.shtml"
     },
@@ -2674,10 +2178,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt of braderie",
-        "Antiek en brocante"
       ],
       "standCount": 80,
       "sourceUrl": "https://www.wattedoen.be/garageverkoop-oudenbos-8716516.shtml"
@@ -2699,10 +2199,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-asiadok-westkaai/996f23e0-7b6c-458f-a498-625e75ecbcab"
     },
@@ -2722,10 +2218,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/32ste-sombeekse-rommelmarkt/8541faaa-f743-4197-b00e-a1f7f0739875"
@@ -2747,10 +2239,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt"
-      ],
       "standCount": 550,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133244/25ste-kermisrommelmarkt-boutersem"
     },
@@ -2771,9 +2259,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Openluchtrommelmarkt"
-      ],
       "standCount": 120,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133747/16de-editie--langdorp"
     },
@@ -2793,11 +2278,6 @@
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Straatrommelmarkt"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133932/brugge"
@@ -2820,11 +2300,6 @@
         "Garageverkoop",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Garageverkopen en rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133686/rond-het-pleintje-in-de-berkenlaan--moorsele"
     },
@@ -2845,10 +2320,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-middelkerke-marktplein/002b5f72-89f8-44eb-99b5-129d840fecd6"
     },
@@ -2867,11 +2338,6 @@
       "openingHours": "8:00 - 16:00",
       "admission": "€ 2,50",
       "categories": [
-        "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Straatrommelmarkt",
-        "Openluchtrommelmarkt",
         "Rommelmarkt"
       ],
       "standCount": null,
@@ -2895,12 +2361,6 @@
         "Garageverkoop",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Garageverkopen",
-        "Garageverkopen en rommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133914/3de-rommelmarkt--merchtem"
     },
@@ -2921,11 +2381,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": 120,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133057/rommelmarkten-opwijk-seizoen-2026---20-jaar-rommelmarkten--opwijk"
     },
@@ -2945,9 +2400,6 @@
       "admission": null,
       "categories": [
         "Garageverkoop"
-      ],
-      "categories_old": [
-        "Garageverkopen"
       ],
       "standCount": 27,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133886/2e-garageverkoop-goetsenhoven-and-meer--tienen"
@@ -2970,10 +2422,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Openluchtrommelmarkt"
-      ],
       "standCount": 100,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132993/antiek-and-rommelmarkt-te-izegem-izegem"
     },
@@ -2988,14 +2436,11 @@
       "longitude": 3.09723,
       "geoSource": "address",
       "street": "Constant Permekelaan",
-      "houseNumber": "63",
+      "houseNumber": null,
       "openingHours": "7:00 - 16:00",
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Openluchtrommelmarkt"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133402/jabbeke-kermis-jabbeke"
@@ -3017,10 +2462,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133832/zeebrugge"
     },
@@ -3035,15 +2476,11 @@
       "longitude": 4.02806,
       "geoSource": "source",
       "street": "Teerlingstraat , Vogelzang , Verkenstraat , Dobbelsteenstraa",
-      "houseNumber": "42",
+      "houseNumber": null,
       "openingHours": "07:00-17:00",
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": 80,
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-heikant-kermis-8759939.shtml"
@@ -3065,10 +2502,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": 100,
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-en-bierfeesten-8757722.shtml"
     },
@@ -3088,10 +2521,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt/e1c93109-762b-47be-9e3f-6ead90f49245"
@@ -3113,10 +2542,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt/30c01b43-f27d-404b-b7d9-430b59f13174"
     },
@@ -3136,10 +2561,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-arbeidstraat-withuisstraat-en-nieuwbeekstraat/b002631f-1027-4d1e-8777-0d66321a1677"
@@ -3161,10 +2582,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/heurnse-rommelmarkt/f02bfa5a-89d2-4b55-8906-e17f9c5529ae"
     },
@@ -3185,10 +2602,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/grote-openlucht-rommelmarkt/fc1d6989-9182-4c7b-8b03-60c3420efca3"
     },
@@ -3208,9 +2621,6 @@
       "admission": "Gratis",
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Openluchtrommelmarkt"
       ],
       "standCount": 300,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132889/grote-rommelmarkt-en-koopjesmarkt-berlaar"
@@ -3234,16 +2644,6 @@
         "Rommelmarkt",
         "Tweedehands"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Tweedehands boekenmarkt",
-        "Brocante beurs",
-        "Antiekbeurs",
-        "Openluchtrommelmarkt",
-        "2de hands speelgoed en baby beurs",
-        "2de hands kledingbeurs",
-        "Straatrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133733/boom"
     },
@@ -3264,10 +2664,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt"
-      ],
       "standCount": 150,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133562/rommelmarkt-f-c--verachtert-westerlo"
     },
@@ -3287,9 +2683,6 @@
       "admission": null,
       "categories": [
         "Garageverkoop"
-      ],
-      "categories_old": [
-        "Garageverkopen"
       ],
       "standCount": 40,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133744/sint-huibrechts-lille"
@@ -3313,12 +2706,6 @@
         "Garageverkoop",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Brocante beurs",
-        "Garageverkopen en rommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133436/ancuro-rommelmarkt-dampoortstraat-gent"
     },
@@ -3339,9 +2726,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133939/2dehands-fietsenverkoop-oudenaarde"
     },
@@ -3360,9 +2744,6 @@
       "openingHours": "8:00 - 16:00",
       "admission": null,
       "categories": [
-        "Rommelmarkt"
-      ],
-      "categories_old": [
         "Rommelmarkt"
       ],
       "standCount": null,
@@ -3386,11 +2767,6 @@
         "Garageverkoop",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Garageverkopen en rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133842/rommelmarkt-en-garageverkoop-wontergem-deinze"
     },
@@ -3410,9 +2786,6 @@
       "admission": null,
       "categories": [
         "Rommelmarkt (kinder)"
-      ],
-      "categories_old": [
-        "Kinderrommelmarkt"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133682/speelgoedmarkt-beveren-leie--waregem-"
@@ -3434,10 +2807,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-hovenierspark/50ed8ea1-ae02-4fa0-9740-eb73678f95bf"
     },
@@ -3457,10 +2826,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/curieuzeneuzen-rommelmarkt/ce30445c-9290-4711-a763-68fab1b0ed85"
@@ -3482,10 +2847,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/garageverkoop-rommelmarkt-lindestraat-bornem/8532bc05-9812-40fd-a15d-d42e3d5099ae"
     },
@@ -3506,10 +2867,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt/780e1686-22da-44f9-b377-ab7ed523dc1c"
     },
@@ -3529,10 +2886,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt of braderie",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-uitkerke-kermis/8f04e3e8-a5b2-44ca-abaf-c80883c81b6b"
@@ -3555,9 +2908,6 @@
         "Garageverkoop",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Garageverkopen en rommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133948/zurenborgse-stoepverkoop-antwerpen"
     },
@@ -3570,7 +2920,7 @@
       "province": "Antwerp",
       "latitude": 51.28594,
       "longitude": 4.50298,
-      "geoSource": "manual",
+      "geoSource": "manualApprox",
       "street": "Mark Verberckplein",
       "houseNumber": null,
       "openingHours": "8:00 - 15:00",
@@ -3578,16 +2928,6 @@
       "categories": [
         "Brocante",
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Cd-, platen en boekenbeurs",
-        "Strip- en Dvd beurs",
-        "Brocante beurs",
-        "Openluchtrommelmarkt",
-        "Braderij",
-        "Binnen- en buitenrommelmarkt",
-        "Inboedelverkoop"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133810/grote-opeluchtrommemarkt-aan-de-braderie-te-brasschaat--brasschaat"
@@ -3609,10 +2949,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Openluchtrommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133729/gezellige-rommelmarkt--heffen"
     },
@@ -3627,13 +2963,10 @@
       "longitude": 4.32704,
       "geoSource": "address",
       "street": "Edward Claessenslaan",
-      "houseNumber": "111",
+      "houseNumber": null,
       "openingHours": "7:00 - 17:00",
       "admission": null,
       "categories": [
-        "Rommelmarkt"
-      ],
-      "categories_old": [
         "Rommelmarkt"
       ],
       "standCount": 200,
@@ -3656,10 +2989,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133929/rommelmarkt-kessel-nijlen"
     },
@@ -3679,11 +3008,6 @@
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Straatrommelmarkt"
       ],
       "standCount": 250,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133799/33ste-rrommelmarkt-te-eik--st-jozef-bilzen--bilzen"
@@ -3706,12 +3030,6 @@
         "Garageverkoop",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Garageverkopen en rommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": 120,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133486/brakel"
     },
@@ -3733,12 +3051,6 @@
         "Garageverkoop",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Garageverkopen en rommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": 380,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132892/grote-jaarlijkse-rommelmarkt-burst-burst---erpe-mere-"
     },
@@ -3758,10 +3070,6 @@
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133105/elversele"
@@ -3783,10 +3091,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133895/kermis-rommelmarkt-lochristi"
     },
@@ -3806,9 +3110,6 @@
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Openluchtrommelmarkt"
       ],
       "standCount": 80,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133677/rommelmarkt-in-de-vakekerkweg-te-maldegem-maldegem"
@@ -3831,13 +3132,6 @@
         "Rommelmarkt",
         "Rommelmarkt (kinder)"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Kinderrommelmarkt",
-        "Rommelmarkt in meubilair",
-        "Straatrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133681/zwalm--sint-denijs-boekel-"
     },
@@ -3856,9 +3150,6 @@
       "openingHours": "9:00 - 16:30",
       "admission": null,
       "categories": [
-        "Rommelmarkt"
-      ],
-      "categories_old": [
         "Rommelmarkt"
       ],
       "standCount": 200,
@@ -3882,9 +3173,6 @@
         "Garageverkoop",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Garageverkopen en rommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133618/garageverkooprommelmarkt-dagwanden-en-omliggende-straten-meise"
     },
@@ -3906,13 +3194,6 @@
         "Garageverkoop",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Garageverkopen",
-        "Openluchtrommelmarkt",
-        "Garageverkopen en rommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": 70,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133915/mollem-rommelt-mollem"
     },
@@ -3931,9 +3212,6 @@
       "openingHours": "6:30 - 17:00",
       "admission": null,
       "categories": [
-        "Rommelmarkt"
-      ],
-      "categories_old": [
         "Rommelmarkt"
       ],
       "standCount": null,
@@ -3956,10 +3234,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Straatrommelmarkt",
-        "Openluchtrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133690/kazandwijk-roeselare"
     },
@@ -3981,12 +3255,6 @@
         "Rommelmarkt",
         "Rommelmarkt (kinder)"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Kinderrommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": 160,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133801/bezoek-onze-gezellige-rommelmarkt--roeselare"
     },
@@ -4001,15 +3269,11 @@
       "longitude": 4.45711,
       "geoSource": "source",
       "street": "Knyffstraat, de Sevillastraat, de Borrekensstraat, Van Erste",
-      "houseNumber": "41",
+      "houseNumber": null,
       "openingHours": "09:30-16:00",
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": 200,
       "sourceUrl": "https://www.wattedoen.be/kriekenbrol-8760523.shtml"
@@ -4031,10 +3295,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": 250,
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-te-eik-in-8753474.shtml"
     },
@@ -4054,10 +3314,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-negenmanneke/0ff55f47-fa83-4c39-a4d4-1274a68f57b2"
@@ -4079,10 +3335,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-groenstraat/5fdea84b-07c5-49d0-a5b7-b7b045219cf4"
     },
@@ -4102,10 +3354,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/43e-kattenbergse-rommelmarkt/9a41e6d0-bc43-4b63-be1c-cb220fb298b8"
@@ -4127,10 +3375,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/grote-ambachten-en-rommelmarkt/373ad7c8-e774-47df-921e-fded72f8cb5c"
     },
@@ -4145,22 +3389,12 @@
       "longitude": 4.71523,
       "geoSource": "address",
       "street": "Martelarenplein",
-      "houseNumber": "1",
+      "houseNumber": null,
       "openingHours": "8:30 - 18:30",
       "admission": null,
       "categories": [
         "Brocante",
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Cd-, platen en boekenbeurs",
-        "Strip- en Dvd beurs",
-        "Brocante beurs",
-        "Openluchtrommelmarkt",
-        "Verzamelbeurs",
-        "Straatrommelmarkt",
-        "Creamarkt"
       ],
       "standCount": 80,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133627/grote-brocanterie-van-de-jaarmarkt---leuven-leuven"
@@ -4181,9 +3415,6 @@
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Openluchtrommelmarkt"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133910/30ste-openluchtrommelmarkt--hingene"
@@ -4207,14 +3438,6 @@
         "Rommelmarkt",
         "Tweedehands"
       ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Strip- en Dvd beurs",
-        "Tweedehands boekenmarkt",
-        "Brocante beurs",
-        "Binnenrommelmarkt",
-        "Verzamelbeurs"
-      ],
       "standCount": 150,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133416/bras-rommelmarkt-mechelen"
     },
@@ -4235,12 +3458,6 @@
       "categories": [
         "Garageverkoop",
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Kerstrommelmarkt",
-        "Openluchtrommelmarkt",
-        "Garageverkopen en rommelmarkt"
       ],
       "standCount": 100,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133906/gezellige-rommelmarkt-teunenberg--olen"
@@ -4263,10 +3480,6 @@
         "Garageverkoop",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Garageverkopen",
-        "Straatrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133633/wuustwezel"
     },
@@ -4286,9 +3499,6 @@
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Openluchtrommelmarkt"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133089/openluchtrommelmarkt-meersestraat-kluisbergen-kluisbergen"
@@ -4310,13 +3520,6 @@
       "categories": [
         "Brocante",
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Brocante beurs",
-        "Antiekbeurs",
-        "Binnenrommelmarkt",
-        "Verzamelbeurs"
       ],
       "standCount": 240,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133528/rommelbeurs--antiek-en-brocante--wieze"
@@ -4341,16 +3544,6 @@
         "Rommelmarkt",
         "Rommelmarkt (kinder)"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Antiekbeurs",
-        "Openluchtrommelmarkt",
-        "Kinderrommelmarkt",
-        "Garageverkopen en rommelmarkt",
-        "Binnen- en buitenrommelmarkt",
-        "Straatrommelmarkt",
-        "Religieuze Beelden"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133941/rommelmarkt-schuiferskapelle-tielt---schuiferskapelle"
     },
@@ -4370,9 +3563,6 @@
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Straatrommelmarkt"
       ],
       "standCount": 100,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133896/gratis-rommelmarkt-te-oostvleteren--oostvleteren"
@@ -4394,10 +3584,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/garage-tuinverkoop-gelijktijdig-in-5-wijken/55cb23cb-e5d5-44d5-ba73-31db3ff8e6fb"
     },
@@ -4417,10 +3603,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-tulpenwijk/489c9ef1-46b5-4ed4-9bf3-511787d2c524"
@@ -4442,9 +3624,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Openluchtrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133921/rommelmarkt-kempisch-dok---eilandje-antwerpen"
     },
@@ -4465,9 +3644,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Binnenrommelmarkt"
-      ],
       "standCount": 40,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133787/kapellen"
     },
@@ -4482,15 +3658,12 @@
       "longitude": 5.55643,
       "geoSource": "address",
       "street": "Hoelbeekstraat",
-      "houseNumber": "81",
+      "houseNumber": null,
       "openingHours": "8:00 - 17:00",
       "admission": "Gratis",
       "categories": [
         "Garageverkoop",
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Garageverkopen en rommelmarkt"
       ],
       "standCount": 100,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133866/garage-verkoop-en-rommelmarkt-hoelbeek-bilzen"
@@ -4512,11 +3685,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133475/0penluchtrommelmarkt-met-kermis-en-randanimatie--meldert"
     },
@@ -4535,9 +3703,6 @@
       "openingHours": "7:00 - 16:00",
       "admission": "Gratis",
       "categories": [
-        "Rommelmarkt"
-      ],
-      "categories_old": [
         "Rommelmarkt"
       ],
       "standCount": null,
@@ -4560,9 +3725,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt"
-      ],
       "standCount": 250,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133374/16e-editie-rommelmarkt-de-houtem-vrienden-te-houtem--aalter-aalter"
     },
@@ -4582,10 +3744,6 @@
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133018/5de-rommelmarkt-met-randanimatie-beerlegem--zwalm-"
@@ -4607,10 +3765,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": 40,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133835/garageverkoop--rommelmarkt-grimbergen"
     },
@@ -4630,12 +3784,6 @@
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Platenbeurs",
-        "Straatrommelmarkt"
       ],
       "standCount": 80,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133807/3de-grote-rommelmarkt--kapelle-op-den-bos"
@@ -4658,12 +3806,6 @@
         "Garageverkoop",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Garageverkopen en rommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": 100,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133689/-groenhoef-rommelt---scherpenheuvel-zichem"
     },
@@ -4683,9 +3825,6 @@
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Openluchtrommelmarkt"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133841/rommelmarkt-steenhuffel-steenhuffel"
@@ -4707,11 +3846,6 @@
       "categories": [
         "Brocante",
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs",
-        "Openluchtrommelmarkt"
       ],
       "standCount": 100,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132905/antiek-and-rommelmarkt-te-kortrijk-kortrijk"
@@ -4735,16 +3869,6 @@
         "Garageverkoop",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Garageverkopen",
-        "Brocante beurs",
-        "Antiekbeurs",
-        "Openluchtrommelmarkt",
-        "Garageverkopen en rommelmarkt",
-        "Braderij",
-        "Straatrommelmarkt"
-      ],
       "standCount": 750,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133718/grote-antiek-en-rommelmarkt-kruiseke-wervik---750-standen----wervik"
     },
@@ -4764,10 +3888,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Beurs",
-        "Antiek en brocante"
       ],
       "standCount": 60,
       "sourceUrl": "https://www.wattedoen.be/grote-openlucht-rommelmarkt-8733613.shtml"
@@ -4789,10 +3909,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt of braderie",
-        "Antiek en brocante"
-      ],
       "standCount": 50,
       "sourceUrl": "https://www.wattedoen.be/5de-editie-rommelmarkt-de-8726350.shtml"
     },
@@ -4812,10 +3928,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": 75,
       "sourceUrl": "https://www.wattedoen.be/7de-rommelmarkt-wijkcomite-8758836.shtml"
@@ -4837,10 +3949,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": 250,
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-korbeek-lo-8747943.shtml"
     },
@@ -4860,10 +3968,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": 200,
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-emi-domein-tpark-8754485.shtml"
@@ -4885,10 +3989,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-bloemenwijk/579559ad-a2c5-4353-a871-1afcc7d03e17"
     },
@@ -4908,10 +4008,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-essen-hoek-op-2e-zondag-van-september/55960df7-4254-4677-a359-abba3d2b1a78"
@@ -4933,10 +4029,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/romelmarkt-garageverkoop/def749db-4b33-4518-bf28-21bcc0afcc52"
     },
@@ -4956,10 +4048,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/30-ste-editie-kermisrommelmarkt-dorpsfeesten-koolskamp/9de64254-d778-4dbd-8352-09ca10945c4b"
@@ -4981,10 +4069,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-militaire-vriendenkring-dilsen/23a714aa-73f3-4522-a9cc-a207957a8970"
     },
@@ -5004,10 +4088,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/brocante-vintage-en-rommelmarkt/5c0f072e-0689-4de7-b334-dcc9af77d40f"
@@ -5029,10 +4109,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-heihoek/0e18b022-8f2a-409b-9c35-a1b3bd63b780"
     },
@@ -5053,10 +4129,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/markt-visart-de-gezelligste-rommelmarkt-van-brugge/89c253fa-31dc-45b1-9dd0-7ec04f6fc757"
     },
@@ -5075,10 +4147,6 @@
       "openingHours": "8:00 - 16:00",
       "admission": null,
       "categories": [
-        "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Straatrommelmarkt",
         "Rommelmarkt"
       ],
       "standCount": null,
@@ -5101,10 +4169,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt of braderie",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/dorpskermis-adinkerke-2026/9a604cee-5c24-4dc4-a8a2-b8b692e9ea7a"
     },
@@ -5125,10 +4189,6 @@
       "categories": [
         "Garageverkoop",
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Garageverkopen en rommelmarkt"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133317/bachtekermis-rommelmarkt-bachte-maria-leerne--deinze-"
@@ -5151,12 +4211,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Brocante beurs",
-        "Antiekbeurs",
-        "Straatrommelmarkt"
-      ],
       "standCount": 50,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133891/rommel---brocante--and-antiekmarkt--kalken"
     },
@@ -5178,12 +4232,6 @@
         "Garageverkoop",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Garageverkopen en rommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133478/rommelmarkt-klein-sinaai-met-loopwedstrijd-tom-van-hooste-and-kidsrun-klein-sinaai"
     },
@@ -5203,10 +4251,6 @@
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Straatrommelmarkt"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133631/buurtfeest-p-v-t-de-wadi-en-l-d-c-de-merelaar-merelbeke-mellle"
@@ -5229,12 +4273,6 @@
         "Rommelmarkt",
         "Tweedehands"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "2de hands speelgoed en baby beurs",
-        "2de hands kledingbeurs"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133561/9de-rommelmarkt-en-100ste-jaarmarkt-schepdaal"
     },
@@ -5254,10 +4292,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": 250,
       "sourceUrl": "https://www.wattedoen.be/7de-vrije-rommelmarkt-8729786.shtml"
@@ -5280,16 +4314,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Cd-, platen en boekenbeurs",
-        "Platen en Cd beurs",
-        "Antiekbeurs",
-        "Openluchtrommelmarkt",
-        "Verzamelbeurs",
-        "Straatrommelmarkt",
-        "Creamarkt"
-      ],
       "standCount": 45,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133635/brocanterie-t-g-v---autovrije-zondag-leuven---leuven"
     },
@@ -5308,9 +4332,6 @@
       "openingHours": "9:30 - 16:00",
       "admission": null,
       "categories": [
-        "Rommelmarkt"
-      ],
-      "categories_old": [
         "Rommelmarkt"
       ],
       "standCount": null,
@@ -5333,11 +4354,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133705/rommelmarkt-wolvertem-wolvertem"
     },
@@ -5358,12 +4374,6 @@
       "categories": [
         "Garageverkoop",
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Garageverkopen en rommelmarkt",
-        "Straatrommelmarkt"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133812/rommelmarkt-sint-denijs-sint-denijs"
@@ -5388,16 +4398,6 @@
         "Rommelmarkt (kinder)",
         "Tweedehands"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Antiekbeurs",
-        "Openluchtrommelmarkt",
-        "Kinderrommelmarkt",
-        "Rommelmarkt in meubilair",
-        "2de hands kledingbeurs",
-        "Braderij",
-        "Straatrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133535/rommelmarkt-in-veldegem-zedelgem"
     },
@@ -5417,10 +4417,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt of braderie",
-        "Antiek en brocante"
       ],
       "standCount": 40,
       "sourceUrl": "https://www.wattedoen.be/vintage-retro-brocanterie-8737313.shtml"
@@ -5442,10 +4438,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt of braderie",
-        "Antiek en brocante"
-      ],
       "standCount": 100,
       "sourceUrl": "https://www.wattedoen.be/antiek-rommelmarkt-te-8728799.shtml"
     },
@@ -5465,10 +4457,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-in-de-vlindertuin/71d74b09-78f0-45bc-986b-6a145332ac9c"
@@ -5490,10 +4478,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/whtm-rommel-en-ambachtenmarkt/6665b75a-ced9-437c-8d02-daf5a117f7d9"
     },
@@ -5514,10 +4498,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt of braderie",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/binnen-rommelmarkt/3593a671-c7fc-45a3-b930-32853b789188"
     },
@@ -5537,10 +4517,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt/937080cc-5ccb-405d-b389-f638c5722a26"
@@ -5565,16 +4541,6 @@
         "Rommelmarkt",
         "Tweedehands"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Garageverkopen",
-        "Brocante beurs",
-        "2de hands speelgoed en baby beurs",
-        "Rommelmarkt in meubilair",
-        "Garageverkopen en rommelmarkt",
-        "2de hands kledingbeurs",
-        "Inboedelverkoop"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133836/rommelmarkt-met-barbecue-geetbets"
     },
@@ -5594,9 +4560,6 @@
       "admission": "€ 2,00",
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Binnen- en buitenrommelmarkt"
       ],
       "standCount": 100,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133546/rommelweekend-zaal-den-akker-rillaar--aarschot--rillaar"
@@ -5618,10 +4581,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Braderij"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133943/rommelmarkt--dorpsfeest-wilsele-wilsele"
     },
@@ -5641,10 +4600,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Beurs",
-        "Antiek en brocante"
       ],
       "standCount": 90,
       "sourceUrl": "https://www.wattedoen.be/garageverkoop-8748834.shtml"
@@ -5666,10 +4621,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Beurs",
-        "Antiek en brocante"
-      ],
       "standCount": 200,
       "sourceUrl": "https://www.wattedoen.be/garageverkoop-rommelmarkt-8759767.shtml"
     },
@@ -5689,10 +4640,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-lozer/2e2f37cc-f92f-40b9-87c7-3b91b2719f86"
@@ -5714,10 +4661,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-met-kinderanimatie/b2d815c8-f03a-405d-b155-5e7983ff2466"
     },
@@ -5737,10 +4680,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/unizo-ingelmunster-rommelmarkt-dd-26-09-2026/1a574776-21d2-4fc6-94be-3e44320f9233"
@@ -5762,11 +4701,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Openluchtrommelmarkt",
-        "Rommelmarkt",
-        "Straatrommelmarkt"
-      ],
       "standCount": 70,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133806/rommelmarkt-zussen-riemst"
     },
@@ -5779,16 +4713,13 @@
       "province": "West Flanders",
       "latitude": 51.09531,
       "longitude": 3.20483,
-      "geoSource": "manual",
+      "geoSource": "manualApprox",
       "street": "Centrum",
       "houseNumber": null,
       "openingHours": "7:00 - 16:00",
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Openluchtrommelmarkt"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133403/ruddervoorde-kermis-ruddervoorde"
@@ -5811,11 +4742,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs",
-        "Openluchtrommelmarkt"
-      ],
       "standCount": 100,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133035/antiek-and-rommelmarkt-te-sint-eloois-vijve--sint-elooi-vijve"
     },
@@ -5835,10 +4761,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": 300,
       "sourceUrl": "https://www.wattedoen.be/dorpsdag-rommelmarkt-8749150.shtml"
@@ -5860,10 +4782,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt of braderie",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/feestelijke-buiten-rommelmarkt/a657e662-5386-44ba-9138-dab62a70237c"
     },
@@ -5883,9 +4801,6 @@
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Openluchtrommelmarkt"
       ],
       "standCount": 150,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133303/jaarlijkse-rommel-en-antiekmarkt-t-g-v--kermis-hamme"
@@ -5907,9 +4822,6 @@
       "categories": [
         "Tweedehands"
       ],
-      "categories_old": [
-        "2de hands speelgoed en baby beurs"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133584/beveren-leie--waregem-"
     },
@@ -5924,15 +4836,11 @@
       "longitude": 3.02069,
       "geoSource": "source",
       "street": "A.coussenstraat",
-      "houseNumber": "1",
+      "houseNumber": null,
       "openingHours": "06:00-18:00",
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt of braderie",
-        "Antiek en brocante"
       ],
       "standCount": 150,
       "sourceUrl": "https://www.wattedoen.be/buitenrommelmarkt-8695151.shtml"
@@ -5954,10 +4862,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/garageverkoop-en-rommelmarkt-schoonderbuken/9a7a023e-a49d-4bfb-acb2-3a5d03bb756f"
     },
@@ -5972,16 +4876,11 @@
       "longitude": 4.42839,
       "geoSource": "address",
       "street": "Waterstraat",
-      "houseNumber": "12",
+      "houseNumber": null,
       "openingHours": "9:00 - 17:00",
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Straatrommelmarkt"
       ],
       "standCount": 60,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133894/ekeren"
@@ -6004,11 +4903,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Verzamelbeurs",
-        "Brocante beurs",
-        "Binnenrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133916/collect-hit-groot---bijgaarden"
     },
@@ -6023,17 +4917,11 @@
       "longitude": 4.85787,
       "geoSource": "address",
       "street": "Kriebekestraat",
-      "houseNumber": "23",
+      "houseNumber": null,
       "openingHours": "10:00 - 17:00",
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Straatrommelmarkt",
-        "Creamarkt"
       ],
       "standCount": 150,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133597/gezellige-rommelmarkt-houwaart"
@@ -6056,11 +4944,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs",
-        "Openluchtrommelmarkt"
-      ],
       "standCount": 100,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133071/antiek-and-rommelmarkt-te-waregem-waregem"
     },
@@ -6079,10 +4962,6 @@
       "openingHours": "17:30 - 22:00",
       "admission": null,
       "categories": [
-        "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Openluchtrommelmarkt",
         "Rommelmarkt"
       ],
       "standCount": null,
@@ -6106,13 +4985,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Brocante beurs",
-        "Antiekbeurs",
-        "Binnenrommelmarkt",
-        "Verzamelbeurs"
-      ],
       "standCount": 240,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133529/rommelbeurs--antiek-en-brocante--wieze"
     },
@@ -6133,10 +5005,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-72ste-breendonk-jaarmarkt/264eda54-5024-41a6-87d9-0f243e845c74"
     },
@@ -6155,9 +5023,6 @@
       "openingHours": "10:00 - 17:00",
       "admission": null,
       "categories": [
-        "Rommelmarkt"
-      ],
-      "categories_old": [
         "Rommelmarkt"
       ],
       "standCount": null,
@@ -6182,16 +5047,6 @@
         "Rommelmarkt",
         "Tweedehands"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Platen en Cd beurs",
-        "Tweedehands boekenmarkt",
-        "Antiekbeurs",
-        "Openluchtrommelmarkt",
-        "Verzamelbeurs",
-        "Straatrommelmarkt",
-        "Creamarkt"
-      ],
       "standCount": 40,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133632/vintage-and-retro-brocanterie---lier-lier"
     },
@@ -6211,11 +5066,6 @@
       "admission": null,
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Straatrommelmarkt"
       ],
       "standCount": 160,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133869/grote-jaarlijkse-rommelmarkt-herzele-centrum--herzele"
@@ -6238,11 +5088,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs",
-        "Binnenrommelmarkt"
-      ],
       "standCount": 125,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133073/antiek-and-rommelmarkt-te-merelbeke-merelbeke"
     },
@@ -6263,10 +5108,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Beurs",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/mega-grote-openlucht-rommelmarkt-park-spoor-oost-antwerpen-l/199db6e9-8c96-4225-8f54-efa84390e53e"
     },
@@ -6285,9 +5126,6 @@
       "openingHours": "10:00-17:00",
       "admission": null,
       "categories": [
-        "Rommelmarkt"
-      ],
-      "categories_old": [
         "Rommelmarkt"
       ],
       "standCount": 80,
@@ -6311,11 +5149,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs",
-        "Binnenrommelmarkt"
-      ],
       "standCount": 100,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133074/antiek-and-rommelmarkt-te-sint-niklaas-sint-niklaas"
     },
@@ -6336,10 +5169,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt of braderie",
-        "Antiek en brocante"
-      ],
       "standCount": 50,
       "sourceUrl": "https://www.wattedoen.be/binnen-rommelmark-afgelast-8699083.shtml"
     },
@@ -6359,10 +5188,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt of braderie",
-        "Antiek en brocante"
       ],
       "standCount": 50,
       "sourceUrl": "https://www.wattedoen.be/binnen-rommelmarkt-8699079.shtml"
@@ -6385,14 +5210,6 @@
         "Rommelmarkt",
         "Tweedehands"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Cd-, platen en boekenbeurs",
-        "Platen en Cd beurs",
-        "Binnenrommelmarkt",
-        "Verzamelbeurs",
-        "2de hands kledingbeurs"
-      ],
       "standCount": 125,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133901/rommelant-tweedaagse-antwerpen"
     },
@@ -6411,9 +5228,6 @@
       "openingHours": "10:00 - 17:00",
       "admission": null,
       "categories": [
-        "Rommelmarkt"
-      ],
-      "categories_old": [
         "Rommelmarkt"
       ],
       "standCount": null,
@@ -6437,11 +5251,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs",
-        "Binnenrommelmarkt"
-      ],
       "standCount": 100,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133075/antiek-and-rommelmarkt-te-sijsele-sijsele"
     },
@@ -6462,12 +5271,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Openluchtrommelmarkt",
-        "Straatrommelmarkt",
-        "Creamarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133044/rommelland-halloweenmarkt-puurs-sint-amands"
     },
@@ -6487,11 +5290,6 @@
       "admission": null,
       "categories": [
         "Tweedehands"
-      ],
-      "categories_old": [
-        "Boekenbeurs",
-        "Tweedehands boekenmarkt",
-        "Verzamelbeurs"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133092/boekenmarkt-kursief-wilrijk"
@@ -6514,11 +5312,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs",
-        "Binnenrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133077/antiek-and-rommelmarkt-te-deinze-deinze"
     },
@@ -6539,9 +5332,6 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Binnenrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133293/gezellige-binnenrommelmarkt-nijlen"
     },
@@ -6560,9 +5350,6 @@
       "openingHours": "10:00-17:00",
       "admission": null,
       "categories": [
-        "Rommelmarkt"
-      ],
-      "categories_old": [
         "Rommelmarkt"
       ],
       "standCount": 80,
@@ -6586,16 +5373,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Cd-, platen en boekenbeurs",
-        "Strip- en Dvd beurs",
-        "Brocante beurs",
-        "Antiekbeurs",
-        "Binnenrommelmarkt",
-        "Verzamelbeurs",
-        "Creamarkt"
-      ],
       "standCount": 85,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133636/brocanterie-brabanthal-leuven-leuven--heverlee-"
     },
@@ -6616,11 +5393,6 @@
       "categories": [
         "Brocante",
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs",
-        "Binnenrommelmarkt"
       ],
       "standCount": 100,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133076/antiek-and-rommelmarkt-te-roeselare-roeselare"
@@ -6643,11 +5415,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Brocante beurs",
-        "Binnenrommelmarkt"
-      ],
       "standCount": 120,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132800/rommelbeurs-sint-lodewijkscollege---org--jovan-sint-andries-brugge"
     },
@@ -6668,10 +5435,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt of braderie",
-        "Antiek en brocante"
-      ],
       "standCount": 100,
       "sourceUrl": "https://www.wattedoen.be/antiek-rommelmarkt-te-8728808.shtml"
     },
@@ -6690,9 +5453,6 @@
       "openingHours": "10:00-17:00",
       "admission": null,
       "categories": [
-        "Rommelmarkt"
-      ],
-      "categories_old": [
         "Rommelmarkt"
       ],
       "standCount": 60,
@@ -6715,10 +5475,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt of braderie",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/binnen-rommelmarkt/730c90d0-b97a-4ef8-8658-e2a480445afe"
     },
@@ -6738,9 +5494,6 @@
       "admission": "€ 2,00",
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Binnenrommelmarkt"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133294/gezellige-binnenrommelmarkt-aarschot"
@@ -6763,11 +5516,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs",
-        "Binnenrommelmarkt"
-      ],
       "standCount": 70,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133078/antiek-and-rommelmarkt-te-tielt-tielt"
     },
@@ -6787,9 +5535,6 @@
       "admission": "€ 4,00",
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Binnenrommelmarkt"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133295/gezellige-binnenrommelmarkt-lommel"
@@ -6812,13 +5557,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Brocante beurs",
-        "Antiekbeurs",
-        "Binnenrommelmarkt",
-        "Verzamelbeurs"
-      ],
       "standCount": 240,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133530/rommelbeurs--antiek-en-brocante--wieze"
     },
@@ -6839,11 +5577,6 @@
       "categories": [
         "Brocante",
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Brocante beurs",
-        "Binnenrommelmarkt"
       ],
       "standCount": 100,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132801/rommelbeurs-jabbeke---org--jovan-jabbeke"
@@ -6866,11 +5599,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs",
-        "Binnenrommelmarkt"
-      ],
       "standCount": 125,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133079/antiek-and-rommelmarkt-te-merelbeke-merelbeke"
     },
@@ -6889,9 +5617,6 @@
       "openingHours": "10:00-17:00",
       "admission": null,
       "categories": [
-        "Rommelmarkt"
-      ],
-      "categories_old": [
         "Rommelmarkt"
       ],
       "standCount": 100,
@@ -6914,10 +5639,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt of braderie",
-        "Antiek en brocante"
-      ],
       "standCount": 150,
       "sourceUrl": "https://www.wattedoen.be/binnen-rommelmarkt-8711718.shtml"
     },
@@ -6937,11 +5658,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs",
-        "Verzamelbeurs"
       ],
       "standCount": 30,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133876/---vintage-reclame-beurs---winter-edition------squadra-lier----lier"
@@ -6964,11 +5680,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Brocante beurs",
-        "Binnenrommelmarkt"
-      ],
       "standCount": 100,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132802/rommelbeurs-oudenburg---org--jovan-oudenburg"
     },
@@ -6990,13 +5701,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Brocante beurs",
-        "Antiekbeurs",
-        "Binnenrommelmarkt",
-        "Verzamelbeurs"
-      ],
       "standCount": 240,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133531/rommelbeurs--antiek-en-brocante--wieze"
     },
@@ -7015,9 +5719,6 @@
       "openingHours": "10:00-17:00",
       "admission": null,
       "categories": [
-        "Rommelmarkt"
-      ],
-      "categories_old": [
         "Rommelmarkt"
       ],
       "standCount": 80,
@@ -7040,9 +5741,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Brocante beurs"
-      ],
       "standCount": 150,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132814/rommel--en-brocantebeurs-flanders-expo-gent"
     },
@@ -7063,11 +5761,6 @@
       "categories": [
         "Brocante",
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs",
-        "Binnenrommelmarkt"
       ],
       "standCount": 75,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133083/antiek-and-rommelmarkt-te-oudenaarde-oudenaarde"
@@ -7090,11 +5783,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs",
-        "Binnenrommelmarkt"
-      ],
       "standCount": 100,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133084/antiek-and-rommelmarkt-te-deinze-deinze"
     },
@@ -7114,9 +5802,6 @@
       "admission": "€ 2,50",
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Binnenrommelmarkt"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133297/gezellige-binnenrommelmarkt-aarschot"
@@ -7138,10 +5823,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt of braderie",
-        "Antiek en brocante"
-      ],
       "standCount": 50,
       "sourceUrl": "https://www.wattedoen.be/binnen-rommelmarkt-8715396.shtml"
     },
@@ -7156,17 +5837,12 @@
       "longitude": 3.20514,
       "geoSource": "address",
       "street": "Vismijnstraat83",
-      "houseNumber": "83",
+      "houseNumber": null,
       "openingHours": "8:30 - 16:00",
       "admission": null,
       "categories": [
         "Brocante",
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs",
-        "Binnenrommelmarkt"
       ],
       "standCount": 80,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132679/antiek-and-rommelmarkt-te-zeebrugge-zeebrugge"
@@ -7189,11 +5865,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs",
-        "Binnenrommelmarkt"
-      ],
       "standCount": 125,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133336/antiek-and-rommelmarkt-te-merelbeke-merelbeke"
     },
@@ -7214,11 +5885,6 @@
       "categories": [
         "Brocante",
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs",
-        "Binnenrommelmarkt"
       ],
       "standCount": 50,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133337/antiek-and-rommelmarkt-te-de-panne-de-panne"
@@ -7241,12 +5907,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Rommelmarkt",
-        "Brocante beurs",
-        "Antiekbeurs",
-        "Binnenrommelmarkt"
-      ],
       "standCount": 100,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133768/antiek-and-rommelmarkt-te-sint-niklaas--sint-niklaas"
     },
@@ -7267,11 +5927,6 @@
       "categories": [
         "Brocante",
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs",
-        "Binnenrommelmarkt"
       ],
       "standCount": 100,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133815/antiek-and-rommelmarkt-te-deinze-deinze"
@@ -7294,11 +5949,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs",
-        "Binnenrommelmarkt"
-      ],
       "standCount": 125,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133816/antiek-and-rommelmarkt-te-merelbeke-merelbeke"
     },
@@ -7318,10 +5968,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt of braderie",
-        "Antiek en brocante"
       ],
       "standCount": 150,
       "sourceUrl": "https://www.wattedoen.be/binnen-rommelmarkt-8725120.shtml"
@@ -7343,10 +5989,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt of braderie",
-        "Antiek en brocante"
-      ],
       "standCount": 100,
       "sourceUrl": "https://www.wattedoen.be/binnen-rommelmarkt-8725201.shtml"
     },
@@ -7366,10 +6008,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs"
       ],
       "standCount": 150,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133817/retro--brocante--vintage-te-kortrijk-kortrijk"
@@ -7392,11 +6030,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs",
-        "Binnenrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133860/antiek-and-rommelmarkt-te-waregem-waregem"
     },
@@ -7417,11 +6050,6 @@
       "categories": [
         "Tweedehands"
       ],
-      "categories_old": [
-        "Platen en Cd beurs",
-        "Tweedehands muziekbeurs",
-        "Tweedehands boekenmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133863/27ste-mega-muziek-beurs---boekenbeurs-te-deinze-deinze"
     },
@@ -7441,9 +6069,6 @@
       "admission": "Gratis",
       "categories": [
         "Rommelmarkt"
-      ],
-      "categories_old": [
-        "Binnenrommelmarkt"
       ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133936/gezellige-rommelmarkt-herentals"
@@ -7466,11 +6091,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs",
-        "Binnenrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133870/antiek-and-rommelmarkt-te-deinze--deinze"
     },
@@ -7492,11 +6112,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs",
-        "Binnenrommelmarkt"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133871/antiek-and-rommelmarkt-te-eeklo--eeklo"
     },
@@ -7517,10 +6132,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/binnen-rommelmarkt/b6a35e14-c558-4773-ac07-942be271f9b4"
     },
@@ -7540,10 +6151,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/binnen-rommelmarkt/7fbb54a0-7a39-4510-b0e1-77b49b4c5ac3"
@@ -7566,11 +6173,6 @@
         "Brocante",
         "Rommelmarkt"
       ],
-      "categories_old": [
-        "Antiekbeurs",
-        "Brocante beurs",
-        "Binnenrommelmarkt"
-      ],
       "standCount": 100,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133769/antiek-and-rommelmarkt-te-sint-niklaas--sint-niklaas"
     },
@@ -7591,10 +6193,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": 80,
       "sourceUrl": "https://www.wattedoen.be/buitenrommelmarkt-8746588.shtml"
     },
@@ -7609,15 +6207,11 @@
       "longitude": 3.25506,
       "geoSource": "source",
       "street": "8310",
-      "houseNumber": "42",
+      "houseNumber": null,
       "openingHours": "08:00-17:00",
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": 40,
       "sourceUrl": "https://www.wattedoen.be/garageverkoop-rommelmarkt-8752929.shtml"
@@ -7639,10 +6233,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": 100,
       "sourceUrl": "https://www.wattedoen.be/buitenrommelmarkt-8752934.shtml"
     },
@@ -7663,10 +6253,6 @@
       "categories": [
         "Brocante"
       ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
-      ],
       "standCount": null,
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/feestelijke-buiten-rommelmarkt/94fa3fae-e04d-4001-8ac0-add9079f8ac8"
     },
@@ -7681,15 +6267,11 @@
       "longitude": 3.24548,
       "geoSource": "source",
       "street": "Arendstraat , Brugsesteenweg , en Omgeving",
-      "houseNumber": "16",
+      "houseNumber": null,
       "openingHours": "06:30-17:30",
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": 100,
       "sourceUrl": "https://www.wattedoen.be/feestelijke-buitenrommelmarkt-8752963.shtml"
@@ -7705,15 +6287,11 @@
       "longitude": 3.0298,
       "geoSource": "source",
       "street": "Aartrijkestraat en Ooievaarstraat",
-      "houseNumber": "1",
+      "houseNumber": null,
       "openingHours": "06:00-18:00",
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": 150,
       "sourceUrl": "https://www.wattedoen.be/buitenrommelmarkt-8753019.shtml"
@@ -7729,15 +6307,11 @@
       "longitude": 3.17839,
       "geoSource": "source",
       "street": "Assestraat",
-      "houseNumber": "1",
+      "houseNumber": null,
       "openingHours": "06:00-18:00",
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": 200,
       "sourceUrl": "https://www.wattedoen.be/buitenrommelmarkt-8760253.shtml"
@@ -7758,10 +6332,6 @@
       "admission": null,
       "categories": [
         "Brocante"
-      ],
-      "categories_old": [
-        "Markt, braderie of kermis",
-        "Antiek en brocante"
       ],
       "standCount": 150,
       "sourceUrl": "https://www.wattedoen.be/buitenrommelmarkt-8760261.shtml"
