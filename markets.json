@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-07T09:26:01.982Z",
-  "count": 311,
+  "generatedAt": "2026-08-11T18:38:05.924Z",
+  "count": 312,
   "markets": [
     {
       "id": "3-51.10673-3.98608-1",
@@ -40,6 +40,11 @@
         "Brocante"
       ],
       "standCount": null,
+      "parkings": [
+        {
+          "label": "Inkom & parking gratis"
+        }
+      ],
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt/88f96eab-27bb-4c14-9db0-aa414338fe43"
     },
     {
@@ -143,27 +148,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/meermarkt/9670bbe1-63f6-4bac-8d74-93faefc3fa6a"
     },
     {
-      "id": "3-51.14288-4.87167-8",
-      "source": "www.uitinvlaanderen.be",
-      "date": "2026-06-20",
-      "municipality": "Olen",
-      "postalCode": "2250",
-      "province": "Antwerp",
-      "latitude": 51.14288,
-      "longitude": 4.87167,
-      "geoSource": "source",
-      "street": "Boerenkrijglaan",
-      "houseNumber": "51E",
-      "openingHours": null,
-      "admission": null,
-      "categories": [
-        "Brocante"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-teunenberg/bbe4dfb4-5234-4ab0-a51d-9aedf667f575"
-    },
-    {
-      "id": "3-51.22245-4.26006-9",
+      "id": "3-51.22245-4.26006-8",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-06-28",
       "municipality": "Beveren",
@@ -180,10 +165,15 @@
         "Brocante"
       ],
       "standCount": null,
+      "parkings": [
+        {
+          "label": "parking voorzien naast speelplein Bartje"
+        }
+      ],
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/openluchtrommelmarkt-te-beveren-waas/d102296e-27a8-4f80-bc4c-0e3502abb97d"
     },
     {
-      "id": "3-50.78798-5.3901-10",
+      "id": "3-50.78798-5.3901-9",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-07-09",
       "municipality": "Kuttekoven",
@@ -203,7 +193,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt/e5be5815-101c-4b4e-af0b-d6af72d702b9"
     },
     {
-      "id": "3-51.16991-2.77188-11",
+      "id": "3-51.16991-2.77188-10",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-07-16",
       "municipality": "Westende",
@@ -223,7 +213,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-op-de-zeedijk/7aac7d73-9e9d-46d9-bec8-2a7e8180045c"
     },
     {
-      "id": "3-51.17039-4.14273-12",
+      "id": "3-51.17039-4.14273-11",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-07-18",
       "municipality": "Sint-Niklaas",
@@ -243,660 +233,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/brocante-en-rommelmarkt/8695be60-1636-4795-977a-9415df023467"
     },
     {
-      "id": "1-51.05097-4.61364-13",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-05",
-      "municipality": "Putte",
-      "postalCode": "2580",
-      "province": "Antwerp",
-      "latitude": 51.05097,
-      "longitude": 4.61364,
-      "geoSource": "address",
-      "street": "Mechelbaan",
-      "houseNumber": "604",
-      "openingHours": "14:00 - 19:00",
-      "admission": null,
-      "categories": [
-        "Rommelmarkt"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133741/gezellige-wekelijkse-binnenrommelmarkt-putte"
-    },
-    {
-      "id": "3-50.76234-5.0937-14",
-      "source": "www.uitinvlaanderen.be",
-      "date": "2026-08-07",
-      "municipality": "Attenhoven",
-      "postalCode": "3404",
-      "province": "Flemish Brabant",
-      "latitude": 50.76234,
-      "longitude": 5.0937,
-      "geoSource": "source",
-      "street": "Kalisgroenstraat",
-      "houseNumber": null,
-      "openingHours": null,
-      "admission": null,
-      "categories": [
-        "Brocante"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-attenhoven/73db51c3-ecef-4089-b772-299b8059c394"
-    },
-    {
-      "id": "1-51.295-4.47986-15",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-08",
-      "municipality": "Brasschaat",
-      "postalCode": "2930",
-      "province": "Antwerp",
-      "latitude": 51.295,
-      "longitude": 4.47986,
-      "geoSource": "address",
-      "street": "Hanendreef",
-      "houseNumber": null,
-      "openingHours": "9:00 - 16:00",
-      "admission": null,
-      "categories": [
-        "Garageverkoop",
-        "Rommelmarkt"
-      ],
-      "standCount": 70,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133878/brasschaat"
-    },
-    {
-      "id": "1-51.14095-4.87053-16",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-08",
-      "municipality": "Olen",
-      "postalCode": "2250",
-      "province": "Antwerp",
-      "latitude": 51.14095,
-      "longitude": 4.87053,
-      "geoSource": "address",
-      "street": "Boerenkrijglaan",
-      "houseNumber": "51",
-      "openingHours": "8:00 - 16:00",
-      "admission": "Gratis",
-      "categories": [
-        "Rommelmarkt"
-      ],
-      "standCount": 150,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133432/gezellige-rommelmarkt-teunenberg-olen"
-    },
-    {
-      "id": "1-51.17548-4.52276-17",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-08",
-      "municipality": "Vremde",
-      "postalCode": "2531",
-      "province": "Antwerp",
-      "latitude": 51.17548,
-      "longitude": 4.52276,
-      "geoSource": "address",
-      "street": "Dorpsplaats",
-      "houseNumber": null,
-      "openingHours": "9:00 - 16:00",
-      "admission": null,
-      "categories": [
-        "Rommelmarkt"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133473/rommel--en-ambachtenmarkt-vremde"
-    },
-    {
-      "id": "1-51.07968-4.81854-18",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-08",
-      "municipality": "Westerlo Heultje",
-      "postalCode": "2260",
-      "province": "Antwerp",
-      "latitude": 51.07968,
-      "longitude": 4.81854,
-      "geoSource": "address",
-      "street": "Kempische Ardennen",
-      "houseNumber": "4",
-      "openingHours": "13:30 - 19:00",
-      "admission": null,
-      "categories": [
-        "Rommelmarkt"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132830/avondrommelmarkt-westerlo-heultje"
-    },
-    {
-      "id": "1-51.02693-5.2374-19",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-08",
-      "municipality": "Heusden-Zolder",
-      "postalCode": "3550",
-      "province": "Limburg",
-      "latitude": 51.02693,
-      "longitude": 5.2374,
-      "geoSource": "address",
-      "street": "Butastraat",
-      "houseNumber": "20",
-      "openingHours": "8:30 - 14:00",
-      "admission": "€ 5",
-      "categories": [
-        "Rommelmarkt"
-      ],
-      "standCount": 50,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133782/---rommelmarkt-kaj-eversel----heusden-zolder"
-    },
-    {
-      "id": "1-51.01216-5.12347-20",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-08",
-      "municipality": "Lummen",
-      "postalCode": "3560",
-      "province": "Limburg",
-      "latitude": 51.01216,
-      "longitude": 5.12347,
-      "geoSource": "address",
-      "street": "Grote Baan",
-      "houseNumber": "45",
-      "openingHours": "8:30 - 18:00",
-      "admission": null,
-      "categories": [
-        "Garageverkoop"
-      ],
-      "standCount": 100,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133611/grote-garageverkoop-llummen-en-deelgemeenten--lummen"
-    },
-    {
-      "id": "1-51.05782-3.70396-21",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-08",
-      "municipality": "Gent",
-      "postalCode": "9000",
-      "province": "East Flanders",
-      "latitude": 51.05782,
-      "longitude": 3.70396,
-      "geoSource": "address",
-      "street": "Kettingstraat",
-      "houseNumber": null,
-      "openingHours": "8:30 - 17:00",
-      "admission": null,
-      "categories": [
-        "Brocante",
-        "Garageverkoop",
-        "Rommelmarkt"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133547/24ste-grote-rommelmarkt--wellicht-de-bijzonderste-van-vlaanderen--gent"
-    },
-    {
-      "id": "1-50.93424-3.53887-22",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-08",
-      "municipality": "Kruisem",
-      "postalCode": "9770",
-      "province": "East Flanders",
-      "latitude": 50.93424,
-      "longitude": 3.53887,
-      "geoSource": "address",
-      "street": "Passionistenstraat",
-      "houseNumber": "1",
-      "openingHours": "8:30 - 16:00",
-      "admission": null,
-      "categories": [
-        "Rommelmarkt",
-        "Rommelmarkt (kinder)"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133707/23ste-kinder-en-rommelmarkt-kruisem"
-    },
-    {
-      "id": "1-50.74661-3.61194-23",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-08",
-      "municipality": "Ronse",
-      "postalCode": "9600",
-      "province": "East Flanders",
-      "latitude": 50.74661,
-      "longitude": 3.61194,
-      "geoSource": "address",
-      "street": "Grote Marijve /Grand Marijve",
-      "houseNumber": null,
-      "openingHours": "8:00 - 18:00",
-      "admission": null,
-      "categories": [
-        "Garageverkoop",
-        "Rommelmarkt"
-      ],
-      "standCount": 80,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133847/ronsiese-rommelmarkt-ronse"
-    },
-    {
-      "id": "1-50.83817-4.11639-24",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-08",
-      "municipality": "Roosdaal",
-      "postalCode": "1760",
-      "province": "Flemish Brabant",
-      "latitude": 50.83817,
-      "longitude": 4.11639,
-      "geoSource": "address",
-      "street": "Kristus Koninglaan",
-      "houseNumber": null,
-      "openingHours": "16:00 - 21:00",
-      "admission": null,
-      "categories": [
-        "Rommelmarkt"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133420/4de-ambachten--en-rommelmarkt-roosdaal"
-    },
-    {
-      "id": "1-51.33767-3.24608-25",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-08",
-      "municipality": "Knokke-Heist",
-      "postalCode": "8301",
-      "province": "West Flanders",
-      "latitude": 51.33767,
-      "longitude": 3.24608,
-      "geoSource": "address",
-      "street": "Polderstraat",
-      "houseNumber": "70",
-      "openingHours": "8:00 - 17:00",
-      "admission": null,
-      "categories": [
-        "Rommelmarkt"
-      ],
-      "standCount": 200,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133688/polderfeesten-2026-knokke-heist"
-    },
-    {
-      "id": "3-51.28896-5.0535-26",
-      "source": "www.uitinvlaanderen.be",
-      "date": "2026-08-08",
-      "municipality": "Retie",
-      "postalCode": "2470",
-      "province": "Antwerp",
-      "latitude": 51.28896,
-      "longitude": 5.0535,
-      "geoSource": "source",
-      "street": "Kerkplein",
-      "houseNumber": null,
-      "openingHours": null,
-      "admission": null,
-      "categories": [
-        "Brocante"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt/7ec35d87-cbcb-4107-8fe8-6dad3ba0fe9e"
-    },
-    {
-      "id": "1-51.20709-4.42971-27",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-09",
-      "municipality": "Antwerpen",
-      "postalCode": "2018",
-      "province": "Antwerp",
-      "latitude": 51.20709,
-      "longitude": 4.42971,
-      "geoSource": "address",
-      "street": "Dageraadplaats",
-      "houseNumber": null,
-      "openingHours": "9:00 - 18:00",
-      "admission": null,
-      "categories": [
-        "Rommelmarkt"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133114/antwerpen"
-    },
-    {
-      "id": "1-51.12434-4.61757-28",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-09",
-      "municipality": "Berlaar",
-      "postalCode": "2590",
-      "province": "Antwerp",
-      "latitude": 51.12434,
-      "longitude": 4.61757,
-      "geoSource": "address",
-      "street": "Liersesteenweg",
-      "houseNumber": "350",
-      "openingHours": "9:00 - 16:00",
-      "admission": null,
-      "categories": [
-        "Rommelmarkt"
-      ],
-      "standCount": 70,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132765/rommelmarkt-klj-berlaar-berlaar"
-    },
-    {
-      "id": "1-51.17084-4.45667-29",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-09",
-      "municipality": "Mortsel",
-      "postalCode": "2640",
-      "province": "Antwerp",
-      "latitude": 51.17084,
-      "longitude": 4.45667,
-      "geoSource": "address",
-      "street": "Stadsplein",
-      "houseNumber": null,
-      "openingHours": "10:00 - 17:00",
-      "admission": null,
-      "categories": [
-        "Rommelmarkt"
-      ],
-      "standCount": 100,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133452/mortsel"
-    },
-    {
-      "id": "1-51.06816-5.00567-30",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-09",
-      "municipality": "Veerle Laakdal",
-      "postalCode": "2431",
-      "province": "Antwerp",
-      "latitude": 51.06816,
-      "longitude": 5.00567,
-      "geoSource": "address",
-      "street": "Maekelhoeve z/n (doorrijden einde straat)",
-      "houseNumber": null,
-      "openingHours": "9:00 - 15:00",
-      "admission": null,
-      "categories": [
-        "Rommelmarkt"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133215/veerle-laakdal"
-    },
-    {
-      "id": "1-51.20635-4.76935-31",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-09",
-      "municipality": "Vorselaar",
-      "postalCode": "2290",
-      "province": "Antwerp",
-      "latitude": 51.20635,
-      "longitude": 4.76935,
-      "geoSource": "address",
-      "street": "Kuiperstraat",
-      "houseNumber": null,
-      "openingHours": "7:00 - 16:00",
-      "admission": null,
-      "categories": [
-        "Rommelmarkt"
-      ],
-      "standCount": 250,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133789/rommelmarkt-vorselaar-vorselaar"
-    },
-    {
-      "id": "1-50.89758-5.27582-32",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-09",
-      "municipality": "Alken",
-      "postalCode": "3570",
-      "province": "Limburg",
-      "latitude": 50.89758,
-      "longitude": 5.27582,
-      "geoSource": "address",
-      "street": "Parkstraat",
-      "houseNumber": "1",
-      "openingHours": "9:00 - 16:00",
-      "admission": null,
-      "categories": [
-        "Rommelmarkt"
-      ],
-      "standCount": 200,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133492/rommelmarkthobbymarkt-alken"
-    },
-    {
-      "id": "1-50.74267-5.21402-33",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-09",
-      "municipality": "Jeuk",
-      "postalCode": "3890",
-      "province": "Limburg",
-      "latitude": 50.74267,
-      "longitude": 5.21402,
-      "geoSource": "address",
-      "street": "Houtstraat z/n",
-      "houseNumber": null,
-      "openingHours": "8:00 - 17:00",
-      "admission": null,
-      "categories": [
-        "Rommelmarkt"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133576/rommelmarkt-vannitsen-jeuk"
-    },
-    {
-      "id": "1-50.81426-5.59698-34",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-09",
-      "municipality": "Riemst",
-      "postalCode": "3770",
-      "province": "Limburg",
-      "latitude": 50.81426,
-      "longitude": 5.59698,
-      "geoSource": "address",
-      "street": "Reeckervelt",
-      "houseNumber": "3",
-      "openingHours": "8:30 - 16:00",
-      "admission": "Gratis",
-      "categories": [
-        "Rommelmarkt",
-        "Rommelmarkt (kinder)"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133797/riemst"
-    },
-    {
-      "id": "1-51.03606-4.1628-35",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-09",
-      "municipality": "Baasrode (dendermonde)",
-      "postalCode": "9200",
-      "province": "East Flanders",
-      "latitude": 51.03606,
-      "longitude": 4.1628,
-      "geoSource": "address",
-      "street": "Dorpsplein min 70 Standplaatsen",
-      "houseNumber": null,
-      "openingHours": "9:00 - 17:00",
-      "admission": null,
-      "categories": [
-        "Rommelmarkt"
-      ],
-      "standCount": 70,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133912/pinas-jaarlijkse-openluchtrommelmarkten-baasrode---dendermonde---baasrode--dendermonde-"
-    },
-    {
-      "id": "1-50.88332-4.01-36",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-09",
-      "municipality": "Denderhoutem",
-      "postalCode": "9450",
-      "province": "East Flanders",
-      "latitude": 50.88332,
-      "longitude": 4.01,
-      "geoSource": "manual",
-      "geoStreet": "Daal 22",
-      "street": "Van Daal 22, Vondelen,Stukje Koekelberg Anderenbroek tot Ninovestraat 146.",
-      "houseNumber": null,
-      "openingHours": "7:00 - 17:00",
-      "admission": null,
-      "categories": [
-        "Garageverkoop",
-        "Rommelmarkt",
-        "Rommelmarkt (kinder)"
-      ],
-      "standCount": 800,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132821/5de-atomse-rommelmarkt-volzet-denderhoutem"
-    },
-    {
-      "id": "1-50.98737-3.74387-37",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-09",
-      "municipality": "Merelbeke - Melle",
-      "postalCode": "9820",
-      "province": "East Flanders",
-      "latitude": 50.98737,
-      "longitude": 3.74387,
-      "geoSource": "address",
-      "street": "Cornelius Sneyssenslaan en aanpalende straten",
-      "houseNumber": null,
-      "openingHours": "9:00 - 16:30",
-      "admission": "Gratis",
-      "categories": [
-        "Garageverkoop"
-      ],
-      "standCount": 100,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133408/15de-garageverkoop-cornelius-sneyssenslaan-en-aanpalende-straten-merelbeke---melle"
-    },
-    {
-      "id": "1-50.88448-3.84186-38",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-09",
-      "municipality": "Zottegem / Leeuwergem",
-      "postalCode": "9620",
-      "province": "East Flanders",
-      "latitude": 50.88448,
-      "longitude": 3.84186,
-      "geoSource": "address",
-      "street": "Wassenhovestraat",
-      "houseNumber": "78",
-      "openingHours": "9:00 - 17:00",
-      "admission": null,
-      "categories": [
-        "Garageverkoop",
-        "Rommelmarkt"
-      ],
-      "standCount": 130,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133670/3de-wassenhoofse-brocante-rommelmarkt-zottegem--leeuwergem"
-    },
-    {
-      "id": "1-50.84556-3.2622-39",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-09",
-      "municipality": "Kortrijk",
-      "postalCode": "8500",
-      "province": "West Flanders",
-      "latitude": 50.84556,
-      "longitude": 3.2622,
-      "geoSource": "address",
-      "street": "Ringlaan",
-      "houseNumber": "34",
-      "openingHours": "8:00 - 14:00",
-      "admission": null,
-      "categories": [
-        "Brocante",
-        "Rommelmarkt"
-      ],
-      "standCount": 100,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132904/antiek-and-rommelmarkt-te-kortrijk-kortrijk"
-    },
-    {
-      "id": "1-50.9384-2.93267-40",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-09",
-      "municipality": "Langemark-Poelkapelle",
-      "postalCode": "8920",
-      "province": "West Flanders",
-      "latitude": 50.9384,
-      "longitude": 2.93267,
-      "geoSource": "address",
-      "street": "Klerkenstraat",
-      "houseNumber": "166",
-      "openingHours": "5:00 - 17:00",
-      "admission": null,
-      "categories": [
-        "Rommelmarkt",
-        "Rommelmarkt (kinder)"
-      ],
-      "standCount": 300,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133781/----gratis-rommelmarkt-----langemark-poelkapelle"
-    },
-    {
-      "id": "2-51.12952-3.02743-41",
-      "source": "www.wattedoen.be",
-      "date": "2026-08-09",
-      "municipality": "Eernegem",
-      "postalCode": "8480",
-      "province": "West Flanders",
-      "latitude": 51.12952,
-      "longitude": 3.02743,
-      "geoSource": "source",
-      "street": "J.boedtslaan",
-      "houseNumber": "1",
-      "openingHours": "06:00-18:00",
-      "admission": null,
-      "categories": [
-        "Brocante"
-      ],
-      "standCount": 150,
-      "sourceUrl": "https://www.wattedoen.be/buitenrommelmarkt-8683603.shtml"
-    },
-    {
-      "id": "3-51.11808-2.68073-42",
-      "source": "www.uitinvlaanderen.be",
-      "date": "2026-08-09",
-      "municipality": "Koksijde",
-      "postalCode": "8670",
-      "province": "West Flanders",
-      "latitude": 51.11808,
-      "longitude": 2.68073,
-      "geoSource": "source",
-      "street": "Centrum",
-      "houseNumber": null,
-      "openingHours": null,
-      "admission": null,
-      "categories": [
-        "Brocante"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-in-oostduinkerke-dorp/6b30e953-8c63-4629-b9d1-c625bd879b7a"
-    },
-    {
-      "id": "1-50.94555-5.35579-43",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-10",
-      "municipality": "Hasselt",
-      "postalCode": "3500",
-      "province": "Limburg",
-      "latitude": 50.94555,
-      "longitude": 5.35579,
-      "geoSource": "address",
-      "street": "Merellaan",
-      "houseNumber": "17",
-      "openingHours": "16:00 - 21:00",
-      "admission": null,
-      "categories": [
-        "Brocante"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133442/avondmarkt-banneuxwijk-hasselt-hasselt"
-    },
-    {
-      "id": "1-50.85804-3.63273-44",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-10",
-      "municipality": "Oudenaarde /Ename",
-      "postalCode": "9700",
-      "province": "East Flanders",
-      "latitude": 50.85804,
-      "longitude": 3.63273,
-      "geoSource": "address",
-      "street": "Abdijstraat",
-      "houseNumber": null,
-      "openingHours": "8:00 - 17:00",
-      "admission": null,
-      "categories": [
-        "Garageverkoop",
-        "Rommelmarkt"
-      ],
-      "standCount": 80,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133848/rommelmarkt-jaarmarkt-tijdens-feeste-t-ename-oudenaarde-ename"
-    },
-    {
-      "id": "1-51.05314-4.77933-45",
+      "id": "1-51.05314-4.77933-12",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-11",
       "municipality": "Booischot",
@@ -916,7 +253,27 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133907/booischot"
     },
     {
-      "id": "1-51.02537-3.81329-46",
+      "id": "1-51.05097-4.61364-13",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-08-12",
+      "municipality": "Putte",
+      "postalCode": "2580",
+      "province": "Antwerp",
+      "latitude": 51.05097,
+      "longitude": 4.61364,
+      "geoSource": "address",
+      "street": "Mechelbaan",
+      "houseNumber": "604",
+      "openingHours": "14:00 - 19:00",
+      "admission": null,
+      "categories": [
+        "Rommelmarkt"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133741/gezellige-wekelijkse-binnenrommelmarkt-putte"
+    },
+    {
+      "id": "1-51.02537-3.81329-14",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-14",
       "municipality": "Destelbergen",
@@ -936,7 +293,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133513/jaarlijkse-rommelmarkt-magerstraat-heusden--destelbergen"
     },
     {
-      "id": "3-51.09796-2.59125-47",
+      "id": "3-51.09796-2.59125-15",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-08-14",
       "municipality": "De Panne",
@@ -956,7 +313,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/42ste-rommelmarkt-van-het-feestcomite-panne-centrum/5b5686d9-d883-4216-ad63-f5da9b6d34ad"
     },
     {
-      "id": "1-51.20361-4.38847-48",
+      "id": "1-51.20361-4.38847-16",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-15",
       "municipality": "Antwerpen",
@@ -976,7 +333,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133818/feest-van-alledaagse-waanzin-antwerpen"
     },
     {
-      "id": "1-51.21286-4.42092-49",
+      "id": "1-51.21286-4.42092-17",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-15",
       "municipality": "Antwerpen",
@@ -993,10 +350,15 @@
         "Rommelmarkt"
       ],
       "standCount": null,
+      "parkings": [
+        {
+          "label": "parkeren onder het station"
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133940/antwerpen"
     },
     {
-      "id": "1-51.10276-4.36933-50",
+      "id": "1-51.10276-4.36933-18",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-15",
       "municipality": "Boom",
@@ -1016,7 +378,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132972/gezellige-rommelmarkt-parkbuurt-boom-boom"
     },
     {
-      "id": "1-51.16202-4.60567-51",
+      "id": "1-51.16202-4.60567-19",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-15",
       "municipality": "Emblem",
@@ -1036,7 +398,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133947/rommelmarkt-emblem-emblem"
     },
     {
-      "id": "1-51.23912-4.81942-52",
+      "id": "1-51.23912-4.81942-20",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-15",
       "municipality": "Lille",
@@ -1056,7 +418,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133749/grote-rommelmarkt--lille"
     },
     {
-      "id": "1-50.7835-5.41886-53",
+      "id": "1-50.7835-5.41886-21",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-15",
       "municipality": "Tongeren-Borgloon",
@@ -1077,7 +439,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133692/rommelmarkt-piringen-tongeren-borgloon"
     },
     {
-      "id": "1-51.1082-3.69203-54",
+      "id": "1-51.1082-3.69203-22",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-15",
       "municipality": "Evergem",
@@ -1098,27 +460,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133892/garageverkoop-potterie-evergem-evergem"
     },
     {
-      "id": "1-51.0691-3.73899-55",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-08-15",
-      "municipality": "Gent",
-      "postalCode": "9000",
-      "province": "East Flanders",
-      "latitude": 51.0691,
-      "longitude": 3.73899,
-      "geoSource": "address",
-      "street": "Scandinaviëstraat",
-      "houseNumber": null,
-      "openingHours": "10:00 - 18:00",
-      "admission": null,
-      "categories": [
-        "Rommelmarkt"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133671/gratis-rommelmarkt-scandinavi-straat-gent--gent"
-    },
-    {
-      "id": "1-50.97046-3.47376-56",
+      "id": "1-50.97046-3.47376-23",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-15",
       "municipality": "Grammene",
@@ -1139,7 +481,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132990/antiek-and-rommelmarkt-te-grammene-grammene"
     },
     {
-      "id": "1-51.09061-4.14317-57",
+      "id": "1-51.09061-4.14317-24",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-15",
       "municipality": "Hamme ( Bij St-Niklaas )",
@@ -1156,10 +498,15 @@
         "Rommelmarkt"
       ],
       "standCount": 120,
+      "parkings": [
+        {
+          "label": "PARKING + DOMEIN van de Sportbasisschool \" GO"
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133827/pinas-jaarlijkse-rommelmarkt-15-augustus-hamme---bij-st-niklaas---hamme---bij-st-niklaas--"
     },
     {
-      "id": "1-51.10549-3.83106-58",
+      "id": "1-51.10549-3.83106-25",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-15",
       "municipality": "Lochristi",
@@ -1180,7 +527,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133774/rommelmarkt-openlucht-tijdens-wijkkermis-lochristi-lochristi"
     },
     {
-      "id": "1-50.8235-4.65794-59",
+      "id": "1-50.8235-4.65794-26",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-15",
       "municipality": "Oud-Heverlee",
@@ -1199,10 +546,15 @@
         "Tweedehands"
       ],
       "standCount": 93,
+      "parkings": [
+        {
+          "label": "Parking Zoet Water"
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133626/grote-brocanterie-van-zoet-water---oud-herverlee-oud-heverlee"
     },
     {
-      "id": "1-50.81644-4.93303-60",
+      "id": "1-50.81644-4.93303-27",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-15",
       "municipality": "Tienen",
@@ -1223,7 +575,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133805/rommelmarkt--buurtfeest-tienen"
     },
     {
-      "id": "1-51.20637-3.18334-61",
+      "id": "1-51.20637-3.18334-28",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-15",
       "municipality": "Brugge St-Andries",
@@ -1243,7 +595,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133775/24ste-feestrommelmarkt-met-gratis-mini-festival--brugge-st-andries"
     },
     {
-      "id": "1-50.85044-3.09402-62",
+      "id": "1-50.85044-3.09402-29",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-15",
       "municipality": "Dadizele",
@@ -1265,7 +617,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133519/rommelmarkt-dadizele"
     },
     {
-      "id": "1-51.05314-3.01457-63",
+      "id": "1-51.05314-3.01457-30",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-15",
       "municipality": "Kortemark",
@@ -1286,7 +638,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133664/kortemark"
     },
     {
-      "id": "1-50.82828-2.67969-64",
+      "id": "1-50.82828-2.67969-31",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-15",
       "municipality": "Poperinge",
@@ -1307,7 +659,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133804/poperinge"
     },
     {
-      "id": "2-50.86138-3.37009-65",
+      "id": "2-50.86138-3.37009-32",
       "source": "www.wattedoen.be",
       "date": "2026-08-15",
       "municipality": "Deerlijk",
@@ -1327,7 +679,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelmarkten-8724729.shtml"
     },
     {
-      "id": "2-51.18345-3.00598-66",
+      "id": "2-51.18345-3.00598-33",
       "source": "www.wattedoen.be",
       "date": "2026-08-15",
       "municipality": "Oudenburg",
@@ -1347,7 +699,7 @@
       "sourceUrl": "https://www.wattedoen.be/internationale-rommelmarkt-8735417.shtml"
     },
     {
-      "id": "2-50.98477-2.65831-67",
+      "id": "2-50.98477-2.65831-34",
       "source": "www.wattedoen.be",
       "date": "2026-08-15",
       "municipality": "Izenberge",
@@ -1367,7 +719,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-8751417.shtml"
     },
     {
-      "id": "3-50.76688-3.87354-68",
+      "id": "3-50.76688-3.87354-35",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-08-15",
       "municipality": "Geraardsbergen",
@@ -1387,7 +739,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/kloostertuin-rommelmarkt/9b9e938d-9800-4108-bba4-1142763f7ed4"
     },
     {
-      "id": "3-51.02003-4.46399-69",
+      "id": "3-51.02003-4.46399-36",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-08-15",
       "municipality": "Mechelen",
@@ -1404,10 +756,15 @@
         "Brocante"
       ],
       "standCount": null,
+      "parkings": [
+        {
+          "label": "Parkeren doe je op de Eekhoornparking"
+        }
+      ],
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/vrijbroekbazaar-2026-rommelmarkt-in-het-vrijbroekpark/a811ba6f-97fe-43fe-b37e-05a89c85bf9f"
     },
     {
-      "id": "3-50.87152-4.17428-70",
+      "id": "3-50.87152-4.17428-37",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-08-15",
       "municipality": "Ternat",
@@ -1424,10 +781,15 @@
         "Brocante"
       ],
       "standCount": null,
+      "parkings": [
+        {
+          "label": "parking van De Brug"
+        }
+      ],
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-in-de-historische-dreef-van-ternat/78d811e2-7524-44dd-9f55-9ce221a5f1d0"
     },
     {
-      "id": "3-51.1302-2.77843-71",
+      "id": "3-51.1302-2.77843-38",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-08-15",
       "municipality": "Nieuwpoort",
@@ -1447,7 +809,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-sint-joris/f126e0ff-1ce0-4d65-88a2-60a89789e72f"
     },
     {
-      "id": "3-50.99096-3.33042-72",
+      "id": "3-50.99096-3.33042-39",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-08-15",
       "municipality": "Schuiferskapelle",
@@ -1467,7 +829,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-stationswijk-tielt/5306b4a0-d611-4659-a674-682da56e4d03"
     },
     {
-      "id": "3-51.05996-4.11267-73",
+      "id": "3-51.05996-4.11267-40",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-08-15",
       "municipality": "Dendermonde",
@@ -1484,10 +846,35 @@
         "Brocante"
       ],
       "standCount": null,
+      "parkings": [
+        {
+          "label": "er zijn parkeerplaatsen voorzien"
+        }
+      ],
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/proche-rommelmarkt/4701149f-312a-4cf1-ba52-fd5a8e0c3b18"
     },
     {
-      "id": "1-51.23369-4.40207-74",
+      "id": "3-51.06657-5.03706-41",
+      "source": "www.uitinvlaanderen.be",
+      "date": "2026-08-15",
+      "municipality": "Tessenderlo",
+      "postalCode": "3980",
+      "province": "Limburg",
+      "latitude": 51.06657,
+      "longitude": 5.03706,
+      "geoSource": "source",
+      "street": "Sint-Jozefsplein 1 - Schoot",
+      "houseNumber": null,
+      "openingHours": null,
+      "admission": null,
+      "categories": [
+        "Brocante"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/feest-in-het-dorp-schoot-2026/9c82d8f1-e783-4bcc-a52e-6b0334e5d591"
+    },
+    {
+      "id": "1-51.23369-4.40207-42",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-16",
       "municipality": "Antwerpen",
@@ -1507,7 +894,125 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133693/veelteveel-x-gazon-antwerpen---closet-sale-and-crafts-antwerpen"
     },
     {
-      "id": "1-50.85344-4.3501-75",
+      "id": "1-51.22213-4.44841-43",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-08-16",
+      "municipality": "Antwerpen",
+      "postalCode": "2140",
+      "province": "Antwerp",
+      "latitude": 51.22213,
+      "longitude": 4.44841,
+      "geoSource": "address",
+      "street": "Noordersingel",
+      "houseNumber": null,
+      "openingHours": "10:00 - 17:00",
+      "admission": null,
+      "categories": [
+        "Rommelmarkt"
+      ],
+      "standCount": null,
+      "parkings": [
+        {
+          "label": "Parking Park Spoor Oost Antwerpen (Locatie Sinksefoor)"
+        }
+      ],
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133457/antwerpen"
+    },
+    {
+      "id": "1-51.28165-4.44932-44",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-08-16",
+      "municipality": "Ekeren",
+      "postalCode": "2180",
+      "province": "Antwerp",
+      "latitude": 51.28165,
+      "longitude": 4.44932,
+      "geoSource": "address",
+      "street": "Jozef Ickxstraat",
+      "houseNumber": "44",
+      "openingHours": "10:00 - 17:00",
+      "admission": null,
+      "categories": [
+        "Rommelmarkt"
+      ],
+      "standCount": 100,
+      "parkings": [
+        {
+          "label": "Parkeren kan in de omliggende straten of Park Hof de Bist"
+        }
+      ],
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133904/17de-editie-straatrommelmarkt--ekeren"
+    },
+    {
+      "id": "1-51.13135-4.56892-45",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-08-16",
+      "municipality": "Lier",
+      "postalCode": "2500",
+      "province": "Antwerp",
+      "latitude": 51.13135,
+      "longitude": 4.56892,
+      "geoSource": "address",
+      "street": "Grote Markt",
+      "houseNumber": null,
+      "openingHours": "9:00 - 18:00",
+      "admission": null,
+      "categories": [
+        "Brocante",
+        "Rommelmarkt",
+        "Tweedehands"
+      ],
+      "standCount": 40,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133629/vintage-and-retro-brocanterie---lier-lier"
+    },
+    {
+      "id": "1-51.30455-4.29126-46",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-08-16",
+      "municipality": "Lillo",
+      "postalCode": "2040",
+      "province": "Antwerp",
+      "latitude": 51.30455,
+      "longitude": 4.29126,
+      "geoSource": "address",
+      "street": "Kazerneplein",
+      "houseNumber": null,
+      "openingHours": "9:00 - 17:00",
+      "admission": "Gratis",
+      "categories": [
+        "Brocante",
+        "Rommelmarkt"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132958/---50e-editie-van-de-sjachermarkt----lillo"
+    },
+    {
+      "id": "1-51.06816-5.00567-47",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-08-16",
+      "municipality": "Veerle Laakdal",
+      "postalCode": "2431",
+      "province": "Antwerp",
+      "latitude": 51.06816,
+      "longitude": 5.00567,
+      "geoSource": "address",
+      "street": "Maekelhoeve z/n (doorrijden einde straat)",
+      "houseNumber": null,
+      "openingHours": "9:00 - 15:00",
+      "admission": null,
+      "categories": [
+        "Rommelmarkt"
+      ],
+      "standCount": null,
+      "parkings": [
+        {
+          "label": "op de parking vanaf 7u00"
+        }
+      ],
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133215/veerle-laakdal"
+    },
+    {
+      "id": "1-50.85344-4.3501-48",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-16",
       "municipality": "Brussel",
@@ -1530,7 +1035,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133735/retro-brussels-outdoor-brocante-in-jardin-hospice-brussel"
     },
     {
-      "id": "1-51.12219-5.58179-76",
+      "id": "1-51.12219-5.58179-49",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-16",
       "municipality": "Bree",
@@ -1550,7 +1055,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133406/rommelmarkt-vzw-be-happy-bree"
     },
     {
-      "id": "1-51.2215-4.27724-77",
+      "id": "1-51.2215-4.27724-50",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-16",
       "municipality": "Beveren",
@@ -1570,7 +1075,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133723/sabrinas-rommelmarkten--beveren"
     },
     {
-      "id": "1-50.96991-4.06591-78",
+      "id": "1-50.96991-4.06591-51",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-16",
       "municipality": "Herdersem",
@@ -1591,7 +1096,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133490/17de-rommelmarkt---garageverkoop-parochiaal-centrum-herdersem--aalst--herdersem"
     },
     {
-      "id": "1-50.95025-3.56748-79",
+      "id": "1-50.95025-3.56748-52",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-16",
       "municipality": "Nazareth",
@@ -1609,10 +1114,41 @@
         "Rommelmarkt"
       ],
       "standCount": 90,
+      "parkings": [
+        {
+          "label": "parkeren in de nabijheid van de markt"
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133849/nazarethse-rommelmarkt-nazareth"
     },
     {
-      "id": "1-50.98715-5.03996-80",
+      "id": "1-51.0208-4.12473-53",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-08-16",
+      "municipality": "Sint-Gillis Dendermonde",
+      "postalCode": "9200",
+      "province": "East Flanders",
+      "latitude": 51.0208,
+      "longitude": 4.12473,
+      "geoSource": "address",
+      "street": "Torrestraat",
+      "houseNumber": "35",
+      "openingHours": "10:00 - 18:00",
+      "admission": null,
+      "categories": [
+        "Rommelmarkt",
+        "Rommelmarkt (kinder)"
+      ],
+      "standCount": 100,
+      "parkings": [
+        {
+          "label": "De standplaats is gratis en je kan je wagen bij je standje parkeren"
+        }
+      ],
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133282/vemmekensspoeliong-sint-gillis-dendermonde"
+    },
+    {
+      "id": "1-50.98715-5.03996-54",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-16",
       "municipality": "Diest",
@@ -1630,10 +1166,15 @@
         "Rommelmarkt"
       ],
       "standCount": 100,
+      "parkings": [
+        {
+          "label": "parking is er voorzien aan Karteria, den Amer Nijverheidslaan, de Boudewijnvest (met blauwe schijf)"
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133930/grote-binnen--en-buitenrommelmarkt--diest"
     },
     {
-      "id": "1-50.9646-4.46032-81",
+      "id": "1-50.9646-4.46032-55",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-16",
       "municipality": "Eppegem",
@@ -1654,7 +1195,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133570/eppegem-bruist--de-rommelmarkt-eppegem"
     },
     {
-      "id": "1-50.99986-4.3693-82",
+      "id": "1-50.99986-4.3693-56",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-16",
       "municipality": "Kapelle-Op-Den-Bos",
@@ -1674,7 +1215,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133702/4de-bascule-rommelmarkt-kapelle-op-den-bos"
     },
     {
-      "id": "1-50.91313-4.37959-83",
+      "id": "1-50.91313-4.37959-57",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-16",
       "municipality": "Vilvoorde",
@@ -1695,7 +1236,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133821/rommelmarkt-koningslo-vilvoorde"
     },
     {
-      "id": "1-50.85032-3.28727-84",
+      "id": "1-50.85032-3.28727-58",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-16",
       "municipality": "Kuurne",
@@ -1714,10 +1255,15 @@
         "Rommelmarkt"
       ],
       "standCount": 500,
+      "parkings": [
+        {
+          "label": "PARKING voor bezoekers: 📍 Kubox – Kattestraat 188 📍 Sportpark – Nieuwenhuyse 49 📍 Centrumschool – Veldm"
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133743/------grote-kuurnse-rommelmarkt-------kuurne"
     },
     {
-      "id": "1-50.77744-3.04151-85",
+      "id": "1-50.77744-3.04151-59",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-16",
       "municipality": "Wervik",
@@ -1737,67 +1283,27 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132954/rommelmarkt-and-zomerkermis-wervik"
     },
     {
-      "id": "3-51.22345-4.44594-86",
-      "source": "www.uitinvlaanderen.be",
+      "id": "2-50.73637-4.2372-60",
+      "source": "www.wattedoen.be",
       "date": "2026-08-16",
-      "municipality": "Borgerhout",
-      "postalCode": "2140",
-      "province": "Antwerp",
-      "latitude": 51.22345,
-      "longitude": 4.44594,
+      "municipality": "Halle",
+      "postalCode": "1500",
+      "province": "Flemish Brabant",
+      "latitude": 50.73637,
+      "longitude": 4.2372,
       "geoSource": "source",
-      "street": "Noordersingel",
-      "houseNumber": "5",
-      "openingHours": null,
-      "admission": null,
-      "categories": [
-        "Brocante"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/mega-grote-openlucht-rommelmarkt-park-spoor-oost-antwerpen/58261bfe-a488-479e-8925-911f2a24fc8f"
-    },
-    {
-      "id": "3-51.31358-3.13275-87",
-      "source": "www.uitinvlaanderen.be",
-      "date": "2026-08-16",
-      "municipality": "Blankenberge",
-      "postalCode": "8370",
-      "province": "West Flanders",
-      "latitude": 51.31358,
-      "longitude": 3.13275,
-      "geoSource": "source",
-      "street": "Koning Leopold III plein",
+      "street": "Grote Markt",
       "houseNumber": null,
-      "openingHours": null,
+      "openingHours": "08:00-13:00",
       "admission": null,
       "categories": [
         "Brocante"
       ],
-      "standCount": null,
-      "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt/c4d7a1a4-f974-4663-a37a-74be78152123"
+      "standCount": 200,
+      "sourceUrl": "https://www.wattedoen.be/maandelijkse-rommelmarkt-8761077.shtml"
     },
     {
-      "id": "3-50.97995-2.95059-88",
-      "source": "www.uitinvlaanderen.be",
-      "date": "2026-08-16",
-      "municipality": "Klerken",
-      "postalCode": "8650",
-      "province": "West Flanders",
-      "latitude": 50.97995,
-      "longitude": 2.95059,
-      "geoSource": "source",
-      "street": "Leeuweriksstraat",
-      "houseNumber": "1",
-      "openingHours": null,
-      "admission": null,
-      "categories": [
-        "Brocante"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-printaniawijk/d818b437-6fd0-48f4-a48d-a02fa0a2566d"
-    },
-    {
-      "id": "3-51.22386-2.91999-89",
+      "id": "3-51.22386-2.91999-61",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-08-16",
       "municipality": "Stene",
@@ -1817,7 +1323,132 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-melody-makers/1f001af5-3a29-4fb2-913d-a6f18992109a"
     },
     {
-      "id": "2-50.97503-5.22328-90",
+      "id": "3-51.31358-3.13275-62",
+      "source": "www.uitinvlaanderen.be",
+      "date": "2026-08-16",
+      "municipality": "Blankenberge",
+      "postalCode": "8370",
+      "province": "West Flanders",
+      "latitude": 51.31358,
+      "longitude": 3.13275,
+      "geoSource": "source",
+      "street": "Koning Leopold III plein",
+      "houseNumber": null,
+      "openingHours": null,
+      "admission": null,
+      "categories": [
+        "Brocante"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt/c4d7a1a4-f974-4663-a37a-74be78152123"
+    },
+    {
+      "id": "3-50.97995-2.95059-63",
+      "source": "www.uitinvlaanderen.be",
+      "date": "2026-08-16",
+      "municipality": "Klerken",
+      "postalCode": "8650",
+      "province": "West Flanders",
+      "latitude": 50.97995,
+      "longitude": 2.95059,
+      "geoSource": "source",
+      "street": "Leeuweriksstraat",
+      "houseNumber": "1",
+      "openingHours": null,
+      "admission": null,
+      "categories": [
+        "Brocante"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-printaniawijk/d818b437-6fd0-48f4-a48d-a02fa0a2566d"
+    },
+    {
+      "id": "1-51.0776-4.20404-64",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-08-22",
+      "municipality": "Bornem",
+      "postalCode": "2880",
+      "province": "Antwerp",
+      "latitude": 51.0776,
+      "longitude": 4.20404,
+      "geoSource": "address",
+      "street": "Riddermoerstraat",
+      "houseNumber": null,
+      "openingHours": "9:00 - 18:00",
+      "admission": null,
+      "categories": [
+        "Garageverkoop",
+        "Rommelmarkt"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133699/brocanst-bornem"
+    },
+    {
+      "id": "1-51.09246-4.24233-65",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-08-22",
+      "municipality": "Bornem",
+      "postalCode": "2880",
+      "province": "Antwerp",
+      "latitude": 51.09246,
+      "longitude": 4.24233,
+      "geoSource": "postal",
+      "street": "Slijkneuzenplein",
+      "houseNumber": null,
+      "openingHours": "9:30 - 18:00",
+      "admission": null,
+      "categories": [
+        "Brocante",
+        "Garageverkoop",
+        "Rommelmarkt",
+        "Tweedehands"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133824/weertse-rommelmarkt-bornem"
+    },
+    {
+      "id": "1-51.17682-4.83639-66",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-08-22",
+      "municipality": "Herentals",
+      "postalCode": "2200",
+      "province": "Antwerp",
+      "latitude": 51.17682,
+      "longitude": 4.83639,
+      "geoSource": "address",
+      "street": "Grote Markt z/n",
+      "houseNumber": null,
+      "openingHours": "10:00 - 17:00",
+      "admission": null,
+      "categories": [
+        "Brocante",
+        "Rommelmarkt"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132946/brocante--en-rommelmarkt-herentals"
+    },
+    {
+      "id": "1-51.10278-4.72942-67",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-08-22",
+      "municipality": "Itegem",
+      "postalCode": "2222",
+      "province": "Antwerp",
+      "latitude": 51.10278,
+      "longitude": 4.72942,
+      "geoSource": "address",
+      "street": "Sint Guibertusplein",
+      "houseNumber": null,
+      "openingHours": "8:00 - 15:00",
+      "admission": "Gratis",
+      "categories": [
+        "Rommelmarkt"
+      ],
+      "standCount": 40,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133839/itegem"
+    },
+    {
+      "id": "2-50.97503-5.22328-68",
       "source": "www.wattedoen.be",
       "date": "2026-08-22",
       "municipality": "Lummen",
@@ -1837,7 +1468,139 @@
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-met-zomerbar-8751408.shtml"
     },
     {
-      "id": "1-50.90118-4.67567-91",
+      "id": "1-51.03881-3.74311-69",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-08-22",
+      "municipality": "Ledeberg",
+      "postalCode": "9050",
+      "province": "East Flanders",
+      "latitude": 51.03881,
+      "longitude": 3.74311,
+      "geoSource": "address",
+      "street": "August Van Lokerenstraat",
+      "houseNumber": null,
+      "openingHours": "8:00 - 18:00",
+      "admission": null,
+      "categories": [
+        "Rommelmarkt"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133958/rommelmarkt-ledebergse-feesten-2026-ledeberg"
+    },
+    {
+      "id": "1-51.21577-3.44052-70",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-08-22",
+      "municipality": "Maldegem",
+      "postalCode": "9990",
+      "province": "East Flanders",
+      "latitude": 51.21577,
+      "longitude": 3.44052,
+      "geoSource": "address",
+      "street": "Ivo Vermeerschlaan",
+      "houseNumber": null,
+      "openingHours": "7:00 - 16:00",
+      "admission": null,
+      "categories": [
+        "Rommelmarkt"
+      ],
+      "standCount": 100,
+      "parkings": [
+        {
+          "label": "parking in de directe nabijheid"
+        }
+      ],
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133676/gezellige-rommelmarkt-met-iets-meer-dan-100-standplaatsen--maldegem"
+    },
+    {
+      "id": "1-51.02023-3.77193-71",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-08-22",
+      "municipality": "Merelbeke - Melle",
+      "postalCode": "9090",
+      "province": "East Flanders",
+      "latitude": 51.02023,
+      "longitude": 3.77193,
+      "geoSource": "address",
+      "street": "Wautersdreef",
+      "houseNumber": "25",
+      "openingHours": "9:00 - 18:00",
+      "admission": null,
+      "categories": [
+        "Rommelmarkt"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133759/vogelhoek-feest-26-merelbeke---melle"
+    },
+    {
+      "id": "1-50.84713-3.60167-72",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-08-22",
+      "municipality": "Oudenaarde",
+      "postalCode": "9700",
+      "province": "East Flanders",
+      "latitude": 50.84713,
+      "longitude": 3.60167,
+      "geoSource": "address",
+      "street": "Stationsstraat",
+      "houseNumber": null,
+      "openingHours": "8:00 - 17:00",
+      "admission": null,
+      "categories": [
+        "Garageverkoop",
+        "Rommelmarkt"
+      ],
+      "standCount": 90,
+      "parkings": [
+        {
+          "label": "Parking Gobelinstraat/J.Lacopstraat Parcours van 1200 meter"
+        }
+      ],
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133850/statierommelmarkt-oudenaarde"
+    },
+    {
+      "id": "1-51.16869-4.14224-73",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-08-22",
+      "municipality": "Sint-Niklaas",
+      "postalCode": "9100",
+      "province": "East Flanders",
+      "latitude": 51.16869,
+      "longitude": 4.14224,
+      "geoSource": "address",
+      "street": "Stationsstraat",
+      "houseNumber": null,
+      "openingHours": "10:00 - 18:00",
+      "admission": null,
+      "categories": [
+        "Brocante",
+        "Rommelmarkt"
+      ],
+      "standCount": 35,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133259/brocanterie-met-artisanale-makersmarkt---sint-niklaas--sint-niklaas"
+    },
+    {
+      "id": "1-51.171-4.1437-74",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-08-22",
+      "municipality": "Sint-Niklaas",
+      "postalCode": "9100",
+      "province": "East Flanders",
+      "latitude": 51.171,
+      "longitude": 4.1437,
+      "geoSource": "address",
+      "street": "Stationsplein",
+      "houseNumber": null,
+      "openingHours": "10:00 - 18:00",
+      "admission": null,
+      "categories": [
+        "Rommelmarkt"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133868/gezellige-rommelmarkt-sint-niklaas"
+    },
+    {
+      "id": "1-50.90118-4.67567-75",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-22",
       "municipality": "Herent",
@@ -1860,7 +1623,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133890/rommelmarkt-sergeysstraat-herent-herent"
     },
     {
-      "id": "1-50.89441-4.82278-92",
+      "id": "1-50.89441-4.82278-76",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-22",
       "municipality": "Lubbeek",
@@ -1877,10 +1640,15 @@
         "Rommelmarkt"
       ],
       "standCount": null,
+      "parkings": [
+        {
+          "label": "Parkeren"
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133521/rommelstraat-kraaiwinkelstraat-lubbeek"
     },
     {
-      "id": "1-51.07629-3.17191-93",
+      "id": "1-51.07629-3.17191-77",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-22",
       "municipality": "Ruddervoorde Baliebrugge",
@@ -1900,7 +1668,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133617/rommelmarkt-baliebrugge-ruddervoorde-baliebrugge"
     },
     {
-      "id": "1-51.2266-3.2446-94",
+      "id": "1-51.2266-3.2446-78",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-22",
       "municipality": "Sint-Kruis",
@@ -1920,7 +1688,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133923/vaartfeesten-sint-kruis"
     },
     {
-      "id": "2-51.15201-4.58062-95",
+      "id": "2-51.15201-4.58062-79",
       "source": "www.wattedoen.be",
       "date": "2026-08-22",
       "municipality": "Emblem",
@@ -1940,17 +1708,17 @@
       "sourceUrl": "https://www.wattedoen.be/tweedaagse-openlucht-8746967.shtml"
     },
     {
-      "id": "2-51.04188-3.74491-96",
+      "id": "2-51.04191-3.74512-80",
       "source": "www.wattedoen.be",
       "date": "2026-08-22",
       "municipality": "Ledeberg",
       "postalCode": "9050",
       "province": "East Flanders",
-      "latitude": 51.04188,
-      "longitude": 3.74491,
+      "latitude": 51.04191,
+      "longitude": 3.74512,
       "geoSource": "source",
-      "street": "Louis Van Houttestraat 68 -",
-      "houseNumber": "118",
+      "street": "Louis Van Houttestraat",
+      "houseNumber": null,
       "openingHours": "08:00-18:00",
       "admission": null,
       "categories": [
@@ -1960,27 +1728,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-in-louis-van-8760340.shtml"
     },
     {
-      "id": "2-50.85017-3.6008-97",
-      "source": "www.wattedoen.be",
-      "date": "2026-08-22",
-      "municipality": "Oudenaarde",
-      "postalCode": "9700",
-      "province": "East Flanders",
-      "latitude": 50.85017,
-      "longitude": 3.6008,
-      "geoSource": "source",
-      "street": "station Oudenaarde",
-      "houseNumber": null,
-      "openingHours": "08:00-17:00",
-      "admission": null,
-      "categories": [
-        "Brocante"
-      ],
-      "standCount": 90,
-      "sourceUrl": "https://www.wattedoen.be/statierommelmarkt-8758224.shtml"
-    },
-    {
-      "id": "3-51.09553-4.19527-98",
+      "id": "3-51.09553-4.19527-81",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-08-22",
       "municipality": "Bornem",
@@ -2000,7 +1748,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommeldag-garageverkoop-weert/677a9b94-1f05-4560-9a49-8fa444582791"
     },
     {
-      "id": "3-50.97411-5.44733-99",
+      "id": "3-50.97411-5.44733-82",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-08-22",
       "municipality": "Genk",
@@ -2020,7 +1768,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/jaarlijkse-avond-rommelmarkt-in-genk-boxbergheide/f9b9237e-2096-4688-bb69-398962513724"
     },
     {
-      "id": "3-50.90471-3.65557-100",
+      "id": "3-50.90471-3.65557-83",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-08-22",
       "municipality": "Huise",
@@ -2040,7 +1788,47 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/28ste-rommelmarkt-zingem/12aca4b5-96f1-4236-a729-6f8e731888ca"
     },
     {
-      "id": "1-50.73364-5.07237-101",
+      "id": "1-50.93609-4.02292-84",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-08-23",
+      "municipality": "Aalst",
+      "postalCode": "9300",
+      "province": "East Flanders",
+      "latitude": 50.93609,
+      "longitude": 4.02292,
+      "geoSource": "address",
+      "street": "Molendreef",
+      "houseNumber": null,
+      "openingHours": "9:00 - 17:00",
+      "admission": null,
+      "categories": [
+        "Rommelmarkt"
+      ],
+      "standCount": 250,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133292/grote-rommelmarkt-molendreefwijk-aalst-aalst"
+    },
+    {
+      "id": "1-51.3104-4.25821-85",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-08-23",
+      "municipality": "Doel (beveren -Kruibeke- Zwijndrecht)",
+      "postalCode": "9130",
+      "province": "East Flanders",
+      "latitude": 51.3104,
+      "longitude": 4.25821,
+      "geoSource": "address",
+      "street": "Engelsesteenweg",
+      "houseNumber": null,
+      "openingHours": "10:00 - 18:00",
+      "admission": null,
+      "categories": [
+        "Rommelmarkt"
+      ],
+      "standCount": 200,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133833/50ste-scheldewijding-and-doelse-feesten--doel--beveren--kruibeke--zwijndrecht-"
+    },
+    {
+      "id": "1-50.73364-5.07237-86",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-23",
       "municipality": "Landen",
@@ -2061,7 +1849,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133053/landen"
     },
     {
-      "id": "1-50.88019-4.50486-102",
+      "id": "1-50.88019-4.50486-87",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-23",
       "municipality": "Nossegem",
@@ -2081,7 +1869,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133198/nossegem"
     },
     {
-      "id": "1-50.82916-4.98958-103",
+      "id": "1-50.82916-4.98958-88",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-23",
       "municipality": "Oplinter",
@@ -2102,7 +1890,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133877/grote-rommelmarkt-en-ambachtenmarkt-oplinter"
     },
     {
-      "id": "1-50.84382-3.30981-104",
+      "id": "1-50.84382-3.30981-89",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-23",
       "municipality": "Harelbeke",
@@ -2120,10 +1908,15 @@
         "Rommelmarkt"
       ],
       "standCount": 100,
+      "parkings": [
+        {
+          "label": "Parking Forestierstadion"
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132992/antiek-and-rommelmarkt-te-harelbeke-harelbeke"
     },
     {
-      "id": "1-51.13816-3.13561-105",
+      "id": "1-51.13816-3.13561-90",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-23",
       "municipality": "Zedelgem",
@@ -2143,17 +1936,17 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133846/garageverkoop---vide-grenier-zedelgem"
     },
     {
-      "id": "2-51.14481-5.3621-106",
+      "id": "2-51.1448-5.3621-91",
       "source": "www.wattedoen.be",
       "date": "2026-08-23",
       "municipality": "Hechtel-Eksel",
       "postalCode": "3940",
       "province": "Limburg",
-      "latitude": 51.14481,
+      "latitude": 51.1448,
       "longitude": 5.3621,
       "geoSource": "source",
       "street": "Lochtstraat",
-      "houseNumber": null,
+      "houseNumber": "44a",
       "openingHours": "09:00-17:00",
       "admission": null,
       "categories": [
@@ -2163,7 +1956,7 @@
       "sourceUrl": "https://www.wattedoen.be/locht-fieest-8754177.shtml"
     },
     {
-      "id": "2-51.09469-3.91532-107",
+      "id": "2-51.09469-3.91532-92",
       "source": "www.wattedoen.be",
       "date": "2026-08-23",
       "municipality": "Lokeren",
@@ -2183,7 +1976,7 @@
       "sourceUrl": "https://www.wattedoen.be/garageverkoop-oudenbos-8716516.shtml"
     },
     {
-      "id": "3-51.23276-4.4174-108",
+      "id": "3-51.23276-4.4174-93",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-08-23",
       "municipality": "Antwerpen",
@@ -2203,7 +1996,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-asiadok-westkaai/996f23e0-7b6c-458f-a498-625e75ecbcab"
     },
     {
-      "id": "3-51.1136-4.12512-109",
+      "id": "3-51.1136-4.12512-94",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-08-23",
       "municipality": "Waasmunster",
@@ -2223,7 +2016,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/32ste-sombeekse-rommelmarkt/8541faaa-f743-4197-b00e-a1f7f0739875"
     },
     {
-      "id": "1-50.83343-4.86174-110",
+      "id": "1-50.83343-4.86174-95",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-29",
       "municipality": "Boutersem",
@@ -2243,7 +2036,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133244/25ste-kermisrommelmarkt-boutersem"
     },
     {
-      "id": "1-51.02956-4.91644-111",
+      "id": "1-51.02956-4.91644-96",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-29",
       "municipality": "Langdorp",
@@ -2263,7 +2056,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133747/16de-editie--langdorp"
     },
     {
-      "id": "1-51.21836-3.2193-112",
+      "id": "1-51.21836-3.2193-97",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-29",
       "municipality": "Brugge",
@@ -2283,7 +2076,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133932/brugge"
     },
     {
-      "id": "1-50.8441-3.16673-113",
+      "id": "1-50.8441-3.16673-98",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-29",
       "municipality": "Moorsele",
@@ -2304,7 +2097,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133686/rond-het-pleintje-in-de-berkenlaan--moorsele"
     },
     {
-      "id": "3-51.18657-2.82229-114",
+      "id": "3-51.18657-2.82229-99",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-08-29",
       "municipality": "Middelkerke",
@@ -2324,7 +2117,27 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-middelkerke-marktplein/002b5f72-89f8-44eb-99b5-129d840fecd6"
     },
     {
-      "id": "1-50.8434-5.44845-115",
+      "id": "3-50.7416-4.22025-100",
+      "source": "www.uitinvlaanderen.be",
+      "date": "2026-08-29",
+      "municipality": "Halle",
+      "postalCode": "1500",
+      "province": "Flemish Brabant",
+      "latitude": 50.7416,
+      "longitude": 4.22025,
+      "geoSource": "source",
+      "street": "Victor Demesmaekerstraat",
+      "houseNumber": null,
+      "openingHours": null,
+      "admission": null,
+      "categories": [
+        "Brocante"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/garageverkoop-wijk-wolvendries/2468c184-cbef-4cc1-b65c-350701d48be8"
+    },
+    {
+      "id": "1-50.8434-5.44845-101",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-30",
       "municipality": "Bilzen-Hoeselt",
@@ -2344,7 +2157,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133642/rommelmarkt-schalkhoven-bilzen-hoeselt"
     },
     {
-      "id": "1-50.96156-4.24223-116",
+      "id": "1-50.96156-4.24223-102",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-30",
       "municipality": "Merchtem",
@@ -2365,7 +2178,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133914/3de-rommelmarkt--merchtem"
     },
     {
-      "id": "1-50.96991-4.18895-117",
+      "id": "1-50.96991-4.18895-103",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-30",
       "municipality": "Opwijk",
@@ -2385,7 +2198,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133057/rommelmarkten-opwijk-seizoen-2026---20-jaar-rommelmarkten--opwijk"
     },
     {
-      "id": "1-50.7686-4.95671-118",
+      "id": "1-50.7686-4.95671-104",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-30",
       "municipality": "Tienen",
@@ -2405,7 +2218,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133886/2e-garageverkoop-goetsenhoven-and-meer--tienen"
     },
     {
-      "id": "1-50.90492-3.23557-119",
+      "id": "1-50.90492-3.23557-105",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-30",
       "municipality": "Izegem",
@@ -2426,7 +2239,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132993/antiek-and-rommelmarkt-te-izegem-izegem"
     },
     {
-      "id": "1-51.18151-3.09723-120",
+      "id": "1-51.18151-3.09723-106",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-30",
       "municipality": "Jabbeke",
@@ -2446,7 +2259,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133402/jabbeke-kermis-jabbeke"
     },
     {
-      "id": "1-51.33012-3.2093-121",
+      "id": "1-51.33012-3.2093-107",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-30",
       "municipality": "Zeebrugge",
@@ -2466,7 +2279,32 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133832/zeebrugge"
     },
     {
-      "id": "2-51.21627-4.02806-122",
+      "id": "2-50.88185-3.62626-108",
+      "source": "www.wattedoen.be",
+      "date": "2026-08-30",
+      "municipality": "Heume",
+      "postalCode": "9700",
+      "province": "East Flanders",
+      "latitude": 50.88185,
+      "longitude": 3.62626,
+      "geoSource": "source",
+      "street": "Heurnestraat",
+      "houseNumber": null,
+      "openingHours": "08:00-17:00",
+      "admission": null,
+      "categories": [
+        "Brocante"
+      ],
+      "standCount": 110,
+      "parkings": [
+        {
+          "label": "Parkeren in de nabijheid van de markt mogelijk"
+        }
+      ],
+      "sourceUrl": "https://www.wattedoen.be/rommelmarkt-tijdens-kermis-8758225.shtml"
+    },
+    {
+      "id": "2-51.21627-4.02806-109",
       "source": "www.wattedoen.be",
       "date": "2026-08-30",
       "municipality": "Stekene",
@@ -2486,14 +2324,14 @@
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-heikant-kermis-8759939.shtml"
     },
     {
-      "id": "2-50.80711-5.06742-123",
+      "id": "2-50.8071-5.06741-110",
       "source": "www.wattedoen.be",
       "date": "2026-08-30",
       "municipality": "Orsmaal-Gussenhoven",
       "postalCode": "3350",
       "province": "Flemish Brabant",
-      "latitude": 50.80711,
-      "longitude": 5.06742,
+      "latitude": 50.8071,
+      "longitude": 5.06741,
       "geoSource": "source",
       "street": "Helen-Bosstraat",
       "houseNumber": "71",
@@ -2503,10 +2341,15 @@
         "Brocante"
       ],
       "standCount": 100,
+      "parkings": [
+        {
+          "label": "Op de parking aan Gildehuis Walsberger"
+        }
+      ],
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-en-bierfeesten-8757722.shtml"
     },
     {
-      "id": "3-51.18978-4.56141-124",
+      "id": "3-51.18978-4.56141-111",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-08-30",
       "municipality": "Ranst",
@@ -2526,27 +2369,27 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt/e1c93109-762b-47be-9e3f-6ead90f49245"
     },
     {
-      "id": "3-50.87607-3.82206-125",
+      "id": "3-51.06-3.72997-112",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-08-30",
-      "municipality": "Zottegem",
-      "postalCode": "9620",
+      "municipality": "Gent",
+      "postalCode": "9000",
       "province": "East Flanders",
-      "latitude": 50.87607,
-      "longitude": 3.82206,
+      "latitude": 51.06,
+      "longitude": 3.72997,
       "geoSource": "source",
-      "street": "Esstraat",
-      "houseNumber": "8",
+      "street": "Huidevetterskaai z/n",
+      "houseNumber": null,
       "openingHours": null,
       "admission": null,
       "categories": [
         "Brocante"
       ],
       "standCount": null,
-      "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt/30c01b43-f27d-404b-b7d9-430b59f13174"
+      "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-ham/5affceb3-f979-4569-bbee-39cb870727d8"
     },
     {
-      "id": "3-50.93689-4.03189-126",
+      "id": "3-50.93689-4.03189-113",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-08-30",
       "municipality": "Aalst",
@@ -2566,27 +2409,27 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-arbeidstraat-withuisstraat-en-nieuwbeekstraat/b002631f-1027-4d1e-8777-0d66321a1677"
     },
     {
-      "id": "3-50.88364-3.62878-127",
+      "id": "3-50.87607-3.82206-114",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-08-30",
-      "municipality": "Edelare",
-      "postalCode": "9700",
+      "municipality": "Zottegem",
+      "postalCode": "9620",
       "province": "East Flanders",
-      "latitude": 50.88364,
-      "longitude": 3.62878,
+      "latitude": 50.87607,
+      "longitude": 3.82206,
       "geoSource": "source",
-      "street": "Heurnestraat",
-      "houseNumber": "235",
+      "street": "Esstraat",
+      "houseNumber": "8",
       "openingHours": null,
       "admission": null,
       "categories": [
         "Brocante"
       ],
       "standCount": null,
-      "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/heurnse-rommelmarkt/f02bfa5a-89d2-4b55-8906-e17f9c5529ae"
+      "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt/30c01b43-f27d-404b-b7d9-430b59f13174"
     },
     {
-      "id": "3-51.19004-4.73601-128",
+      "id": "3-51.19004-4.73601-115",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-08-30",
       "municipality": "Grobbendonk",
@@ -2606,7 +2449,47 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/grote-openlucht-rommelmarkt/fc1d6989-9182-4c7b-8b03-60c3420efca3"
     },
     {
-      "id": "1-51.11066-4.64055-129",
+      "id": "1-51.22539-5.48357-116",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-09-05",
+      "municipality": "Sint-Huibrechts-Lille",
+      "postalCode": "3910",
+      "province": "Limburg",
+      "latitude": 51.22539,
+      "longitude": 5.48357,
+      "geoSource": "address",
+      "street": "Schoolstraat",
+      "houseNumber": "10",
+      "openingHours": "9:00 - 16:00",
+      "admission": null,
+      "categories": [
+        "Garageverkoop"
+      ],
+      "standCount": 40,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133744/sint-huibrechts-lille"
+    },
+    {
+      "id": "1-50.87531-3.34504-117",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-09-05",
+      "municipality": "Beveren-Leie (waregem)",
+      "postalCode": "8791",
+      "province": "West Flanders",
+      "latitude": 50.87531,
+      "longitude": 3.34504,
+      "geoSource": "address",
+      "street": "Kerkdreef",
+      "houseNumber": null,
+      "openingHours": "14:00 - 17:00",
+      "admission": null,
+      "categories": [
+        "Rommelmarkt (kinder)"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133682/speelgoedmarkt-beveren-leie--waregem-"
+    },
+    {
+      "id": "1-51.11066-4.64055-118",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-05",
       "municipality": "Berlaar",
@@ -2623,10 +2506,15 @@
         "Rommelmarkt"
       ],
       "standCount": 300,
+      "parkings": [
+        {
+          "label": "Gratis inkom en parking"
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132889/grote-rommelmarkt-en-koopjesmarkt-berlaar"
     },
     {
-      "id": "1-51.09051-4.37507-130",
+      "id": "1-51.09051-4.37507-119",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-05",
       "municipality": "Boom",
@@ -2648,7 +2536,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133733/boom"
     },
     {
-      "id": "1-51.13517-4.87343-131",
+      "id": "1-51.13517-4.87343-120",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-05",
       "municipality": "Westerlo",
@@ -2665,30 +2553,15 @@
         "Rommelmarkt"
       ],
       "standCount": 150,
+      "parkings": [
+        {
+          "label": "parking Gratis 2,5 €UR0 / meter ( minimum 5 meter) auto bij de stand"
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133562/rommelmarkt-f-c--verachtert-westerlo"
     },
     {
-      "id": "1-51.22539-5.48357-132",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-09-05",
-      "municipality": "Sint-Huibrechts-Lille",
-      "postalCode": "3910",
-      "province": "Limburg",
-      "latitude": 51.22539,
-      "longitude": 5.48357,
-      "geoSource": "address",
-      "street": "Schoolstraat",
-      "houseNumber": "10",
-      "openingHours": "9:00 - 16:00",
-      "admission": null,
-      "categories": [
-        "Garageverkoop"
-      ],
-      "standCount": 40,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133744/sint-huibrechts-lille"
-    },
-    {
-      "id": "1-51.05694-3.73676-133",
+      "id": "1-51.05694-3.73676-121",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-05",
       "municipality": "Gent",
@@ -2706,11 +2579,11 @@
         "Garageverkoop",
         "Rommelmarkt"
       ],
-      "standCount": null,
+      "standCount": 150,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133436/ancuro-rommelmarkt-dampoortstraat-gent"
     },
     {
-      "id": "1-50.84248-3.66217-134",
+      "id": "1-50.84248-3.66217-122",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-05",
       "municipality": "Oudenaarde",
@@ -2730,7 +2603,33 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133939/2dehands-fietsenverkoop-oudenaarde"
     },
     {
-      "id": "1-51.01981-3.95637-135",
+      "id": "1-50.86544-3.63501-123",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-09-05",
+      "municipality": "Oudenaarde",
+      "postalCode": "9700",
+      "province": "East Flanders",
+      "latitude": 50.86544,
+      "longitude": 3.63501,
+      "geoSource": "address",
+      "street": "Robert De Preesterstraat",
+      "houseNumber": null,
+      "openingHours": "8:00 - 17:00",
+      "admission": null,
+      "categories": [
+        "Garageverkoop",
+        "Rommelmarkt"
+      ],
+      "standCount": 110,
+      "parkings": [
+        {
+          "label": "Parkeren in de nabijheid van de markt mogelijk"
+        }
+      ],
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133963/jaarlijkse-rommelmarkt-te-nederename-oudenaarde--oudenaarde"
+    },
+    {
+      "id": "1-51.01981-3.95637-124",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-05",
       "municipality": "Uitbergen (berlare)",
@@ -2750,7 +2649,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133753/rommelmarkt-okra-uitbergen-uitbergen--berlare-"
     },
     {
-      "id": "1-50.98327-3.45026-136",
+      "id": "1-50.98327-3.45026-125",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-05",
       "municipality": "Wontergem-Deinze",
@@ -2771,27 +2670,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133842/rommelmarkt-en-garageverkoop-wontergem-deinze"
     },
     {
-      "id": "1-50.87531-3.34504-137",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-09-05",
-      "municipality": "Beveren-Leie (waregem)",
-      "postalCode": "8791",
-      "province": "West Flanders",
-      "latitude": 50.87531,
-      "longitude": 3.34504,
-      "geoSource": "address",
-      "street": "Kerkdreef",
-      "houseNumber": null,
-      "openingHours": "14:00 - 17:00",
-      "admission": null,
-      "categories": [
-        "Rommelmarkt (kinder)"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133682/speelgoedmarkt-beveren-leie--waregem-"
-    },
-    {
-      "id": "3-51.01854-4.4718-138",
+      "id": "3-51.01854-4.4718-126",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-05",
       "municipality": "Mechelen",
@@ -2811,7 +2690,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-hovenierspark/50ed8ea1-ae02-4fa0-9740-eb73678f95bf"
     },
     {
-      "id": "3-51.02286-4.54774-139",
+      "id": "3-51.02286-4.54774-127",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-05",
       "municipality": "Bonheiden",
@@ -2831,7 +2710,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/curieuzeneuzen-rommelmarkt/ce30445c-9290-4711-a763-68fab1b0ed85"
     },
     {
-      "id": "3-51.09581-4.24154-140",
+      "id": "3-51.09581-4.24154-128",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-05",
       "municipality": "Bornem",
@@ -2851,7 +2730,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/garageverkoop-rommelmarkt-lindestraat-bornem/8532bc05-9812-40fd-a15d-d42e3d5099ae"
     },
     {
-      "id": "3-50.95912-3.48801-141",
+      "id": "3-50.95912-3.48801-129",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-05",
       "municipality": "Zulte",
@@ -2871,7 +2750,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt/780e1686-22da-44f9-b377-ab7ed523dc1c"
     },
     {
-      "id": "3-51.30987-3.13551-142",
+      "id": "3-51.30987-3.13551-130",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-05",
       "municipality": "Blankenberge",
@@ -2891,109 +2770,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-uitkerke-kermis/8f04e3e8-a5b2-44ca-abaf-c80883c81b6b"
     },
     {
-      "id": "1-51.20866-4.43025-143",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-09-06",
-      "municipality": "Antwerpen",
-      "postalCode": "2018",
-      "province": "Antwerp",
-      "latitude": 51.20866,
-      "longitude": 4.43025,
-      "geoSource": "address",
-      "street": "Walvisstraat",
-      "houseNumber": "7",
-      "openingHours": "9:00 - 16:00",
-      "admission": null,
-      "categories": [
-        "Garageverkoop",
-        "Rommelmarkt"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133948/zurenborgse-stoepverkoop-antwerpen"
-    },
-    {
-      "id": "1-51.28594-4.50298-144",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-09-06",
-      "municipality": "Brasschaat",
-      "postalCode": "2930",
-      "province": "Antwerp",
-      "latitude": 51.28594,
-      "longitude": 4.50298,
-      "geoSource": "manualApprox",
-      "street": "Mark Verberckplein",
-      "houseNumber": null,
-      "openingHours": "8:00 - 15:00",
-      "admission": null,
-      "categories": [
-        "Brocante",
-        "Rommelmarkt"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133810/grote-opeluchtrommemarkt-aan-de-braderie-te-brasschaat--brasschaat"
-    },
-    {
-      "id": "1-51.04638-4.42109-145",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-09-06",
-      "municipality": "Heffen",
-      "postalCode": "2801",
-      "province": "Antwerp",
-      "latitude": 51.04638,
-      "longitude": 4.42109,
-      "geoSource": "address",
-      "street": "Dorp",
-      "houseNumber": null,
-      "openingHours": "8:00 - 17:00",
-      "admission": null,
-      "categories": [
-        "Rommelmarkt"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133729/gezellige-rommelmarkt--heffen"
-    },
-    {
-      "id": "1-51.11296-4.32704-146",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-09-06",
-      "municipality": "Niel",
-      "postalCode": "2845",
-      "province": "Antwerp",
-      "latitude": 51.11296,
-      "longitude": 4.32704,
-      "geoSource": "address",
-      "street": "Edward Claessenslaan",
-      "houseNumber": null,
-      "openingHours": "7:00 - 17:00",
-      "admission": null,
-      "categories": [
-        "Rommelmarkt"
-      ],
-      "standCount": 200,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133694/bewoners-rommelmarkt-niel"
-    },
-    {
-      "id": "1-51.13957-4.62544-147",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-09-06",
-      "municipality": "Nijlen",
-      "postalCode": "2560",
-      "province": "Antwerp",
-      "latitude": 51.13957,
-      "longitude": 4.62544,
-      "geoSource": "address",
-      "street": "Stationssteenweg",
-      "houseNumber": "14",
-      "openingHours": "7:00 - 17:00",
-      "admission": "Gratis",
-      "categories": [
-        "Rommelmarkt"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133929/rommelmarkt-kessel-nijlen"
-    },
-    {
-      "id": "1-50.89752-5.50765-148",
+      "id": "1-50.89752-5.50765-131",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-06",
       "municipality": "Bilzen",
@@ -3013,130 +2790,53 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133799/33ste-rrommelmarkt-te-eik--st-jozef-bilzen--bilzen"
     },
     {
-      "id": "1-50.81513-3.74793-149",
+      "id": "1-50.85306-5.49547-132",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-06",
-      "municipality": "Brakel",
-      "postalCode": "9660",
-      "province": "East Flanders",
-      "latitude": 50.81513,
-      "longitude": 3.74793,
+      "municipality": "Bilzen-Hoeselt",
+      "postalCode": "3730",
+      "province": "Limburg",
+      "latitude": 50.85306,
+      "longitude": 5.49547,
       "geoSource": "address",
-      "street": "Twaalfbunderstraat",
-      "houseNumber": "71",
-      "openingHours": "8:00 - 18:00",
+      "street": "Droogbroekstraat",
+      "houseNumber": "5",
+      "openingHours": "8:00 - 16:00",
       "admission": null,
       "categories": [
+        "Brocante",
         "Garageverkoop",
-        "Rommelmarkt"
-      ],
-      "standCount": 120,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133486/brakel"
-    },
-    {
-      "id": "1-50.91502-3.91907-150",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-09-06",
-      "municipality": "Burst ( Erpe-Mere)",
-      "postalCode": "9420",
-      "province": "East Flanders",
-      "latitude": 50.91502,
-      "longitude": 3.91907,
-      "geoSource": "address",
-      "street": "Kerkstraat",
-      "houseNumber": "1",
-      "openingHours": "8:00 - 18:00",
-      "admission": null,
-      "categories": [
-        "Garageverkoop",
-        "Rommelmarkt"
-      ],
-      "standCount": 380,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132892/grote-jaarlijkse-rommelmarkt-burst-burst---erpe-mere-"
-    },
-    {
-      "id": "1-51.11444-4.13858-151",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-09-06",
-      "municipality": "Elversele",
-      "postalCode": "9140",
-      "province": "East Flanders",
-      "latitude": 51.11444,
-      "longitude": 4.13858,
-      "geoSource": "address",
-      "street": "Dorpstraat",
-      "houseNumber": null,
-      "openingHours": "8:00 - 17:00",
-      "admission": null,
-      "categories": [
-        "Rommelmarkt"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133105/elversele"
-    },
-    {
-      "id": "1-51.11026-3.80916-152",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-09-06",
-      "municipality": "Lochristi",
-      "postalCode": "9080",
-      "province": "East Flanders",
-      "latitude": 51.11026,
-      "longitude": 3.80916,
-      "geoSource": "address",
-      "street": "Hijfte",
-      "houseNumber": null,
-      "openingHours": "7:00 - 16:00",
-      "admission": null,
-      "categories": [
-        "Rommelmarkt"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133895/kermis-rommelmarkt-lochristi"
-    },
-    {
-      "id": "1-51.21164-3.43841-153",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-09-06",
-      "municipality": "Maldegem",
-      "postalCode": "9990",
-      "province": "East Flanders",
-      "latitude": 51.21164,
-      "longitude": 3.43841,
-      "geoSource": "address",
-      "street": "Vakekerkweg",
-      "houseNumber": null,
-      "openingHours": "6:00 - 18:00",
-      "admission": null,
-      "categories": [
-        "Rommelmarkt"
-      ],
-      "standCount": 80,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133677/rommelmarkt-in-de-vakekerkweg-te-maldegem-maldegem"
-    },
-    {
-      "id": "1-50.86385-3.70202-154",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-09-06",
-      "municipality": "Zwalm (sint-Denijs-Boekel)",
-      "postalCode": "9630",
-      "province": "East Flanders",
-      "latitude": 50.86385,
-      "longitude": 3.70202,
-      "geoSource": "address",
-      "street": "Moldergem",
-      "houseNumber": "106-110",
-      "openingHours": "8:30 - 16:00",
-      "admission": null,
-      "categories": [
         "Rommelmarkt",
-        "Rommelmarkt (kinder)"
+        "Tweedehands"
       ],
       "standCount": null,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133681/zwalm--sint-denijs-boekel-"
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133952/bilzen-hoeselt"
     },
     {
-      "id": "1-51.00421-4.63335-155",
+      "id": "1-50.92841-5.66261-133",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-09-06",
+      "municipality": "Rekem (lanaken)",
+      "postalCode": "3621",
+      "province": "Limburg",
+      "latitude": 50.92841,
+      "longitude": 5.66261,
+      "geoSource": "postal",
+      "street": "In de straten van Rekem",
+      "houseNumber": null,
+      "openingHours": "8:00 - 16:00",
+      "admission": null,
+      "categories": [
+        "Brocante",
+        "Garageverkoop",
+        "Rommelmarkt",
+        "Tweedehands"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133822/---garageverkoop-rekem-2026----rekem--lanaken-"
+    },
+    {
+      "id": "1-51.00421-4.63335-134",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-06",
       "municipality": "Keerbergen",
@@ -3153,10 +2853,15 @@
         "Rommelmarkt"
       ],
       "standCount": 200,
+      "parkings": [
+        {
+          "label": "parkeergelegenheid beschikbaar bij het gemeentehuis, de Heimolen en in de omliggende omgeving van…"
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133288/rommelmarkt-keerbergen-keerbergen"
     },
     {
-      "id": "1-50.95777-4.33702-156",
+      "id": "1-50.95777-4.33702-135",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-06",
       "municipality": "Meise",
@@ -3177,7 +2882,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133618/garageverkooprommelmarkt-dagwanden-en-omliggende-straten-meise"
     },
     {
-      "id": "1-50.92952-4.22269-157",
+      "id": "1-50.92952-4.22269-136",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-06",
       "municipality": "Mollem",
@@ -3195,10 +2900,15 @@
         "Rommelmarkt"
       ],
       "standCount": 70,
+      "parkings": [
+        {
+          "label": "parking-lekkere hamburgers en pensen en veel koopjes te doen Schrijf je in…"
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133915/mollem-rommelt-mollem"
     },
     {
-      "id": "1-51.12739-3.17017-158",
+      "id": "1-51.12739-3.17017-137",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-06",
       "municipality": "Loppem",
@@ -3215,10 +2925,15 @@
         "Rommelmarkt"
       ],
       "standCount": null,
+      "parkings": [
+        {
+          "label": "Parking langs de Pierlapont"
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132930/rommelmarkt-de-lelie-loppem"
     },
     {
-      "id": "1-50.94057-3.15279-159",
+      "id": "1-50.94057-3.15279-138",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-06",
       "municipality": "Roeselare",
@@ -3238,7 +2953,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133690/kazandwijk-roeselare"
     },
     {
-      "id": "1-50.9891-3.16251-160",
+      "id": "1-50.9891-3.16251-139",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-06",
       "municipality": "Roeselare",
@@ -3259,7 +2974,252 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133801/bezoek-onze-gezellige-rommelmarkt--roeselare"
     },
     {
-      "id": "2-51.20362-4.45711-161",
+      "id": "1-51.20866-4.43025-140",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-09-06",
+      "municipality": "Antwerpen",
+      "postalCode": "2018",
+      "province": "Antwerp",
+      "latitude": 51.20866,
+      "longitude": 4.43025,
+      "geoSource": "address",
+      "street": "Walvisstraat",
+      "houseNumber": "7",
+      "openingHours": "9:00 - 16:00",
+      "admission": null,
+      "categories": [
+        "Garageverkoop",
+        "Rommelmarkt"
+      ],
+      "standCount": 600,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133948/zurenborgse-stoepverkoop-antwerpen"
+    },
+    {
+      "id": "1-51.28594-4.50298-141",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-09-06",
+      "municipality": "Brasschaat",
+      "postalCode": "2930",
+      "province": "Antwerp",
+      "latitude": 51.28594,
+      "longitude": 4.50298,
+      "geoSource": "manualApprox",
+      "street": "Mark Verberckplein",
+      "houseNumber": null,
+      "openingHours": "8:00 - 15:00",
+      "admission": null,
+      "categories": [
+        "Brocante",
+        "Rommelmarkt"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133810/grote-opeluchtrommemarkt-aan-de-braderie-te-brasschaat--brasschaat"
+    },
+    {
+      "id": "1-51.04638-4.42109-142",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-09-06",
+      "municipality": "Heffen",
+      "postalCode": "2801",
+      "province": "Antwerp",
+      "latitude": 51.04638,
+      "longitude": 4.42109,
+      "geoSource": "address",
+      "street": "Dorp",
+      "houseNumber": null,
+      "openingHours": "8:00 - 17:00",
+      "admission": null,
+      "categories": [
+        "Rommelmarkt"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133729/gezellige-rommelmarkt--heffen"
+    },
+    {
+      "id": "1-51.11296-4.32704-143",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-09-06",
+      "municipality": "Niel",
+      "postalCode": "2845",
+      "province": "Antwerp",
+      "latitude": 51.11296,
+      "longitude": 4.32704,
+      "geoSource": "address",
+      "street": "Edward Claessenslaan",
+      "houseNumber": null,
+      "openingHours": "7:00 - 17:00",
+      "admission": null,
+      "categories": [
+        "Rommelmarkt"
+      ],
+      "standCount": 200,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133694/bewoners-rommelmarkt-niel"
+    },
+    {
+      "id": "1-51.13957-4.62544-144",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-09-06",
+      "municipality": "Nijlen",
+      "postalCode": "2560",
+      "province": "Antwerp",
+      "latitude": 51.13957,
+      "longitude": 4.62544,
+      "geoSource": "address",
+      "street": "Stationssteenweg",
+      "houseNumber": "14",
+      "openingHours": "7:00 - 17:00",
+      "admission": "Gratis",
+      "categories": [
+        "Rommelmarkt"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133929/rommelmarkt-kessel-nijlen"
+    },
+    {
+      "id": "1-50.81513-3.74793-145",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-09-06",
+      "municipality": "Brakel",
+      "postalCode": "9660",
+      "province": "East Flanders",
+      "latitude": 50.81513,
+      "longitude": 3.74793,
+      "geoSource": "address",
+      "street": "Twaalfbunderstraat",
+      "houseNumber": "71",
+      "openingHours": "8:00 - 18:00",
+      "admission": null,
+      "categories": [
+        "Garageverkoop",
+        "Rommelmarkt"
+      ],
+      "standCount": 120,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133486/brakel"
+    },
+    {
+      "id": "1-50.91502-3.91907-146",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-09-06",
+      "municipality": "Burst ( Erpe-Mere)",
+      "postalCode": "9420",
+      "province": "East Flanders",
+      "latitude": 50.91502,
+      "longitude": 3.91907,
+      "geoSource": "address",
+      "street": "Kerkstraat",
+      "houseNumber": "1",
+      "openingHours": "8:00 - 18:00",
+      "admission": null,
+      "categories": [
+        "Garageverkoop",
+        "Rommelmarkt"
+      ],
+      "standCount": 380,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132892/grote-jaarlijkse-rommelmarkt-burst-burst---erpe-mere-"
+    },
+    {
+      "id": "1-51.11444-4.13858-147",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-09-06",
+      "municipality": "Elversele",
+      "postalCode": "9140",
+      "province": "East Flanders",
+      "latitude": 51.11444,
+      "longitude": 4.13858,
+      "geoSource": "address",
+      "street": "Dorpstraat",
+      "houseNumber": null,
+      "openingHours": "8:00 - 17:00",
+      "admission": null,
+      "categories": [
+        "Rommelmarkt"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133105/elversele"
+    },
+    {
+      "id": "1-51.11026-3.80916-148",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-09-06",
+      "municipality": "Lochristi",
+      "postalCode": "9080",
+      "province": "East Flanders",
+      "latitude": 51.11026,
+      "longitude": 3.80916,
+      "geoSource": "address",
+      "street": "Hijfte",
+      "houseNumber": null,
+      "openingHours": "7:00 - 16:00",
+      "admission": null,
+      "categories": [
+        "Rommelmarkt"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133895/kermis-rommelmarkt-lochristi"
+    },
+    {
+      "id": "1-51.21164-3.43841-149",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-09-06",
+      "municipality": "Maldegem",
+      "postalCode": "9990",
+      "province": "East Flanders",
+      "latitude": 51.21164,
+      "longitude": 3.43841,
+      "geoSource": "address",
+      "street": "Vakekerkweg",
+      "houseNumber": null,
+      "openingHours": "6:00 - 18:00",
+      "admission": null,
+      "categories": [
+        "Rommelmarkt"
+      ],
+      "standCount": 80,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133677/rommelmarkt-in-de-vakekerkweg-te-maldegem-maldegem"
+    },
+    {
+      "id": "1-51.2478-4.06521-150",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-09-06",
+      "municipality": "Stekene",
+      "postalCode": "9190",
+      "province": "East Flanders",
+      "latitude": 51.2478,
+      "longitude": 4.06521,
+      "geoSource": "address",
+      "street": "De Klingestraat",
+      "houseNumber": null,
+      "openingHours": "8:30 - 16:00",
+      "admission": null,
+      "categories": [
+        "Rommelmarkt"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133972/rommelmarkt-de-paal--stekene"
+    },
+    {
+      "id": "1-50.86385-3.70202-151",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-09-06",
+      "municipality": "Zwalm (sint-Denijs-Boekel)",
+      "postalCode": "9630",
+      "province": "East Flanders",
+      "latitude": 50.86385,
+      "longitude": 3.70202,
+      "geoSource": "address",
+      "street": "Moldergem",
+      "houseNumber": "106-110",
+      "openingHours": "8:30 - 16:00",
+      "admission": null,
+      "categories": [
+        "Rommelmarkt",
+        "Rommelmarkt (kinder)"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133681/zwalm--sint-denijs-boekel-"
+    },
+    {
+      "id": "2-51.20362-4.45711-152",
       "source": "www.wattedoen.be",
       "date": "2026-09-06",
       "municipality": "Deurne",
@@ -3279,7 +3239,7 @@
       "sourceUrl": "https://www.wattedoen.be/kriekenbrol-8760523.shtml"
     },
     {
-      "id": "2-50.89619-5.50691-162",
+      "id": "2-50.89619-5.50691-153",
       "source": "www.wattedoen.be",
       "date": "2026-09-06",
       "municipality": "Bilzen",
@@ -3299,7 +3259,32 @@
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-te-eik-in-8753474.shtml"
     },
     {
-      "id": "3-50.80497-4.28701-163",
+      "id": "2-50.94414-4.97155-154",
+      "source": "www.wattedoen.be",
+      "date": "2026-09-06",
+      "municipality": "Bekkevoort",
+      "postalCode": "3460",
+      "province": "Flemish Brabant",
+      "latitude": 50.94414,
+      "longitude": 4.97155,
+      "geoSource": "source",
+      "street": "Staatsbaan",
+      "houseNumber": "221",
+      "openingHours": "08:00-16:00",
+      "admission": null,
+      "categories": [
+        "Brocante"
+      ],
+      "standCount": 200,
+      "parkings": [
+        {
+          "label": "parking tegenover de markt"
+        }
+      ],
+      "sourceUrl": "https://www.wattedoen.be/rommelmarkt-8728872.shtml"
+    },
+    {
+      "id": "3-50.80497-4.28701-155",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-06",
       "municipality": "Oudenaken",
@@ -3319,7 +3304,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-negenmanneke/0ff55f47-fa83-4c39-a4d4-1274a68f57b2"
     },
     {
-      "id": "3-50.94331-4.0498-164",
+      "id": "3-50.94331-4.0498-156",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-06",
       "municipality": "Aalst",
@@ -3339,7 +3324,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-groenstraat/5fdea84b-07c5-49d0-a5b7-b7b045219cf4"
     },
     {
-      "id": "3-51.28065-4.41554-165",
+      "id": "3-51.28065-4.41554-157",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-06",
       "municipality": "Ekeren",
@@ -3359,7 +3344,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/43e-kattenbergse-rommelmarkt/9a41e6d0-bc43-4b63-be1c-cb220fb298b8"
     },
     {
-      "id": "3-51.25189-4.44838-166",
+      "id": "3-51.25189-4.44838-158",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-06",
       "municipality": "Merksem",
@@ -3379,7 +3364,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/grote-ambachten-en-rommelmarkt/373ad7c8-e774-47df-921e-fded72f8cb5c"
     },
     {
-      "id": "1-50.88171-4.71523-167",
+      "id": "1-50.88171-4.71523-159",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-07",
       "municipality": "Leuven",
@@ -3400,7 +3385,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133627/grote-brocanterie-van-de-jaarmarkt---leuven-leuven"
     },
     {
-      "id": "1-51.103-4.26361-168",
+      "id": "1-51.103-4.26361-160",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-11",
       "municipality": "Hingene",
@@ -3420,7 +3405,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133910/30ste-openluchtrommelmarkt--hingene"
     },
     {
-      "id": "1-51.02769-4.5035-169",
+      "id": "1-51.02769-4.5035-161",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-12",
       "municipality": "Mechelen",
@@ -3442,7 +3427,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133416/bras-rommelmarkt-mechelen"
     },
     {
-      "id": "1-51.14095-4.87053-170",
+      "id": "1-51.14095-4.87053-162",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-12",
       "municipality": "Olen",
@@ -3463,7 +3448,27 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133906/gezellige-rommelmarkt-teunenberg--olen"
     },
     {
-      "id": "1-51.3609-4.55004-171",
+      "id": "1-51.07968-4.81854-163",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-09-12",
+      "municipality": "Westerlo Heultje",
+      "postalCode": "2260",
+      "province": "Antwerp",
+      "latitude": 51.07968,
+      "longitude": 4.81854,
+      "geoSource": "address",
+      "street": "Kempische Ardennen",
+      "houseNumber": "4",
+      "openingHours": "13:30 - 19:00",
+      "admission": null,
+      "categories": [
+        "Rommelmarkt"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132830/avondrommelmarkt-westerlo-heultje"
+    },
+    {
+      "id": "1-51.3609-4.55004-164",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-12",
       "municipality": "Wuustwezel",
@@ -3484,7 +3489,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133633/wuustwezel"
     },
     {
-      "id": "1-50.8046-3.53493-172",
+      "id": "1-50.8046-3.53493-165",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-12",
       "municipality": "Kluisbergen",
@@ -3504,7 +3509,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133089/openluchtrommelmarkt-meersestraat-kluisbergen-kluisbergen"
     },
     {
-      "id": "1-50.97866-4.08057-173",
+      "id": "1-50.97866-4.08057-166",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-12",
       "municipality": "Wieze",
@@ -3525,7 +3530,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133528/rommelbeurs--antiek-en-brocante--wieze"
     },
     {
-      "id": "1-51.03266-3.33405-174",
+      "id": "1-51.03266-3.33405-167",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-12",
       "municipality": "Tielt - Schuiferskapelle",
@@ -3548,14 +3553,14 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133941/rommelmarkt-schuiferskapelle-tielt---schuiferskapelle"
     },
     {
-      "id": "1-50.93346-2.74183-175",
+      "id": "1-50.94744-2.79076-168",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-12",
       "municipality": "Oostvleteren",
       "postalCode": "8640",
       "province": "West Flanders",
-      "latitude": 50.93346,
-      "longitude": 2.74183,
+      "latitude": 50.94744,
+      "longitude": 2.79076,
       "geoSource": "source",
       "street": "Dorp",
       "houseNumber": "1",
@@ -3568,7 +3573,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133896/gratis-rommelmarkt-te-oostvleteren--oostvleteren"
     },
     {
-      "id": "3-51.36779-5.1714-176",
+      "id": "3-51.36779-5.1714-169",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-12",
       "municipality": "Beerse",
@@ -3588,7 +3593,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/garage-tuinverkoop-gelijktijdig-in-5-wijken/55cb23cb-e5d5-44d5-ba73-31db3ff8e6fb"
     },
     {
-      "id": "3-51.32074-5.09724-177",
+      "id": "3-51.32074-5.09724-170",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-12",
       "municipality": "Arendonk",
@@ -3608,7 +3613,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-tulpenwijk/489c9ef1-46b5-4ed4-9bf3-511787d2c524"
     },
     {
-      "id": "1-51.2322-4.41284-178",
+      "id": "1-51.2322-4.41284-171",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-13",
       "municipality": "Antwerpen",
@@ -3628,7 +3633,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133921/rommelmarkt-kempisch-dok---eilandje-antwerpen"
     },
     {
-      "id": "1-51.31145-4.42497-179",
+      "id": "1-51.31145-4.42497-172",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-13",
       "municipality": "Kapellen",
@@ -3648,7 +3653,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133787/kapellen"
     },
     {
-      "id": "1-50.87183-5.55643-180",
+      "id": "1-50.87183-5.55643-173",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-13",
       "municipality": "Bilzen",
@@ -3669,7 +3674,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133866/garage-verkoop-en-rommelmarkt-hoelbeek-bilzen"
     },
     {
-      "id": "1-51.00157-5.14683-181",
+      "id": "1-51.00157-5.14683-174",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-13",
       "municipality": "Meldert",
@@ -3689,7 +3694,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133475/0penluchtrommelmarkt-met-kermis-en-randanimatie--meldert"
     },
     {
-      "id": "1-50.76504-5.2615-182",
+      "id": "1-50.76504-5.2615-175",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-13",
       "municipality": "Sint-Truiden",
@@ -3709,7 +3714,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133494/sint-truiden"
     },
     {
-      "id": "1-51.09549-3.45899-183",
+      "id": "1-51.09549-3.45899-176",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-13",
       "municipality": "Aalter",
@@ -3729,7 +3734,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133374/16e-editie-rommelmarkt-de-houtem-vrienden-te-houtem--aalter-aalter"
     },
     {
-      "id": "1-50.90525-3.71565-184",
+      "id": "1-50.90525-3.71565-177",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-13",
       "municipality": "Beerlegem (zwalm)",
@@ -3749,7 +3754,52 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133018/5de-rommelmarkt-met-randanimatie-beerlegem--zwalm-"
     },
     {
-      "id": "1-50.9241-4.39562-185",
+      "id": "1-50.91199-3.59889-178",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-09-13",
+      "municipality": "Ouwegem",
+      "postalCode": "9750",
+      "province": "East Flanders",
+      "latitude": 50.91199,
+      "longitude": 3.59889,
+      "geoSource": "address",
+      "street": "Ouwegemsesteenweg",
+      "houseNumber": "90",
+      "openingHours": "9:00 - 15:00",
+      "admission": null,
+      "categories": [
+        "Garageverkoop"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133887/garageverkoop-doorheen-ouwegem-ouwegem"
+    },
+    {
+      "id": "1-50.78821-3.6879-179",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-09-13",
+      "municipality": "Schorisse Maarkedal",
+      "postalCode": "9688",
+      "province": "East Flanders",
+      "latitude": 50.78821,
+      "longitude": 3.6879,
+      "geoSource": "address",
+      "street": "Arthur Odevaertstraat",
+      "houseNumber": null,
+      "openingHours": "10:00 - 17:00",
+      "admission": null,
+      "categories": [
+        "Rommelmarkt"
+      ],
+      "standCount": 30,
+      "parkings": [
+        {
+          "label": "GRATIS parking in de nabijheid"
+        }
+      ],
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133964/vintage---retro---brocante-en-ambachten-markt-schorisse-maarkedal"
+    },
+    {
+      "id": "1-50.9241-4.39562-180",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-13",
       "municipality": "Grimbergen",
@@ -3769,7 +3819,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133835/garageverkoop--rommelmarkt-grimbergen"
     },
     {
-      "id": "1-51.0133-4.35874-186",
+      "id": "1-51.0133-4.35874-181",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-13",
       "municipality": "Kapelle-Op-Den-Bos",
@@ -3786,10 +3836,15 @@
         "Rommelmarkt"
       ],
       "standCount": 80,
+      "parkings": [
+        {
+          "label": "🚗Nieuw dit jaar is de mogelijkheid om op bepaalde locaties je auto bij je standplaats te parkeren"
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133807/3de-grote-rommelmarkt--kapelle-op-den-bos"
     },
     {
-      "id": "1-50.97194-4.94376-187",
+      "id": "1-50.97194-4.94376-182",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-13",
       "municipality": "Scherpenheuvel-Zichem",
@@ -3806,11 +3861,16 @@
         "Garageverkoop",
         "Rommelmarkt"
       ],
-      "standCount": 100,
+      "standCount": 40,
+      "parkings": [
+        {
+          "label": "Parkeren in de nabijheid van de markt mogelijk (gelieve de geldende verkeersregels te respecteren)"
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133689/-groenhoef-rommelt---scherpenheuvel-zichem"
     },
     {
-      "id": "1-50.99589-4.26803-188",
+      "id": "1-50.99589-4.26803-183",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-13",
       "municipality": "Steenhuffel",
@@ -3826,11 +3886,11 @@
       "categories": [
         "Rommelmarkt"
       ],
-      "standCount": null,
+      "standCount": 200,
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133841/rommelmarkt-steenhuffel-steenhuffel"
     },
     {
-      "id": "1-50.84556-3.2622-189",
+      "id": "1-50.84556-3.2622-184",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-13",
       "municipality": "Kortrijk",
@@ -3848,10 +3908,35 @@
         "Rommelmarkt"
       ],
       "standCount": 100,
+      "parkings": [
+        {
+          "label": "Parking Ringshoppingcenter"
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132905/antiek-and-rommelmarkt-te-kortrijk-kortrijk"
     },
     {
-      "id": "1-50.81424-3.02271-190",
+      "id": "1-50.94259-3.34774-185",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-09-13",
+      "municipality": "Oostrozebeke",
+      "postalCode": "8780",
+      "province": "West Flanders",
+      "latitude": 50.94259,
+      "longitude": 3.34774,
+      "geoSource": "address",
+      "street": "Molstenstraat",
+      "houseNumber": null,
+      "openingHours": "6:00 - 18:00",
+      "admission": null,
+      "categories": [
+        "Rommelmarkt"
+      ],
+      "standCount": 200,
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133962/rommelmarkt---ginstekermis-oostrozebeke"
+    },
+    {
+      "id": "1-50.81424-3.02271-186",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-13",
       "municipality": "Wervik",
@@ -3873,7 +3958,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133718/grote-antiek-en-rommelmarkt-kruiseke-wervik---750-standen----wervik"
     },
     {
-      "id": "2-51.39898-4.64587-191",
+      "id": "2-51.39898-4.64587-187",
       "source": "www.wattedoen.be",
       "date": "2026-09-13",
       "municipality": "Loenhout",
@@ -3893,7 +3978,7 @@
       "sourceUrl": "https://www.wattedoen.be/grote-openlucht-rommelmarkt-8733613.shtml"
     },
     {
-      "id": "2-50.9053-3.71561-192",
+      "id": "2-50.9053-3.71561-188",
       "source": "www.wattedoen.be",
       "date": "2026-09-13",
       "municipality": "Beerlegem",
@@ -3910,10 +3995,15 @@
         "Brocante"
       ],
       "standCount": 50,
+      "parkings": [
+        {
+          "label": "parking op de parkeerweide (Beekmeersstraat)"
+        }
+      ],
       "sourceUrl": "https://www.wattedoen.be/5de-editie-rommelmarkt-de-8726350.shtml"
     },
     {
-      "id": "2-50.94552-3.11574-193",
+      "id": "2-50.94552-3.11574-189",
       "source": "www.wattedoen.be",
       "date": "2026-09-13",
       "municipality": "Roeselare",
@@ -3930,10 +4020,15 @@
         "Brocante"
       ],
       "standCount": 75,
+      "parkings": [
+        {
+          "label": "parkeren parking Colruyt"
+        }
+      ],
       "sourceUrl": "https://www.wattedoen.be/7de-rommelmarkt-wijkcomite-8758836.shtml"
     },
     {
-      "id": "2-50.86139-4.75864-194",
+      "id": "2-50.86139-4.75864-190",
       "source": "www.wattedoen.be",
       "date": "2026-09-13",
       "municipality": "Korbeek-Lo",
@@ -3953,17 +4048,17 @@
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-korbeek-lo-8747943.shtml"
     },
     {
-      "id": "2-50.76286-5.0421-195",
+      "id": "2-50.74243-5.07903-191",
       "source": "www.wattedoen.be",
       "date": "2026-09-13",
       "municipality": "Landen",
       "postalCode": "3400",
       "province": "Flemish Brabant",
-      "latitude": 50.76286,
-      "longitude": 5.0421,
+      "latitude": 50.74243,
+      "longitude": 5.07903,
       "geoSource": "source",
-      "street": "HANNUITSSTEENWEG",
-      "houseNumber": "80",
+      "street": "Kon.astridlaan",
+      "houseNumber": null,
       "openingHours": "09:00-17:00",
       "admission": null,
       "categories": [
@@ -3973,27 +4068,27 @@
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-emi-domein-tpark-8754485.shtml"
     },
     {
-      "id": "3-50.79358-4.4919-196",
+      "id": "3-51.21029-4.39779-192",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-13",
-      "municipality": "Overijse",
-      "postalCode": "3090",
-      "province": "Flemish Brabant",
-      "latitude": 50.79358,
-      "longitude": 4.4919,
+      "municipality": "Antwerpen",
+      "postalCode": "2000",
+      "province": "Antwerp",
+      "latitude": 51.21029,
+      "longitude": 4.39779,
       "geoSource": "source",
-      "street": "Begonialaan",
-      "houseNumber": null,
+      "street": "Tolstraat",
+      "houseNumber": "1",
       "openingHours": null,
       "admission": null,
       "categories": [
         "Brocante"
       ],
       "standCount": null,
-      "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-bloemenwijk/579559ad-a2c5-4353-a871-1afcc7d03e17"
+      "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-tolstraat-vijfde-editie/9f043991-6404-4f00-9021-d6f8bbd3b9a5"
     },
     {
-      "id": "3-51.4459-4.40968-197",
+      "id": "3-51.4459-4.40968-193",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-13",
       "municipality": "Essen",
@@ -4013,7 +4108,27 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-essen-hoek-op-2e-zondag-van-september/55960df7-4254-4677-a359-abba3d2b1a78"
     },
     {
-      "id": "3-50.92087-4.38997-198",
+      "id": "3-50.79358-4.4919-194",
+      "source": "www.uitinvlaanderen.be",
+      "date": "2026-09-13",
+      "municipality": "Overijse",
+      "postalCode": "3090",
+      "province": "Flemish Brabant",
+      "latitude": 50.79358,
+      "longitude": 4.4919,
+      "geoSource": "source",
+      "street": "Begonialaan",
+      "houseNumber": null,
+      "openingHours": null,
+      "admission": null,
+      "categories": [
+        "Brocante"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-bloemenwijk/579559ad-a2c5-4353-a871-1afcc7d03e17"
+    },
+    {
+      "id": "3-50.92087-4.38997-195",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-13",
       "municipality": "Grimbergen",
@@ -4033,7 +4148,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/romelmarkt-garageverkoop/def749db-4b33-4518-bf28-21bcc0afcc52"
     },
     {
-      "id": "3-51.001-3.20963-199",
+      "id": "3-51.001-3.20963-196",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-13",
       "municipality": "Koolskamp",
@@ -4053,7 +4168,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/30-ste-editie-kermisrommelmarkt-dorpsfeesten-koolskamp/9de64254-d778-4dbd-8352-09ca10945c4b"
     },
     {
-      "id": "3-51.0525-5.73458-200",
+      "id": "3-51.0525-5.73458-197",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-13",
       "municipality": "Dilsen",
@@ -4073,7 +4188,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-militaire-vriendenkring-dilsen/23a714aa-73f3-4522-a9cc-a207957a8970"
     },
     {
-      "id": "3-51.06481-3.10178-201",
+      "id": "3-51.06481-3.10178-198",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-13",
       "municipality": "Torhout",
@@ -4093,7 +4208,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/brocante-vintage-en-rommelmarkt/5c0f072e-0689-4de7-b334-dcc9af77d40f"
     },
     {
-      "id": "3-51.02529-4.4731-202",
+      "id": "3-51.02529-4.4731-199",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-13",
       "municipality": "Mechelen",
@@ -4113,7 +4228,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-heihoek/0e18b022-8f2a-409b-9c35-a1b3bd63b780"
     },
     {
-      "id": "3-51.21183-3.21237-203",
+      "id": "3-51.21183-3.21237-200",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-13",
       "municipality": "Brugge",
@@ -4133,7 +4248,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/markt-visart-de-gezelligste-rommelmarkt-van-brugge/89c253fa-31dc-45b1-9dd0-7ec04f6fc757"
     },
     {
-      "id": "1-51.14783-3.60512-204",
+      "id": "1-51.14783-3.60512-201",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-16",
       "municipality": "Lievegem",
@@ -4153,7 +4268,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133678/lievegem"
     },
     {
-      "id": "3-51.07477-2.60077-205",
+      "id": "3-51.07477-2.60077-202",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-18",
       "municipality": "De Panne",
@@ -4173,90 +4288,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/dorpskermis-adinkerke-2026/9a604cee-5c24-4dc4-a8a2-b8b692e9ea7a"
     },
     {
-      "id": "1-50.99744-3.53602-206",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-09-19",
-      "municipality": "Bachte-Maria-Leerne (deinze)",
-      "postalCode": "9800",
-      "province": "East Flanders",
-      "latitude": 50.99744,
-      "longitude": 3.53602,
-      "geoSource": "address",
-      "street": "Schipdonkstraat",
-      "houseNumber": null,
-      "openingHours": "8:00 - 16:00",
-      "admission": null,
-      "categories": [
-        "Garageverkoop",
-        "Rommelmarkt"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133317/bachtekermis-rommelmarkt-bachte-maria-leerne--deinze-"
-    },
-    {
-      "id": "1-51.03611-3.91717-207",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-09-19",
-      "municipality": "Kalken",
-      "postalCode": "9270",
-      "province": "East Flanders",
-      "latitude": 51.03611,
-      "longitude": 3.91717,
-      "geoSource": "address",
-      "street": "Vaartstraat",
-      "houseNumber": "2",
-      "openingHours": "12:00 - 18:00",
-      "admission": null,
-      "categories": [
-        "Brocante",
-        "Rommelmarkt"
-      ],
-      "standCount": 50,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133891/rommel---brocante--and-antiekmarkt--kalken"
-    },
-    {
-      "id": "1-51.18615-3.98645-208",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-09-19",
-      "municipality": "Klein-Sinaai",
-      "postalCode": "9190",
-      "province": "East Flanders",
-      "latitude": 51.18615,
-      "longitude": 3.98645,
-      "geoSource": "address",
-      "street": "Kasteelstraat",
-      "houseNumber": "23",
-      "openingHours": "9:00 - 17:00",
-      "admission": null,
-      "categories": [
-        "Garageverkoop",
-        "Rommelmarkt"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133478/rommelmarkt-klein-sinaai-met-loopwedstrijd-tom-van-hooste-and-kidsrun-klein-sinaai"
-    },
-    {
-      "id": "1-50.9879-3.7514-209",
-      "source": "www.rommelmarkten.be",
-      "date": "2026-09-19",
-      "municipality": "Merelbeke-Mellle",
-      "postalCode": "9820",
-      "province": "East Flanders",
-      "latitude": 50.9879,
-      "longitude": 3.7514,
-      "geoSource": "address",
-      "street": "Poelstraat",
-      "houseNumber": "39A",
-      "openingHours": "9:00 - 17:00",
-      "admission": null,
-      "categories": [
-        "Rommelmarkt"
-      ],
-      "standCount": null,
-      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133631/buurtfeest-p-v-t-de-wadi-en-l-d-c-de-merelaar-merelbeke-mellle"
-    },
-    {
-      "id": "1-50.83302-4.19494-210",
+      "id": "1-50.83302-4.19494-203",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-19",
       "municipality": "Schepdaal",
@@ -4277,7 +4309,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133561/9de-rommelmarkt-en-100ste-jaarmarkt-schepdaal"
     },
     {
-      "id": "2-50.87004-3.62512-211",
+      "id": "2-50.87004-3.62512-204",
       "source": "www.wattedoen.be",
       "date": "2026-09-19",
       "municipality": "Eine",
@@ -4297,7 +4329,27 @@
       "sourceUrl": "https://www.wattedoen.be/7de-vrije-rommelmarkt-8729786.shtml"
     },
     {
-      "id": "1-50.88131-4.69979-212",
+      "id": "2-51.03397-3.91206-205",
+      "source": "www.wattedoen.be",
+      "date": "2026-09-19",
+      "municipality": "Kalken",
+      "postalCode": "9270",
+      "province": "East Flanders",
+      "latitude": 51.03397,
+      "longitude": 3.91206,
+      "geoSource": "source",
+      "street": "Vaartstraat",
+      "houseNumber": null,
+      "openingHours": "12:00-17:00",
+      "admission": null,
+      "categories": [
+        "Brocante"
+      ],
+      "standCount": 50,
+      "sourceUrl": "https://www.wattedoen.be/kermis-rommel-antiek-en-8736421.shtml"
+    },
+    {
+      "id": "1-50.88131-4.69979-206",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-20",
       "municipality": "Leuven",
@@ -4318,7 +4370,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133635/brocanterie-t-g-v---autovrije-zondag-leuven---leuven"
     },
     {
-      "id": "1-50.96197-4.70442-213",
+      "id": "1-50.96197-4.70442-207",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-20",
       "municipality": "Rotselaar",
@@ -4335,10 +4387,15 @@
         "Rommelmarkt"
       ],
       "standCount": null,
+      "parkings": [
+        {
+          "label": "5m à 10€) Gratis parking voor standhouders en bezoekers"
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133770/rommelmarkt-in-de-hellicht-rotselaar"
     },
     {
-      "id": "1-50.95103-4.3089-214",
+      "id": "1-50.95103-4.3089-208",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-20",
       "municipality": "Wolvertem",
@@ -4358,7 +4415,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133705/rommelmarkt-wolvertem-wolvertem"
     },
     {
-      "id": "1-50.75196-3.36688-215",
+      "id": "1-50.75196-3.36688-209",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-20",
       "municipality": "Sint-Denijs",
@@ -4379,7 +4436,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133812/rommelmarkt-sint-denijs-sint-denijs"
     },
     {
-      "id": "1-51.10218-3.1755-216",
+      "id": "1-51.10218-3.1755-210",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-20",
       "municipality": "Zedelgem",
@@ -4402,7 +4459,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133535/rommelmarkt-in-veldegem-zedelgem"
     },
     {
-      "id": "2-51.13092-4.57013-217",
+      "id": "2-51.13092-4.57013-211",
       "source": "www.wattedoen.be",
       "date": "2026-09-20",
       "municipality": "Lier",
@@ -4422,7 +4479,7 @@
       "sourceUrl": "https://www.wattedoen.be/vintage-retro-brocanterie-8737313.shtml"
     },
     {
-      "id": "2-50.9238-3.85593-218",
+      "id": "2-50.9238-3.85593-212",
       "source": "www.wattedoen.be",
       "date": "2026-09-20",
       "municipality": "Sint-Lievens-Houtem",
@@ -4442,7 +4499,32 @@
       "sourceUrl": "https://www.wattedoen.be/antiek-rommelmarkt-te-8728799.shtml"
     },
     {
-      "id": "3-51.01019-4.47138-219",
+      "id": "2-50.82072-3.71718-213",
+      "source": "www.wattedoen.be",
+      "date": "2026-09-20",
+      "municipality": "Zegelsem",
+      "postalCode": "9660",
+      "province": "East Flanders",
+      "latitude": 50.82072,
+      "longitude": 3.71718,
+      "geoSource": "source",
+      "street": "Teirlinckstraat , Sint Ursmarusstraat , Leeberg en Haaghoek",
+      "houseNumber": null,
+      "openingHours": "08:00-18:00",
+      "admission": null,
+      "categories": [
+        "Brocante"
+      ],
+      "standCount": 150,
+      "parkings": [
+        {
+          "label": "parkeren in de nabijheid van de markt mogelijk"
+        }
+      ],
+      "sourceUrl": "https://www.wattedoen.be/grote-rommelmarkt-tijdens-de-8760931.shtml"
+    },
+    {
+      "id": "3-51.01019-4.47138-214",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-20",
       "municipality": "Mechelen",
@@ -4462,7 +4544,27 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-in-de-vlindertuin/71d74b09-78f0-45bc-986b-6a145332ac9c"
     },
     {
-      "id": "3-50.71975-5.09481-220",
+      "id": "3-51.01846-4.47866-215",
+      "source": "www.uitinvlaanderen.be",
+      "date": "2026-09-20",
+      "municipality": "Mechelen",
+      "postalCode": "2800",
+      "province": "Antwerp",
+      "latitude": 51.01846,
+      "longitude": 4.47866,
+      "geoSource": "source",
+      "street": "Colomastraat en Willem Geetstraat",
+      "houseNumber": null,
+      "openingHours": null,
+      "admission": null,
+      "categories": [
+        "Brocante"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-met-kinderanimatie-en-colo-cafe/629fd290-2dc9-47fe-9af8-c204d20e2bfb"
+    },
+    {
+      "id": "3-50.71975-5.09481-216",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-20",
       "municipality": "Walsbets",
@@ -4479,10 +4581,15 @@
         "Brocante"
       ],
       "standCount": null,
+      "parkings": [
+        {
+          "label": "Parkeren kan in de Bormansstraat of de Walhostraat of op het begin van de wijk op onze ruime parking (goed…"
+        }
+      ],
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/whtm-rommel-en-ambachtenmarkt/6665b75a-ced9-437c-8d02-daf5a117f7d9"
     },
     {
-      "id": "3-51.08571-3.02069-221",
+      "id": "3-51.08571-3.02069-217",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-20",
       "municipality": "Ichtegem",
@@ -4502,7 +4609,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/binnen-rommelmarkt/3593a671-c7fc-45a3-b930-32853b789188"
     },
     {
-      "id": "3-50.80991-3.18267-222",
+      "id": "3-50.80991-3.18267-218",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-20",
       "municipality": "Wevelgem",
@@ -4522,7 +4629,27 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt/937080cc-5ccb-405d-b389-f638c5722a26"
     },
     {
-      "id": "1-50.89675-5.11036-223",
+      "id": "3-51.20908-3.22793-219",
+      "source": "www.uitinvlaanderen.be",
+      "date": "2026-09-20",
+      "municipality": "Brugge",
+      "postalCode": "8000",
+      "province": "West Flanders",
+      "latitude": 51.20908,
+      "longitude": 3.22793,
+      "geoSource": "source",
+      "street": "Langestraat, Hoogstraat, Mallebergplaats en Philipstockstraat",
+      "houseNumber": null,
+      "openingHours": null,
+      "admission": null,
+      "categories": [
+        "Brocante"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/braderie-en-rommelmarkt-laho/f1a129a8-697f-454a-80c1-5fe66d8a1299"
+    },
+    {
+      "id": "1-50.89675-5.11036-220",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-26",
       "municipality": "Geetbets",
@@ -4545,7 +4672,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133836/rommelmarkt-met-barbecue-geetbets"
     },
     {
-      "id": "1-50.97539-4.89331-224",
+      "id": "1-50.97539-4.89331-221",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-26",
       "municipality": "Rillaar",
@@ -4562,10 +4689,15 @@
         "Rommelmarkt"
       ],
       "standCount": 100,
+      "parkings": [
+        {
+          "label": "Bij voldoende inschrijvingen word deze uitgebreid naar de parking"
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133546/rommelweekend-zaal-den-akker-rillaar--aarschot--rillaar"
     },
     {
-      "id": "1-50.92452-4.72104-225",
+      "id": "1-50.92452-4.72104-222",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-26",
       "municipality": "Wilsele",
@@ -4585,7 +4717,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133943/rommelmarkt--dorpsfeest-wilsele-wilsele"
     },
     {
-      "id": "2-51.29681-4.69426-226",
+      "id": "2-51.29681-4.69426-223",
       "source": "www.wattedoen.be",
       "date": "2026-09-26",
       "municipality": "Westmalle",
@@ -4605,7 +4737,7 @@
       "sourceUrl": "https://www.wattedoen.be/garageverkoop-8748834.shtml"
     },
     {
-      "id": "2-51.13406-3.04467-227",
+      "id": "2-51.13406-3.04467-224",
       "source": "www.wattedoen.be",
       "date": "2026-09-26",
       "municipality": "Ichtegem",
@@ -4625,7 +4757,7 @@
       "sourceUrl": "https://www.wattedoen.be/garageverkoop-rommelmarkt-8759767.shtml"
     },
     {
-      "id": "3-50.92868-3.55796-228",
+      "id": "3-50.92868-3.55796-225",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-26",
       "municipality": "Kruishoutem",
@@ -4645,7 +4777,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-lozer/2e2f37cc-f92f-40b9-87c7-3b91b2719f86"
     },
     {
-      "id": "3-51.00885-3.85281-229",
+      "id": "3-51.00885-3.85281-226",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-26",
       "municipality": "Massemen",
@@ -4665,7 +4797,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-met-kinderanimatie/b2d815c8-f03a-405d-b155-5e7983ff2466"
     },
     {
-      "id": "3-50.92006-3.25483-230",
+      "id": "3-50.92006-3.25483-227",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-26",
       "municipality": "Ingelmunster",
@@ -4685,7 +4817,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/unizo-ingelmunster-rommelmarkt-dd-26-09-2026/1a574776-21d2-4fc6-94be-3e44320f9233"
     },
     {
-      "id": "1-50.79836-5.63321-231",
+      "id": "1-50.79836-5.63321-228",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-27",
       "municipality": "Riemst",
@@ -4705,7 +4837,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133806/rommelmarkt-zussen-riemst"
     },
     {
-      "id": "1-51.09531-3.20483-232",
+      "id": "1-51.09531-3.20483-229",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-27",
       "municipality": "Ruddervoorde",
@@ -4725,7 +4857,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133403/ruddervoorde-kermis-ruddervoorde"
     },
     {
-      "id": "1-50.89828-3.39962-233",
+      "id": "1-50.89828-3.39962-230",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-27",
       "municipality": "Sint-Elooi-Vijve",
@@ -4743,10 +4875,15 @@
         "Rommelmarkt"
       ],
       "standCount": 100,
+      "parkings": [
+        {
+          "label": "Parking Carrefour"
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133035/antiek-and-rommelmarkt-te-sint-eloois-vijve--sint-elooi-vijve"
     },
     {
-      "id": "2-51.38868-4.59882-234",
+      "id": "2-51.38868-4.59882-231",
       "source": "www.wattedoen.be",
       "date": "2026-09-27",
       "municipality": "Wuustwezel",
@@ -4766,7 +4903,7 @@
       "sourceUrl": "https://www.wattedoen.be/dorpsdag-rommelmarkt-8749150.shtml"
     },
     {
-      "id": "3-51.20409-3.32213-235",
+      "id": "3-51.20409-3.32213-232",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-27",
       "municipality": "Damme",
@@ -4786,7 +4923,32 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/feestelijke-buiten-rommelmarkt/a657e662-5386-44ba-9138-dab62a70237c"
     },
     {
-      "id": "1-51.09478-4.07214-236",
+      "id": "3-50.84735-3.44878-233",
+      "source": "www.uitinvlaanderen.be",
+      "date": "2026-09-27",
+      "municipality": "Gijzelbrechtegem",
+      "postalCode": "8570",
+      "province": "West Flanders",
+      "latitude": 50.84735,
+      "longitude": 3.44878,
+      "geoSource": "source",
+      "street": "Roterijstraat",
+      "houseNumber": null,
+      "openingHours": null,
+      "admission": null,
+      "categories": [
+        "Brocante"
+      ],
+      "standCount": null,
+      "parkings": [
+        {
+          "label": "op de parking van de Roterijstraat, in de Roterijstraat en in de Klokketuin (Heirweg - Anzegem)"
+        }
+      ],
+      "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-heirweg-anzegem/d661ecd8-15aa-47eb-9032-ec7c3f763715"
+    },
+    {
+      "id": "1-51.09478-4.07214-234",
       "source": "www.rommelmarkten.be",
       "date": "2026-10-03",
       "municipality": "Hamme",
@@ -4806,7 +4968,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133303/jaarlijkse-rommel-en-antiekmarkt-t-g-v--kermis-hamme"
     },
     {
-      "id": "1-50.875-3.3448-237",
+      "id": "1-50.875-3.3448-235",
       "source": "www.rommelmarkten.be",
       "date": "2026-10-03",
       "municipality": "Beveren-Leie (waregem)",
@@ -4826,7 +4988,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133584/beveren-leie--waregem-"
     },
     {
-      "id": "2-51.08571-3.02069-238",
+      "id": "2-51.08571-3.02069-236",
       "source": "www.wattedoen.be",
       "date": "2026-10-03",
       "municipality": "Ichtegem",
@@ -4846,7 +5008,7 @@
       "sourceUrl": "https://www.wattedoen.be/buitenrommelmarkt-8695151.shtml"
     },
     {
-      "id": "3-50.96544-4.94883-239",
+      "id": "3-50.96544-4.94883-237",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-10-03",
       "municipality": "Scherpenheuvel",
@@ -4866,7 +5028,27 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/garageverkoop-en-rommelmarkt-schoonderbuken/9a7a023e-a49d-4bfb-acb2-3a5d03bb756f"
     },
     {
-      "id": "1-51.28431-4.42839-240",
+      "id": "3-51.09916-3.82423-238",
+      "source": "www.uitinvlaanderen.be",
+      "date": "2026-10-03",
+      "municipality": "Lochristi",
+      "postalCode": "9080",
+      "province": "East Flanders",
+      "latitude": 51.09916,
+      "longitude": 3.82423,
+      "geoSource": "source",
+      "street": "Terrein Bijlokelaan",
+      "houseNumber": "45-47",
+      "openingHours": null,
+      "admission": null,
+      "categories": [
+        "Brocante"
+      ],
+      "standCount": null,
+      "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-meer-dan-300-standhouders-n-a-v-80-j-kapellekens/3ba0cfcd-66e1-4e35-89e1-3dbd22641067"
+    },
+    {
+      "id": "1-51.28431-4.42839-239",
       "source": "www.rommelmarkten.be",
       "date": "2026-10-04",
       "municipality": "Ekeren",
@@ -4886,7 +5068,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133894/ekeren"
     },
     {
-      "id": "1-50.87101-4.27879-241",
+      "id": "1-50.87101-4.27879-240",
       "source": "www.rommelmarkten.be",
       "date": "2026-10-04",
       "municipality": "Groot – Bijgaarden",
@@ -4907,7 +5089,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133916/collect-hit-groot---bijgaarden"
     },
     {
-      "id": "1-50.92963-4.85787-242",
+      "id": "1-50.92963-4.85787-241",
       "source": "www.rommelmarkten.be",
       "date": "2026-10-04",
       "municipality": "Houwaart",
@@ -4924,10 +5106,15 @@
         "Rommelmarkt"
       ],
       "standCount": 150,
+      "parkings": [
+        {
+          "label": "Parkeren kan in omliggende straten en op voorzienen parkings"
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133597/gezellige-rommelmarkt-houwaart"
     },
     {
-      "id": "1-50.88443-3.43651-243",
+      "id": "1-50.88443-3.43651-242",
       "source": "www.rommelmarkten.be",
       "date": "2026-10-04",
       "municipality": "Waregem",
@@ -4945,10 +5132,15 @@
         "Rommelmarkt"
       ],
       "standCount": 100,
+      "parkings": [
+        {
+          "label": "Parking Zuiderpromenade"
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133071/antiek-and-rommelmarkt-te-waregem-waregem"
     },
     {
-      "id": "1-51.11946-3.74024-244",
+      "id": "1-51.11946-3.74024-243",
       "source": "www.rommelmarkten.be",
       "date": "2026-10-09",
       "municipality": "Evergem",
@@ -4968,7 +5160,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133825/buiten-avondrommelmarkt-kermis-kerkbrugge-evergem-evergem"
     },
     {
-      "id": "1-50.97866-4.08057-245",
+      "id": "1-50.97866-4.08057-244",
       "source": "www.rommelmarkten.be",
       "date": "2026-10-10",
       "municipality": "Wieze",
@@ -4989,7 +5181,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133529/rommelbeurs--antiek-en-brocante--wieze"
     },
     {
-      "id": "3-51.04264-4.32602-246",
+      "id": "3-51.04264-4.32602-245",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-10-10",
       "municipality": "Breendonk",
@@ -5009,7 +5201,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-72ste-breendonk-jaarmarkt/264eda54-5024-41a6-87d9-0f243e845c74"
     },
     {
-      "id": "1-51.22213-4.44841-247",
+      "id": "1-51.22213-4.44841-246",
       "source": "www.rommelmarkten.be",
       "date": "2026-10-11",
       "municipality": "Antwerpen",
@@ -5026,10 +5218,15 @@
         "Rommelmarkt"
       ],
       "standCount": null,
+      "parkings": [
+        {
+          "label": "Parking Park Spoor Oost Antwerpen (Locatie Sinksefoor)"
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133460/antwerpen"
     },
     {
-      "id": "1-51.13135-4.56892-248",
+      "id": "1-51.13135-4.56892-247",
       "source": "www.rommelmarkten.be",
       "date": "2026-10-11",
       "municipality": "Lier",
@@ -5051,7 +5248,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133632/vintage-and-retro-brocanterie---lier-lier"
     },
     {
-      "id": "1-50.88449-3.89249-249",
+      "id": "1-50.88449-3.89249-248",
       "source": "www.rommelmarkten.be",
       "date": "2026-10-11",
       "municipality": "Herzele",
@@ -5071,7 +5268,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133869/grote-jaarlijkse-rommelmarkt-herzele-centrum--herzele"
     },
     {
-      "id": "1-50.98827-3.75202-250",
+      "id": "1-50.98827-3.75202-249",
       "source": "www.rommelmarkten.be",
       "date": "2026-10-11",
       "municipality": "Merelbeke",
@@ -5092,7 +5289,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133073/antiek-and-rommelmarkt-te-merelbeke-merelbeke"
     },
     {
-      "id": "3-51.22345-4.44594-251",
+      "id": "3-51.22345-4.44594-250",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-10-11",
       "municipality": "Berchem",
@@ -5109,7 +5306,32 @@
         "Brocante"
       ],
       "standCount": null,
+      "parkings": [
+        {
+          "label": "op de parking van park spoor oost in Antwerpen (locatie sinksenfoor)"
+        }
+      ],
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/mega-grote-openlucht-rommelmarkt-park-spoor-oost-antwerpen-l/199db6e9-8c96-4225-8f54-efa84390e53e"
+    },
+    {
+      "id": "2-50.74243-5.07903-251",
+      "source": "www.wattedoen.be",
+      "date": "2026-10-17",
+      "municipality": "Landen",
+      "postalCode": "3400",
+      "province": "Flemish Brabant",
+      "latitude": 50.74243,
+      "longitude": 5.07903,
+      "geoSource": "source",
+      "street": "Kon.astridlaan",
+      "houseNumber": null,
+      "openingHours": "09:00-17:00",
+      "admission": null,
+      "categories": [
+        "Brocante"
+      ],
+      "standCount": 200,
+      "sourceUrl": "https://www.wattedoen.be/rommelmarkt-emi-domein-tpark-8761391.shtml"
     },
     {
       "id": "2-51.18447-4.58995-252",
@@ -5377,7 +5599,32 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133636/brocanterie-brabanthal-leuven-leuven--heverlee-"
     },
     {
-      "id": "1-50.94284-3.13331-265",
+      "id": "1-51.02463-3.1363-265",
+      "source": "www.rommelmarkten.be",
+      "date": "2026-11-01",
+      "municipality": "Lichtervelde",
+      "postalCode": "8810",
+      "province": "West Flanders",
+      "latitude": 51.02463,
+      "longitude": 3.1363,
+      "geoSource": "address",
+      "street": "Statiestraat",
+      "houseNumber": "113-115",
+      "openingHours": "8:00 - 17:00",
+      "admission": null,
+      "categories": [
+        "Rommelmarkt"
+      ],
+      "standCount": null,
+      "parkings": [
+        {
+          "label": "Parking uitsluitend te bereiken via Stegelstraat en Tweelindenstraat"
+        }
+      ],
+      "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133975/grote-rommel--and-brocantemarkt-lichtervelde"
+    },
+    {
+      "id": "1-50.94284-3.13331-266",
       "source": "www.rommelmarkten.be",
       "date": "2026-11-01",
       "municipality": "Roeselare",
@@ -5398,7 +5645,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133076/antiek-and-rommelmarkt-te-roeselare-roeselare"
     },
     {
-      "id": "1-51.20066-3.21066-266",
+      "id": "1-51.20066-3.21066-267",
       "source": "www.rommelmarkten.be",
       "date": "2026-11-01",
       "municipality": "Sint-Andries Brugge",
@@ -5416,10 +5663,15 @@
         "Rommelmarkt"
       ],
       "standCount": 120,
+      "parkings": [
+        {
+          "label": "parking voor standhouders en bezoekers op de speelplaatsen"
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132800/rommelbeurs-sint-lodewijkscollege---org--jovan-sint-andries-brugge"
     },
     {
-      "id": "2-50.97995-3.52524-267",
+      "id": "2-50.97995-3.52524-268",
       "source": "www.wattedoen.be",
       "date": "2026-11-07",
       "municipality": "Deinze",
@@ -5439,7 +5691,7 @@
       "sourceUrl": "https://www.wattedoen.be/antiek-rommelmarkt-te-8728808.shtml"
     },
     {
-      "id": "2-51.20524-4.64443-268",
+      "id": "2-51.20524-4.64443-269",
       "source": "www.wattedoen.be",
       "date": "2026-11-08",
       "municipality": "Zandhoven",
@@ -5459,7 +5711,7 @@
       "sourceUrl": "https://www.wattedoen.be/grote-overdekte-rommelmarkt-8733630.shtml"
     },
     {
-      "id": "3-51.33387-3.23736-269",
+      "id": "3-51.33387-3.23736-270",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-11-08",
       "municipality": "Knokke",
@@ -5479,7 +5731,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/binnen-rommelmarkt/730c90d0-b97a-4ef8-8658-e2a480445afe"
     },
     {
-      "id": "1-50.98213-4.83833-270",
+      "id": "1-50.98213-4.83833-271",
       "source": "www.rommelmarkten.be",
       "date": "2026-11-11",
       "municipality": "Aarschot",
@@ -5499,7 +5751,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133294/gezellige-binnenrommelmarkt-aarschot"
     },
     {
-      "id": "1-51.0037-3.32693-271",
+      "id": "1-51.0037-3.32693-272",
       "source": "www.rommelmarkten.be",
       "date": "2026-11-11",
       "municipality": "Tielt",
@@ -5520,7 +5772,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133078/antiek-and-rommelmarkt-te-tielt-tielt"
     },
     {
-      "id": "1-51.24474-5.30695-272",
+      "id": "1-51.24474-5.30695-273",
       "source": "www.rommelmarkten.be",
       "date": "2026-11-14",
       "municipality": "Lommel",
@@ -5540,7 +5792,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133295/gezellige-binnenrommelmarkt-lommel"
     },
     {
-      "id": "1-50.97866-4.08057-273",
+      "id": "1-50.97866-4.08057-274",
       "source": "www.rommelmarkten.be",
       "date": "2026-11-14",
       "municipality": "Wieze",
@@ -5561,7 +5813,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133530/rommelbeurs--antiek-en-brocante--wieze"
     },
     {
-      "id": "1-51.18249-3.10217-274",
+      "id": "1-51.18249-3.10217-275",
       "source": "www.rommelmarkten.be",
       "date": "2026-11-15",
       "municipality": "Jabbeke",
@@ -5582,7 +5834,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132801/rommelbeurs-jabbeke---org--jovan-jabbeke"
     },
     {
-      "id": "1-50.98827-3.75202-275",
+      "id": "1-50.98827-3.75202-276",
       "source": "www.rommelmarkten.be",
       "date": "2026-11-22",
       "municipality": "Merelbeke",
@@ -5603,7 +5855,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133079/antiek-and-rommelmarkt-te-merelbeke-merelbeke"
     },
     {
-      "id": "2-51.17339-4.14278-276",
+      "id": "2-51.17339-4.14278-277",
       "source": "www.wattedoen.be",
       "date": "2026-11-22",
       "municipality": "Sint-Niklaas",
@@ -5623,7 +5875,7 @@
       "sourceUrl": "https://www.wattedoen.be/grote-overdekte-rommelmarkt-8733632.shtml"
     },
     {
-      "id": "2-51.13142-3.03563-277",
+      "id": "2-51.13142-3.03563-278",
       "source": "www.wattedoen.be",
       "date": "2026-11-22",
       "municipality": "Eernegem",
@@ -5643,7 +5895,7 @@
       "sourceUrl": "https://www.wattedoen.be/binnen-rommelmarkt-8711718.shtml"
     },
     {
-      "id": "1-51.14915-4.55974-278",
+      "id": "1-51.14915-4.55974-279",
       "source": "www.rommelmarkten.be",
       "date": "2026-11-28",
       "municipality": "Lier",
@@ -5660,10 +5912,15 @@
         "Brocante"
       ],
       "standCount": 30,
+      "parkings": [
+        {
+          "label": "parking Total Experience – €20 5 tot 18 jaar: €10 Jonger dan 5 jaar: gratis Inclusief: Toegang tot…"
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133876/---vintage-reclame-beurs---winter-edition------squadra-lier----lier"
     },
     {
-      "id": "1-51.18226-3.00861-279",
+      "id": "1-51.18226-3.00861-280",
       "source": "www.rommelmarkten.be",
       "date": "2026-11-29",
       "municipality": "Oudenburg",
@@ -5684,7 +5941,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132802/rommelbeurs-oudenburg---org--jovan-oudenburg"
     },
     {
-      "id": "1-50.97866-4.08057-280",
+      "id": "1-50.97866-4.08057-281",
       "source": "www.rommelmarkten.be",
       "date": "2026-12-05",
       "municipality": "Wieze",
@@ -5705,7 +5962,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133531/rommelbeurs--antiek-en-brocante--wieze"
     },
     {
-      "id": "2-51.18385-4.59114-281",
+      "id": "2-51.18385-4.59114-282",
       "source": "www.wattedoen.be",
       "date": "2026-12-06",
       "municipality": "Ranst",
@@ -5725,7 +5982,7 @@
       "sourceUrl": "https://www.wattedoen.be/grote-overdekte-rommelmarkt-8733633.shtml"
     },
     {
-      "id": "1-51.02539-3.68719-282",
+      "id": "1-51.02539-3.68719-283",
       "source": "www.rommelmarkten.be",
       "date": "2026-12-06",
       "municipality": "Gent",
@@ -5745,7 +6002,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132814/rommel--en-brocantebeurs-flanders-expo-gent"
     },
     {
-      "id": "1-50.85697-3.60707-283",
+      "id": "1-50.85697-3.60707-284",
       "source": "www.rommelmarkten.be",
       "date": "2026-12-06",
       "municipality": "Oudenaarde",
@@ -5766,7 +6023,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133083/antiek-and-rommelmarkt-te-oudenaarde-oudenaarde"
     },
     {
-      "id": "1-50.98067-3.52495-284",
+      "id": "1-50.98067-3.52495-285",
       "source": "www.rommelmarkten.be",
       "date": "2026-12-13",
       "municipality": "Deinze",
@@ -5787,7 +6044,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133084/antiek-and-rommelmarkt-te-deinze-deinze"
     },
     {
-      "id": "1-50.98213-4.83833-285",
+      "id": "1-50.98213-4.83833-286",
       "source": "www.rommelmarkten.be",
       "date": "2026-12-13",
       "municipality": "Aarschot",
@@ -5807,7 +6064,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133297/gezellige-binnenrommelmarkt-aarschot"
     },
     {
-      "id": "2-51.12994-3.02596-286",
+      "id": "2-51.12994-3.02596-287",
       "source": "www.wattedoen.be",
       "date": "2026-12-13",
       "municipality": "Eernegem",
@@ -5827,7 +6084,7 @@
       "sourceUrl": "https://www.wattedoen.be/binnen-rommelmarkt-8715396.shtml"
     },
     {
-      "id": "1-51.33327-3.20514-287",
+      "id": "1-51.33327-3.20514-288",
       "source": "www.rommelmarkten.be",
       "date": "2026-12-20",
       "municipality": "Zeebrugge",
@@ -5848,7 +6105,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132679/antiek-and-rommelmarkt-te-zeebrugge-zeebrugge"
     },
     {
-      "id": "1-50.98827-3.75202-288",
+      "id": "1-50.98827-3.75202-289",
       "source": "www.rommelmarkten.be",
       "date": "2026-12-26",
       "municipality": "Merelbeke",
@@ -5869,7 +6126,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133336/antiek-and-rommelmarkt-te-merelbeke-merelbeke"
     },
     {
-      "id": "1-51.09472-2.58729-289",
+      "id": "1-51.09472-2.58729-290",
       "source": "www.rommelmarkten.be",
       "date": "2026-12-27",
       "municipality": "De Panne",
@@ -5890,7 +6147,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133337/antiek-and-rommelmarkt-te-de-panne-de-panne"
     },
     {
-      "id": "1-51.17366-4.14493-290",
+      "id": "1-51.17366-4.14493-291",
       "source": "www.rommelmarkten.be",
       "date": "2027-01-03",
       "municipality": "Sint-Niklaas",
@@ -5911,7 +6168,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133768/antiek-and-rommelmarkt-te-sint-niklaas--sint-niklaas"
     },
     {
-      "id": "1-50.98067-3.52495-291",
+      "id": "1-50.98067-3.52495-292",
       "source": "www.rommelmarkten.be",
       "date": "2027-01-17",
       "municipality": "Deinze",
@@ -5932,14 +6189,14 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133815/antiek-and-rommelmarkt-te-deinze-deinze"
     },
     {
-      "id": "1-50.98883-3.75278-292",
+      "id": "1-50.98827-3.75202-293",
       "source": "www.rommelmarkten.be",
       "date": "2027-01-23",
       "municipality": "Merelbeke",
       "postalCode": "9820",
       "province": "East Flanders",
-      "latitude": 50.98883,
-      "longitude": 3.75278,
+      "latitude": 50.98827,
+      "longitude": 3.75202,
       "geoSource": "source",
       "street": "Bandweerstaat",
       "houseNumber": "26",
@@ -5953,7 +6210,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133816/antiek-and-rommelmarkt-te-merelbeke-merelbeke"
     },
     {
-      "id": "2-51.13142-3.03563-293",
+      "id": "2-51.13142-3.03563-294",
       "source": "www.wattedoen.be",
       "date": "2027-01-24",
       "municipality": "Eernegem",
@@ -5973,7 +6230,7 @@
       "sourceUrl": "https://www.wattedoen.be/binnen-rommelmarkt-8725120.shtml"
     },
     {
-      "id": "2-50.95753-3.09743-294",
+      "id": "2-50.95753-3.09743-295",
       "source": "www.wattedoen.be",
       "date": "2027-01-30",
       "municipality": "Roeselare",
@@ -5990,10 +6247,15 @@
         "Brocante"
       ],
       "standCount": 100,
+      "parkings": [
+        {
+          "label": "Parking mogelijk rond de sporthal"
+        }
+      ],
       "sourceUrl": "https://www.wattedoen.be/binnen-rommelmarkt-8725201.shtml"
     },
     {
-      "id": "1-50.80732-3.27772-295",
+      "id": "1-50.80732-3.27772-296",
       "source": "www.rommelmarkten.be",
       "date": "2027-01-31",
       "municipality": "Kortrijk",
@@ -6013,7 +6275,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133817/retro--brocante--vintage-te-kortrijk-kortrijk"
     },
     {
-      "id": "1-50.88205-3.42584-296",
+      "id": "1-50.88205-3.42584-297",
       "source": "www.rommelmarkten.be",
       "date": "2027-02-07",
       "municipality": "Waregem",
@@ -6034,7 +6296,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133860/antiek-and-rommelmarkt-te-waregem-waregem"
     },
     {
-      "id": "1-50.98067-3.52495-297",
+      "id": "1-50.98067-3.52495-298",
       "source": "www.rommelmarkten.be",
       "date": "2027-02-14",
       "municipality": "Deinze",
@@ -6054,7 +6316,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133863/27ste-mega-muziek-beurs---boekenbeurs-te-deinze-deinze"
     },
     {
-      "id": "1-51.17796-4.83534-298",
+      "id": "1-51.17796-4.83534-299",
       "source": "www.rommelmarkten.be",
       "date": "2027-02-20",
       "municipality": "Herentals",
@@ -6071,10 +6333,15 @@
         "Rommelmarkt"
       ],
       "standCount": null,
+      "parkings": [
+        {
+          "label": "Parkeren kan gratis op de nabijgelegen Belgiëlaan of Augustijnenlaan"
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133936/gezellige-rommelmarkt-herentals"
     },
     {
-      "id": "1-50.98067-3.52495-299",
+      "id": "1-50.98067-3.52495-300",
       "source": "www.rommelmarkten.be",
       "date": "2027-02-20",
       "municipality": "Deinze",
@@ -6095,7 +6362,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133870/antiek-and-rommelmarkt-te-deinze--deinze"
     },
     {
-      "id": "1-51.1858-3.5768-300",
+      "id": "1-51.1858-3.5768-301",
       "source": "www.rommelmarkten.be",
       "date": "2027-02-28",
       "municipality": "Eeklo",
@@ -6116,7 +6383,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133871/antiek-and-rommelmarkt-te-eeklo--eeklo"
     },
     {
-      "id": "3-51.13016-3.02606-301",
+      "id": "3-51.13016-3.02606-302",
       "source": "www.uitinvlaanderen.be",
       "date": "2027-02-28",
       "municipality": "Ichtegem",
@@ -6136,7 +6403,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/binnen-rommelmarkt/b6a35e14-c558-4773-ac07-942be271f9b4"
     },
     {
-      "id": "3-51.33387-3.23736-302",
+      "id": "3-51.33387-3.23736-303",
       "source": "www.uitinvlaanderen.be",
       "date": "2027-03-07",
       "municipality": "Knokke",
@@ -6156,7 +6423,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/binnen-rommelmarkt/7fbb54a0-7a39-4510-b0e1-77b49b4c5ac3"
     },
     {
-      "id": "1-51.17366-4.14493-303",
+      "id": "1-51.17366-4.14493-304",
       "source": "www.rommelmarkten.be",
       "date": "2027-03-14",
       "municipality": "Sint-Niklaas",
@@ -6177,7 +6444,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133769/antiek-and-rommelmarkt-te-sint-niklaas--sint-niklaas"
     },
     {
-      "id": "2-51.14061-3.33266-304",
+      "id": "2-51.14061-3.33266-305",
       "source": "www.wattedoen.be",
       "date": "2027-05-02",
       "municipality": "Beernem",
@@ -6197,7 +6464,7 @@
       "sourceUrl": "https://www.wattedoen.be/buitenrommelmarkt-8746588.shtml"
     },
     {
-      "id": "2-51.20202-3.25506-305",
+      "id": "2-51.20202-3.25506-306",
       "source": "www.wattedoen.be",
       "date": "2027-06-06",
       "municipality": "Assebroek",
@@ -6217,7 +6484,7 @@
       "sourceUrl": "https://www.wattedoen.be/garageverkoop-rommelmarkt-8752929.shtml"
     },
     {
-      "id": "2-51.12241-2.9559-306",
+      "id": "2-51.12241-2.9559-307",
       "source": "www.wattedoen.be",
       "date": "2027-06-06",
       "municipality": "Moere",
@@ -6237,7 +6504,7 @@
       "sourceUrl": "https://www.wattedoen.be/buitenrommelmarkt-8752934.shtml"
     },
     {
-      "id": "3-51.15806-3.01991-307",
+      "id": "3-51.15806-3.01991-308",
       "source": "www.uitinvlaanderen.be",
       "date": "2027-06-20",
       "municipality": "Jabbeke",
@@ -6257,7 +6524,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/feestelijke-buiten-rommelmarkt/94fa3fae-e04d-4001-8ac0-add9079f8ac8"
     },
     {
-      "id": "2-51.24309-3.24548-308",
+      "id": "2-51.24309-3.24548-309",
       "source": "www.wattedoen.be",
       "date": "2027-06-27",
       "municipality": "Koolkerke",
@@ -6277,7 +6544,7 @@
       "sourceUrl": "https://www.wattedoen.be/feestelijke-buitenrommelmarkt-8752963.shtml"
     },
     {
-      "id": "2-51.12664-3.0298-309",
+      "id": "2-51.12664-3.0298-310",
       "source": "www.wattedoen.be",
       "date": "2027-06-27",
       "municipality": "Eernegem",
@@ -6297,7 +6564,7 @@
       "sourceUrl": "https://www.wattedoen.be/buitenrommelmarkt-8753019.shtml"
     },
     {
-      "id": "2-51.28123-3.17839-310",
+      "id": "2-51.28123-3.17839-311",
       "source": "www.wattedoen.be",
       "date": "2027-07-11",
       "municipality": "Koekelare",
@@ -6317,7 +6584,7 @@
       "sourceUrl": "https://www.wattedoen.be/buitenrommelmarkt-8760253.shtml"
     },
     {
-      "id": "2-51.23075-2.91716-311",
+      "id": "2-51.23075-2.91716-312",
       "source": "www.wattedoen.be",
       "date": "2027-07-25",
       "municipality": "Moere",
