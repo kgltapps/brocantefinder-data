@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T14:11:31.354Z",
+  "generatedAt": "2026-08-12T19:28:48.194Z",
   "count": 558,
   "markets": [
     {
@@ -1369,7 +1369,7 @@
       "standCount": null,
       "parkings": [
         {
-          "label": "parking van De Brug"
+          "label": "parking van De Brug. Er waren de voorbije jaren meer dan"
         }
       ],
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-in-de-historische-dreef-van-ternat/78d811e2-7524-44dd-9f55-9ce221a5f1d0"
@@ -1544,7 +1544,7 @@
       "standCount": 100,
       "parkings": [
         {
-          "label": "Parkeren kan in de omliggende straten of Park Hof de Bist"
+          "label": "Parkeren kan in de omliggende straten of Park Hof de Bist. Er zijn nog enkele vrije plaatsen, stuur een mail…"
         }
       ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133904/17de-editie-straatrommelmarkt--ekeren"
@@ -1859,7 +1859,16 @@
       "standCount": 500,
       "parkings": [
         {
-          "label": "PARKING voor bezoekers: 📍 Kubox – Kattestraat 188 📍 Sportpark – Nieuwenhuyse 49 📍 Centrumschool – Veldm"
+          "label": "Kubox – Kattestraat 188"
+        },
+        {
+          "label": "Sportpark – Nieuwenhuyse 49"
+        },
+        {
+          "label": "Centrumschool – Veldm. Montgomerystraat 75"
+        },
+        {
+          "label": "Centrum Kuurne"
         }
       ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133743/------grote-kuurnse-rommelmarkt-------kuurne"
@@ -2465,7 +2474,7 @@
       "standCount": 90,
       "parkings": [
         {
-          "label": "Parking Gobelinstraat/J.Lacopstraat Parcour van 1200 m"
+          "label": "Parking Gobelinstraat/J.Lacopstraat Parcour van 1200 m. Diverse"
         }
       ],
       "sourceUrl": "https://www.wattedoen.be/statierommelmarkt-8758224.shtml"
@@ -3577,7 +3586,7 @@
       "standCount": 450,
       "parkings": [
         {
-          "label": "De toegang is gratis en er is veel parking in de buurt"
+          "label": "parking in de buurt. We voorzien eetstanden, drankstanden en toiletten"
         }
       ],
       "sourceUrl": "https://www.wattedoen.be/left-over-linkeroever-8761276.shtml"
@@ -5571,7 +5580,7 @@
       "standCount": 80,
       "parkings": [
         {
-          "label": "parking, bar, gratis toilet, springkasteel, grimm"
+          "label": "parking, bar, gratis toilet, springkasteel, grimm. Grote Rommel- en Antiekmarkt"
         }
       ],
       "sourceUrl": "https://www.wattedoen.be/grote-rommel-en-antiekmarkt-8761586.shtml"
@@ -5746,7 +5755,7 @@
       "standCount": 200,
       "parkings": [
         {
-          "label": "parking tegenover de markt"
+          "label": "parking tegenover de markt. Bereikbaar via E314 afrit 24 daarna 2 km richting leuven tegenover de kerk"
         }
       ],
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-8728872.shtml"
@@ -6141,7 +6150,7 @@
       "standCount": null,
       "parkings": [
         {
-          "label": "op de parking van LDC De Plek"
+          "label": "op de parking van LDC De Plek. Om 16u start de verkoop"
         }
       ],
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt/8885b285-db34-4e3e-a040-59558260cdd0"
