@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T14:37:01.872Z",
+  "generatedAt": "2026-08-19T07:36:43.256Z",
   "count": 522,
   "markets": [
     {
@@ -52,8 +52,14 @@
         {
           "label": "Inkom & parking gratis",
           "source": "organiser",
+          "vague": true
+        },
+        {
+          "label": "Parking",
           "latitude": 51.25265,
-          "longitude": 5.54371
+          "longitude": 5.54371,
+          "source": "osm",
+          "anonymous": true
         },
         {
           "label": "Bernard Kempplein",
@@ -406,6 +412,13 @@
       "standCount": null,
       "parkings": [
         {
+          "label": "Parking",
+          "latitude": 51.44266,
+          "longitude": 4.73596,
+          "source": "osm",
+          "anonymous": true
+        },
+        {
           "label": "'t Fortuin",
           "latitude": 51.44363,
           "longitude": 4.73767,
@@ -614,6 +627,13 @@
           "vague": false,
           "latitude": 51.22229,
           "longitude": 4.25778
+        },
+        {
+          "label": "Parking",
+          "latitude": 51.22334,
+          "longitude": 4.25853,
+          "source": "osm",
+          "anonymous": true
         }
       ],
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/openluchtrommelmarkt-te-beveren-waas/d102296e-27a8-4f80-bc4c-0e3502abb97d"
@@ -866,8 +886,14 @@
         {
           "label": "op de parking van de mac queen te borgloon",
           "source": "organiser",
+          "vague": false
+        },
+        {
+          "label": "Parking",
           "latitude": 50.78799,
           "longitude": 5.3902,
+          "source": "osm",
+          "anonymous": true,
           "access": "customers"
         }
       ],
@@ -934,6 +960,13 @@
       ],
       "standCount": null,
       "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 51.05316,
+          "longitude": 4.77897,
+          "source": "osm",
+          "anonymous": true
+        },
         {
           "label": "parking Kasteelhoeve",
           "latitude": 51.05524,
@@ -1264,6 +1297,13 @@
       "standCount": 40,
       "parkings": [
         {
+          "label": "Parking",
+          "latitude": 51.10298,
+          "longitude": 4.72877,
+          "source": "osm",
+          "anonymous": true
+        },
+        {
           "label": "Parking Casa/Leen Bakker",
           "latitude": 51.1028,
           "longitude": 4.731,
@@ -1402,8 +1442,14 @@
         {
           "label": "parking in de directe nabijheid",
           "source": "organiser",
+          "vague": false
+        },
+        {
+          "label": "Parking",
           "latitude": 51.21346,
-          "longitude": 3.44419
+          "longitude": 3.44419,
+          "source": "osm",
+          "anonymous": true
         },
         {
           "label": "Sportstadion De Waele",
@@ -1581,6 +1627,13 @@
       ],
       "standCount": null,
       "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 50.90242,
+          "longitude": 4.67272,
+          "source": "osm",
+          "anonymous": true
+        },
         {
           "label": "Woon- & zorgcentrum Betlehem",
           "latitude": 50.90572,
@@ -2140,6 +2193,13 @@
       "standCount": null,
       "parkings": [
         {
+          "label": "Parking",
+          "latitude": 51.04252,
+          "longitude": 4.47502,
+          "source": "osm",
+          "anonymous": true
+        },
+        {
           "label": "Parking Trentels",
           "latitude": 51.03751,
           "longitude": 4.47585,
@@ -2371,8 +2431,14 @@
         {
           "label": "op de parking vanaf 7u00",
           "source": "organiser",
+          "vague": false
+        },
+        {
+          "label": "Parking",
           "latitude": 51.06791,
           "longitude": 5.00531,
+          "source": "osm",
+          "anonymous": true,
           "access": "permissive"
         },
         {
@@ -2678,8 +2744,14 @@
         {
           "label": "Parking Forestierstadion",
           "source": "organiser",
+          "vague": false
+        },
+        {
+          "label": "Parking",
           "latitude": 50.84452,
           "longitude": 3.31017,
+          "source": "osm",
+          "anonymous": true,
           "access": "customers"
         },
         {
@@ -3429,8 +3501,14 @@
         {
           "label": "parking in de buurt. We voorzien eetstanden, drankstanden en toiletten",
           "source": "organiser",
+          "vague": false
+        },
+        {
+          "label": "Parking",
           "latitude": 51.22645,
-          "longitude": 4.39003
+          "longitude": 4.39003,
+          "source": "osm",
+          "anonymous": true
         },
         {
           "label": "De Zeester",
@@ -4335,6 +4413,13 @@
       "standCount": null,
       "parkings": [
         {
+          "label": "Parking",
+          "latitude": 50.87829,
+          "longitude": 3.82868,
+          "source": "osm",
+          "anonymous": true
+        },
+        {
           "label": "parking Deinsbeke",
           "latitude": 50.87292,
           "longitude": 3.81541,
@@ -4529,6 +4614,13 @@
       ],
       "standCount": null,
       "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 51.33082,
+          "longitude": 3.21017,
+          "source": "osm",
+          "anonymous": true
+        },
         {
           "label": "Carrefour Market Zeebrugge",
           "latitude": 51.32997,
@@ -4882,6 +4974,13 @@
       "standCount": 80,
       "parkings": [
         {
+          "label": "Parking",
+          "latitude": 51.21806,
+          "longitude": 4.02172,
+          "source": "osm",
+          "anonymous": true
+        },
+        {
           "label": "Parking Basisschool De Molenberg",
           "latitude": 51.21079,
           "longitude": 4.03065,
@@ -4912,8 +5011,14 @@
         {
           "label": "parking naast Poolse winkel Smaczny en winkel BoonAp",
           "source": "organiser",
+          "vague": false
+        },
+        {
+          "label": "Parking",
           "latitude": 51.00958,
-          "longitude": 3.79291
+          "longitude": 3.79291,
+          "source": "osm",
+          "anonymous": true
         }
       ],
       "sourceUrl": "https://www.wattedoen.be/einde-van-zomervakantie-8761289.shtml"
@@ -5010,8 +5115,14 @@
         {
           "label": "Op de parking aan Gildehuis Walsberger",
           "source": "organiser",
+          "vague": false
+        },
+        {
+          "label": "Parking",
           "latitude": 50.80627,
-          "longitude": 5.06601
+          "longitude": 5.06601,
+          "source": "osm",
+          "anonymous": true
         }
       ],
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-en-bierfeesten-8757722.shtml"
@@ -5563,8 +5674,14 @@
         {
           "label": "Gratis inkom en parking",
           "source": "organiser",
+          "vague": true
+        },
+        {
+          "label": "Parking",
           "latitude": 51.10972,
-          "longitude": 4.63814
+          "longitude": 4.63814,
+          "source": "osm",
+          "anonymous": true
         },
         {
           "label": "Aldi",
@@ -5677,8 +5794,14 @@
         {
           "label": "parking gratis - Kom vroeg voor de beste keus - Neem contant geld mee (niet alle verkopers accepteren pin)…",
           "source": "organiser",
+          "vague": false
+        },
+        {
+          "label": "Parking",
           "latitude": 51.13607,
-          "longitude": 4.86287
+          "longitude": 4.86287,
+          "source": "osm",
+          "anonymous": true
         }
       ],
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-fc-verachtert-8704373.shtml"
@@ -6618,6 +6741,13 @@
       "standCount": null,
       "parkings": [
         {
+          "label": "Parking",
+          "latitude": 50.92767,
+          "longitude": 5.66753,
+          "source": "osm",
+          "anonymous": true
+        },
+        {
           "label": "Parking Natuurbegraafplaats",
           "latitude": 50.92716,
           "longitude": 5.66756,
@@ -6717,8 +6847,14 @@
         {
           "label": "parking-lekkere hamburgers en pensen en veel koopjes te doen Schrijf je in…",
           "source": "organiser",
+          "vague": false
+        },
+        {
+          "label": "Parking",
           "latitude": 50.93098,
-          "longitude": 4.2266
+          "longitude": 4.2266,
+          "source": "osm",
+          "anonymous": true
         }
       ],
       "sourceUrl": "https://www.wattedoen.be/mollem-rommelt-8759757.shtml"
@@ -6745,8 +6881,14 @@
         {
           "label": "Parking langs de Pierlapont",
           "source": "organiser",
+          "vague": false
+        },
+        {
+          "label": "Parking",
           "latitude": 51.12775,
-          "longitude": 3.17665
+          "longitude": 3.17665,
+          "source": "osm",
+          "anonymous": true
         }
       ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132930/rommelmarkt-de-lelie-loppem"
@@ -7499,8 +7641,14 @@
         {
           "label": "parking tegenover de markt. Bereikbaar via E314 afrit 24 daarna 2 km richting leuven tegenover de kerk",
           "source": "organiser",
+          "vague": false
+        },
+        {
+          "label": "Parking",
           "latitude": 50.94427,
-          "longitude": 4.97121
+          "longitude": 4.97121,
+          "source": "osm",
+          "anonymous": true
         },
         {
           "label": "Pallieter",
@@ -7985,8 +8133,14 @@
         {
           "label": "Er is vanuit elke richting ruim parking voorzien",
           "source": "organiser",
+          "vague": false
+        },
+        {
+          "label": "Parking",
           "latitude": 50.78263,
-          "longitude": 2.82548
+          "longitude": 2.82548,
+          "source": "osm",
+          "anonymous": true
         }
       ],
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/49ste-rommel-en-antiekmarkt-kemmel/4939ecff-8b6f-4b8b-a33e-5666aeebd6a6"
@@ -8179,6 +8333,13 @@
       "standCount": null,
       "parkings": [
         {
+          "label": "Parking",
+          "latitude": 51.10143,
+          "longitude": 4.26334,
+          "source": "osm",
+          "anonymous": true
+        },
+        {
           "label": "Spar",
           "latitude": 51.10263,
           "longitude": 4.27001,
@@ -8216,8 +8377,14 @@
         {
           "label": "op de parking van LDC De Plek. Om 16u start de verkoop",
           "source": "organiser",
+          "vague": false
+        },
+        {
+          "label": "Parking",
           "latitude": 51.07253,
           "longitude": 4.53497,
+          "source": "osm",
+          "anonymous": true,
           "access": "customers"
         },
         {
@@ -8285,6 +8452,12 @@
           "label": "P1 Front Parking",
           "latitude": 51.18993,
           "longitude": 4.45047,
+          "source": "osm"
+        },
+        {
+          "label": "P1",
+          "latitude": 51.18948,
+          "longitude": 4.45094,
           "source": "osm"
         },
         {
@@ -8703,6 +8876,13 @@
       ],
       "standCount": 50,
       "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 51.04239,
+          "longitude": 4.81102,
+          "source": "osm",
+          "anonymous": true
+        },
         {
           "label": "parking Parochiezaal",
           "latitude": 51.041,
@@ -9258,6 +9438,13 @@
       "standCount": null,
       "parkings": [
         {
+          "label": "Parking",
+          "latitude": 51.00197,
+          "longitude": 5.14715,
+          "source": "osm",
+          "anonymous": true
+        },
+        {
           "label": "Parking De Kastrol",
           "latitude": 50.99683,
           "longitude": 5.13905,
@@ -9422,6 +9609,13 @@
       "standCount": 200,
       "parkings": [
         {
+          "label": "Parking",
+          "latitude": 50.99528,
+          "longitude": 4.2651,
+          "source": "osm",
+          "anonymous": true
+        },
+        {
           "label": "Parking Sint-Niklaasstraat",
           "latitude": 50.99542,
           "longitude": 4.26877,
@@ -9453,8 +9647,14 @@
         {
           "label": "Parking Ringshoppingcenter",
           "source": "organiser",
+          "vague": false
+        },
+        {
+          "label": "Parking",
           "latitude": 50.84596,
           "longitude": 3.26302,
+          "source": "osm",
+          "anonymous": true,
           "access": "customers"
         },
         {
@@ -9597,6 +9797,13 @@
       "standCount": 250,
       "parkings": [
         {
+          "label": "Parking",
+          "latitude": 51.09353,
+          "longitude": 3.45308,
+          "source": "osm",
+          "anonymous": true
+        },
+        {
           "label": "Parking Station",
           "latitude": 51.09222,
           "longitude": 3.45063,
@@ -9689,11 +9896,18 @@
           "source": "osm"
         },
         {
+          "label": "Parking",
+          "latitude": 50.91213,
+          "longitude": 3.59444,
+          "source": "osm",
+          "anonymous": true,
+          "access": "customers"
+        },
+        {
           "label": "Parking Benoit & Bernard Dewitte",
           "latitude": 50.91386,
           "longitude": 3.60576,
-          "source": "osm",
-          "access": "customers"
+          "source": "osm"
         }
       ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133887/garageverkoop-doorheen-ouwegem-ouwegem"
@@ -10087,8 +10301,14 @@
         {
           "label": "parking op de parkeerweide (Beekmeersstraat)",
           "source": "organiser",
+          "vague": false
+        },
+        {
+          "label": "Parking",
           "latitude": 50.90582,
-          "longitude": 3.71527
+          "longitude": 3.71527,
+          "source": "osm",
+          "anonymous": true
         }
       ],
       "sourceUrl": "https://www.wattedoen.be/5de-editie-rommelmarkt-de-8726350.shtml"
@@ -10173,8 +10393,14 @@
         {
           "label": "GRATIS parking in de nabijheid",
           "source": "organiser",
+          "vague": true
+        },
+        {
+          "label": "Parking",
           "latitude": 50.78855,
-          "longitude": 3.68731
+          "longitude": 3.68731,
+          "source": "osm",
+          "anonymous": true
         }
       ],
       "sourceUrl": "https://www.wattedoen.be/vintage-retro-brocante-en-8760930.shtml"
@@ -10417,6 +10643,13 @@
       "standCount": 200,
       "parkings": [
         {
+          "label": "Parking",
+          "latitude": 50.73972,
+          "longitude": 5.08067,
+          "source": "osm",
+          "anonymous": true
+        },
+        {
           "label": "Parking Landen P1",
           "latitude": 50.74943,
           "longitude": 5.07674,
@@ -10445,6 +10678,13 @@
       ],
       "standCount": 50,
       "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 50.97896,
+          "longitude": 4.86021,
+          "source": "osm",
+          "anonymous": true
+        },
         {
           "label": "Brico parking",
           "latitude": 50.97949,
@@ -11149,6 +11389,13 @@
       "standCount": null,
       "parkings": [
         {
+          "label": "Parking",
+          "latitude": 51.14876,
+          "longitude": 3.60823,
+          "source": "osm",
+          "anonymous": true
+        },
+        {
           "label": "Parking Centrum",
           "latitude": 51.15215,
           "longitude": 3.6073,
@@ -11428,6 +11675,13 @@
       "standCount": 80,
       "parkings": [
         {
+          "label": "Parking",
+          "latitude": 50.83143,
+          "longitude": 3.31327,
+          "source": "osm",
+          "anonymous": true
+        },
+        {
           "label": "De Gavers - Parking Eikenstraat",
           "latitude": 50.83716,
           "longitude": 3.31848,
@@ -11534,6 +11788,14 @@
       ],
       "standCount": 50,
       "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 50.89127,
+          "longitude": 4.34455,
+          "source": "osm",
+          "anonymous": true,
+          "fee": "yes"
+        },
         {
           "label": "Parking T",
           "latitude": 50.89588,
@@ -11642,6 +11904,13 @@
       ],
       "standCount": null,
       "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 51.16143,
+          "longitude": 4.15826,
+          "source": "osm",
+          "anonymous": true
+        },
         {
           "label": "Personeelsparking AZ",
           "latitude": 51.16074,
@@ -12346,6 +12615,13 @@
       "standCount": null,
       "parkings": [
         {
+          "label": "Parking",
+          "latitude": 51.01021,
+          "longitude": 4.47258,
+          "source": "osm",
+          "anonymous": true
+        },
+        {
           "label": "Passade",
           "latitude": 51.00875,
           "longitude": 4.47493,
@@ -12459,6 +12735,13 @@
       "standCount": null,
       "parkings": [
         {
+          "label": "Parking",
+          "latitude": 51.13285,
+          "longitude": 5.80901,
+          "source": "osm",
+          "anonymous": true
+        },
+        {
           "label": "Parking De Steenberg",
           "latitude": 51.13166,
           "longitude": 5.81504,
@@ -12567,6 +12850,13 @@
           "vague": false,
           "latitude": 50.71979,
           "longitude": 5.09002
+        },
+        {
+          "label": "Parking",
+          "latitude": 50.722,
+          "longitude": 5.09765,
+          "source": "osm",
+          "anonymous": true
         }
       ],
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/whtm-rommel-en-ambachtenmarkt/6665b75a-ced9-437c-8d02-daf5a117f7d9"
@@ -12590,6 +12880,13 @@
       ],
       "standCount": null,
       "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 51.46344,
+          "longitude": 4.44866,
+          "source": "osm",
+          "anonymous": true
+        },
         {
           "label": "Parking Station",
           "latitude": 51.46315,
@@ -12803,6 +13100,13 @@
       "standCount": null,
       "parkings": [
         {
+          "label": "Parking",
+          "latitude": 50.89743,
+          "longitude": 5.10668,
+          "source": "osm",
+          "anonymous": true
+        },
+        {
           "label": "Parking Café Emma",
           "latitude": 50.8915,
           "longitude": 5.11478,
@@ -12952,6 +13256,13 @@
       "standCount": 125,
       "parkings": [
         {
+          "label": "Parking",
+          "latitude": 51.18952,
+          "longitude": 4.39962,
+          "source": "osm",
+          "anonymous": true
+        },
+        {
           "label": "Parking Desguinlei",
           "latitude": 51.19611,
           "longitude": 4.39783,
@@ -12979,6 +13290,13 @@
       ],
       "standCount": 200,
       "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 51.17714,
+          "longitude": 4.36363,
+          "source": "osm",
+          "anonymous": true
+        },
         {
           "label": "Parking Colruyt",
           "latitude": 51.17075,
@@ -13222,6 +13540,13 @@
           "latitude": 50.92708,
           "longitude": 4.45433,
           "source": "osm"
+        },
+        {
+          "label": "Parking",
+          "latitude": 50.92787,
+          "longitude": 4.45124,
+          "source": "osm",
+          "anonymous": true
         }
       ],
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-op-de-septemberfeesten-peutie/3d6c2e19-e9f8-4b38-b3f5-950b634445e3"
@@ -13284,8 +13609,14 @@
         {
           "label": "Anzegem (Parking)",
           "source": "organiser",
+          "vague": false
+        },
+        {
+          "label": "Parking",
           "latitude": 50.84638,
-          "longitude": 3.44813
+          "longitude": 3.44813,
+          "source": "osm",
+          "anonymous": true
         }
       ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133974/rommelmarkt-heirweg---anzegem-anzegem"
@@ -13342,8 +13673,14 @@
         {
           "label": "Parking Carrefour",
           "source": "organiser",
+          "vague": false
+        },
+        {
+          "label": "Parking",
           "latitude": 50.89863,
-          "longitude": 3.40098
+          "longitude": 3.40098,
+          "source": "osm",
+          "anonymous": true
         },
         {
           "label": "GIKS",
@@ -13440,6 +13777,13 @@
       "standCount": 300,
       "parkings": [
         {
+          "label": "Parking",
+          "latitude": 51.38955,
+          "longitude": 4.59758,
+          "source": "osm",
+          "anonymous": true
+        },
+        {
           "label": "Parking delhaize",
           "latitude": 51.39195,
           "longitude": 4.59584,
@@ -13533,6 +13877,13 @@
       "standCount": 50,
       "parkings": [
         {
+          "label": "Parking",
+          "latitude": 51.25656,
+          "longitude": 4.50533,
+          "source": "osm",
+          "anonymous": true
+        },
+        {
           "label": "Parking 't Ven",
           "latitude": 51.25178,
           "longitude": 4.50191,
@@ -13615,6 +13966,13 @@
       ],
       "standCount": 100,
       "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 50.77812,
+          "longitude": 3.44971,
+          "source": "osm",
+          "anonymous": true
+        },
         {
           "label": "Parking Atheneum",
           "latitude": 50.77688,
@@ -13711,14 +14069,20 @@
         {
           "label": "Parking aan de sporthal op het Parcours",
           "source": "organiser",
-          "latitude": 51.02073,
-          "longitude": 4.99941
+          "vague": false
         },
         {
           "label": "Parking 4",
           "latitude": 51.02207,
           "longitude": 4.99782,
           "source": "osm"
+        },
+        {
+          "label": "Parking",
+          "latitude": 51.02073,
+          "longitude": 4.99941,
+          "source": "osm",
+          "anonymous": true
         }
       ],
       "sourceUrl": "https://www.wattedoen.be/grote-garageverkoop-8751167.shtml"
@@ -14018,8 +14382,14 @@
         {
           "label": "parking van Little Ball Village aperitiefconcert met kinderkoor Muzquito terras met drankgelegenheid…",
           "source": "organiser",
+          "vague": false
+        },
+        {
+          "label": "Parking",
           "latitude": 50.88771,
-          "longitude": 3.3525
+          "longitude": 3.3525,
+          "source": "osm",
+          "anonymous": true
         },
         {
           "label": "OKay Desselgem",
@@ -14239,6 +14609,13 @@
           "vague": false,
           "latitude": 51.00057,
           "longitude": 4.12981
+        },
+        {
+          "label": "Parking",
+          "latitude": 50.99981,
+          "longitude": 4.15058,
+          "source": "osm",
+          "anonymous": true
         }
       ],
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-heizijde/14085c4d-9bcf-485f-88ac-88bf88f9e247"
@@ -14387,8 +14764,14 @@
         {
           "label": "Parkeren kan in omliggende straten en op voorzienen parkings",
           "source": "organiser",
+          "vague": false
+        },
+        {
+          "label": "Parking",
           "latitude": 50.92651,
-          "longitude": 4.8569
+          "longitude": 4.8569,
+          "source": "osm",
+          "anonymous": true
         }
       ],
       "sourceUrl": "https://www.wattedoen.be/gezellige-rommelmarkt-met-8745986.shtml"
@@ -14416,6 +14799,7 @@
         {
           "label": "Parking Zuiderpromenade",
           "source": "organiser",
+          "vague": false,
           "latitude": 50.88436,
           "longitude": 3.43404,
           "fee": "yes"
@@ -14700,6 +15084,13 @@
       "standCount": 150,
       "parkings": [
         {
+          "label": "Parking",
+          "latitude": 51.02657,
+          "longitude": 4.50325,
+          "source": "osm",
+          "anonymous": true
+        },
+        {
           "label": "Shopping Shuttle / Extra parking UGC Mechelen",
           "latitude": 51.0262,
           "longitude": 4.50071,
@@ -14803,6 +15194,7 @@
         {
           "label": "Parking Park Spoor Oost Antwerpen (Locatie Sinksefoor)",
           "source": "organiser",
+          "vague": false,
           "latitude": 51.22427,
           "longitude": 4.44383
         },
@@ -14912,6 +15304,13 @@
       ],
       "standCount": 125,
       "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 50.98892,
+          "longitude": 3.75393,
+          "source": "osm",
+          "anonymous": true
+        },
         {
           "label": "Conversatieparking",
           "latitude": 50.99079,
@@ -15025,6 +15424,7 @@
         {
           "label": "op de parking van park spoor oost in Antwerpen (locatie sinksenfoor)",
           "source": "organiser",
+          "vague": false,
           "latitude": 51.22427,
           "longitude": 4.44383
         },
@@ -15092,6 +15492,13 @@
       ],
       "standCount": 200,
       "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 50.73972,
+          "longitude": 5.08067,
+          "source": "osm",
+          "anonymous": true
+        },
         {
           "label": "Parking Landen P1",
           "latitude": 50.74943,
@@ -15291,6 +15698,13 @@
       ],
       "standCount": 125,
       "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 51.18952,
+          "longitude": 4.39962,
+          "source": "osm",
+          "anonymous": true
+        },
         {
           "label": "Parking Desguinlei",
           "latitude": 51.19611,
@@ -15922,6 +16336,13 @@
       "standCount": 200,
       "parkings": [
         {
+          "label": "Parking",
+          "latitude": 51.33438,
+          "longitude": 3.23894,
+          "source": "osm",
+          "anonymous": true
+        },
+        {
           "label": "Randparking P1",
           "latitude": 51.33324,
           "longitude": 3.23415,
@@ -15949,6 +16370,13 @@
       ],
       "standCount": null,
       "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 51.33438,
+          "longitude": 3.23894,
+          "source": "osm",
+          "anonymous": true
+        },
         {
           "label": "Randparking P1",
           "latitude": 51.33324,
@@ -16241,6 +16669,13 @@
       "standCount": 125,
       "parkings": [
         {
+          "label": "Parking",
+          "latitude": 50.98892,
+          "longitude": 3.75393,
+          "source": "osm",
+          "anonymous": true
+        },
+        {
           "label": "Conversatieparking",
           "latitude": 50.99079,
           "longitude": 3.74774,
@@ -16353,8 +16788,14 @@
         {
           "label": "parking Total Experience – €20 5 tot 18 jaar: €10 Jonger dan 5 jaar: gratis Inclusief: Toegang tot…",
           "source": "organiser",
+          "vague": false
+        },
+        {
+          "label": "Parking",
           "latitude": 51.14871,
-          "longitude": 4.56487
+          "longitude": 4.56487,
+          "source": "osm",
+          "anonymous": true
         }
       ],
       "sourceUrl": "https://www.wattedoen.be/vintage-reclame-beurs-8753806.shtml"
@@ -16378,6 +16819,13 @@
       ],
       "standCount": 150,
       "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 51.02657,
+          "longitude": 4.50325,
+          "source": "osm",
+          "anonymous": true
+        },
         {
           "label": "Shopping Shuttle / Extra parking UGC Mechelen",
           "latitude": 51.0262,
@@ -16491,6 +16939,13 @@
       ],
       "standCount": 125,
       "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 51.18952,
+          "longitude": 4.39962,
+          "source": "osm",
+          "anonymous": true
+        },
         {
           "label": "Parking Desguinlei",
           "latitude": 51.19611,
@@ -16791,6 +17246,13 @@
       "standCount": 80,
       "parkings": [
         {
+          "label": "Parking",
+          "latitude": 51.33299,
+          "longitude": 3.20519,
+          "source": "osm",
+          "anonymous": true
+        },
+        {
           "label": "private  parking  Bzyc",
           "latitude": 51.33205,
           "longitude": 3.202,
@@ -16826,6 +17288,13 @@
       ],
       "standCount": 125,
       "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 50.98892,
+          "longitude": 3.75393,
+          "source": "osm",
+          "anonymous": true
+        },
         {
           "label": "Conversatieparking",
           "latitude": 50.99079,
@@ -17017,6 +17486,13 @@
       ],
       "standCount": 125,
       "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 50.98892,
+          "longitude": 3.75393,
+          "source": "osm",
+          "anonymous": true
+        },
         {
           "label": "Conversatieparking",
           "latitude": 50.99079,
@@ -17529,6 +18005,13 @@
       "standCount": 100,
       "parkings": [
         {
+          "label": "Parking",
+          "latitude": 51.33438,
+          "longitude": 3.23894,
+          "source": "osm",
+          "anonymous": true
+        },
+        {
           "label": "Randparking P1",
           "latitude": 51.33324,
           "longitude": 3.23415,
@@ -17556,6 +18039,13 @@
       ],
       "standCount": null,
       "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 51.33438,
+          "longitude": 3.23894,
+          "source": "osm",
+          "anonymous": true
+        },
         {
           "label": "Randparking P1",
           "latitude": 51.33324,
