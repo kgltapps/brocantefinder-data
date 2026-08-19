@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T07:36:43.256Z",
+  "generatedAt": "2026-08-19T13:21:55.976Z",
   "count": 522,
   "markets": [
     {
@@ -2314,6 +2314,16 @@
         "Garageverkoop"
       ],
       "standCount": null,
+      "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 51.31867,
+          "longitude": 4.60344,
+          "source": "osm",
+          "anonymous": true,
+          "far": true
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133924/jaarlijkse-garageverkoop-gebuurte-de-merel-brecht"
     },
     {
@@ -2504,6 +2514,16 @@
         "Rommelmarkt"
       ],
       "standCount": 200,
+      "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 51.3099,
+          "longitude": 4.26355,
+          "source": "osm",
+          "anonymous": true,
+          "far": true
+        }
+      ],
       "sourceUrl": "https://www.wattedoen.be/50e-scheldewijding-doelse-8757639.shtml"
     },
     {
@@ -3256,6 +3276,16 @@
         "Rommelmarkt"
       ],
       "standCount": null,
+      "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 51.14574,
+          "longitude": 3.14162,
+          "source": "osm",
+          "anonymous": true,
+          "far": true
+        }
+      ],
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/heirweg-zomert-rommelmarkt/fa4b1dbb-db94-439c-b70c-9aeb3c87948a"
     },
     {
@@ -7152,6 +7182,16 @@
         "Rommelmarkt"
       ],
       "standCount": 120,
+      "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 50.80382,
+          "longitude": 3.75154,
+          "source": "osm",
+          "anonymous": true,
+          "far": true
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133486/brakel"
     },
     {
@@ -12164,6 +12204,23 @@
         "Tweedehands"
       ],
       "standCount": null,
+      "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 51.10573,
+          "longitude": 3.16508,
+          "source": "osm",
+          "anonymous": true,
+          "far": true
+        },
+        {
+          "label": "Markt",
+          "latitude": 51.10392,
+          "longitude": 3.16146,
+          "source": "osm",
+          "far": true
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133535/rommelmarkt-in-veldegem-zedelgem"
     },
     {
@@ -13366,6 +13423,16 @@
         "Rommelmarkt"
       ],
       "standCount": 130,
+      "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 50.89036,
+          "longitude": 3.89386,
+          "source": "osm",
+          "anonymous": true,
+          "far": true
+        }
+      ],
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-met-grime-8758512.shtml"
     },
     {
@@ -13474,6 +13541,16 @@
         "Brocante"
       ],
       "standCount": null,
+      "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 50.89036,
+          "longitude": 3.89386,
+          "source": "osm",
+          "anonymous": true,
+          "far": true
+        }
+      ],
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/18de-rommel-en-antiekmarkt-ressegem/bd4318b3-2d5f-45f5-947f-13d8355e2af7"
     },
     {
@@ -13910,6 +13987,16 @@
         "Garageverkoop"
       ],
       "standCount": 60,
+      "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 51.27213,
+          "longitude": 5.50009,
+          "source": "osm",
+          "anonymous": true,
+          "far": true
+        }
+      ],
       "sourceUrl": "https://www.wattedoen.be/garageverkoop-8761389.shtml"
     },
     {
@@ -16646,6 +16733,16 @@
         "Rommelmarkt"
       ],
       "standCount": null,
+      "parkings": [
+        {
+          "label": "Parking",
+          "latitude": 50.96471,
+          "longitude": 4.78613,
+          "source": "osm",
+          "anonymous": true,
+          "far": true
+        }
+      ],
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133937/vlooienmarkt---verkoop-per-opbod----wezemaal"
     },
     {
