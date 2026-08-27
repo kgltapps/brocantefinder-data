@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T07:34:07.066Z",
+  "generatedAt": "2026-08-27T15:46:05.201Z",
   "count": 522,
   "markets": [
     {
@@ -89,11 +89,6 @@
       ],
       "standCount": null,
       "parkings": [
-        {
-          "label": "Inkom & parking gratis",
-          "source": "organiser",
-          "vague": true
-        },
         {
           "label": "Parking",
           "latitude": 51.25265,
@@ -2173,11 +2168,6 @@
       "standCount": 100,
       "parkings": [
         {
-          "label": "parking in de directe nabijheid",
-          "source": "organiser",
-          "vague": false
-        },
-        {
           "label": "Parking",
           "latitude": 51.21346,
           "longitude": 3.44419,
@@ -2601,11 +2591,6 @@
       ],
       "standCount": null,
       "parkings": [
-        {
-          "label": "Parkeren",
-          "source": "organiser",
-          "vague": true
-        },
         {
           "label": "Parking",
           "latitude": 50.89507,
@@ -3787,11 +3772,6 @@
       "standCount": null,
       "parkings": [
         {
-          "label": "op de parking vanaf 7u00",
-          "source": "organiser",
-          "vague": false
-        },
-        {
           "label": "Parking",
           "latitude": 51.06791,
           "longitude": 5.00531,
@@ -4753,11 +4733,6 @@
       "standCount": 50,
       "parkings": [
         {
-          "label": "Rommelmarkt op de aanpalende parking",
-          "source": "organiser",
-          "vague": false
-        },
-        {
           "label": "Uzien",
           "latitude": 50.85054,
           "longitude": 3.34726,
@@ -5209,11 +5184,6 @@
       ],
       "standCount": 500,
       "parkings": [
-        {
-          "label": "parking in de buurt. We voorzien eetstanden, drankstanden en toiletten",
-          "source": "organiser",
-          "vague": false
-        },
         {
           "label": "Parking",
           "latitude": 51.22645,
@@ -6192,11 +6162,6 @@
       "standCount": 200,
       "parkings": [
         {
-          "label": "parkeergelegenheid aan € 3,00",
-          "source": "organiser",
-          "vague": false
-        },
-        {
           "label": "Parking",
           "latitude": 51.29033,
           "longitude": 4.41102,
@@ -6381,11 +6346,6 @@
       ],
       "standCount": 110,
       "parkings": [
-        {
-          "label": "Parkeren in de nabijheid van de markt mogelijk",
-          "source": "organiser",
-          "vague": false
-        },
         {
           "label": "Parking",
           "latitude": 50.88209,
@@ -8418,11 +8378,6 @@
       "standCount": 300,
       "parkings": [
         {
-          "label": "Gratis inkom en parking",
-          "source": "organiser",
-          "vague": true
-        },
-        {
           "label": "Parking",
           "latitude": 51.10972,
           "longitude": 4.63814,
@@ -8646,11 +8601,6 @@
       "standCount": 150,
       "parkings": [
         {
-          "label": "parking gratis - Kom vroeg voor de beste keus - Neem contant geld mee (niet alle verkopers accepteren pin)…",
-          "source": "organiser",
-          "vague": false
-        },
-        {
           "label": "Parking",
           "latitude": 51.13607,
           "longitude": 4.86287,
@@ -8803,16 +8753,18 @@
       "standCount": 110,
       "parkings": [
         {
-          "label": "Parkeren in de nabijheid van de markt mogelijk",
-          "source": "organiser",
-          "vague": false
-        },
-        {
           "label": "AD Delhaize",
           "latitude": 50.86457,
           "longitude": 3.64131,
           "source": "osm",
           "access": "customers"
+        },
+        {
+          "label": "Parking",
+          "latitude": 50.86399,
+          "longitude": 3.6407,
+          "source": "osm",
+          "anonymous": true
         },
         {
           "label": "OC Sint-Vaast",
@@ -10127,11 +10079,6 @@
       "standCount": 200,
       "parkings": [
         {
-          "label": "parkeergelegenheid beschikbaar bij het gemeentehuis, de Heimolen en in de omliggende omgeving van…",
-          "source": "organiser",
-          "vague": false
-        },
-        {
           "label": "Parking",
           "latitude": 51.00351,
           "longitude": 4.63104,
@@ -10216,11 +10163,6 @@
       ],
       "standCount": 70,
       "parkings": [
-        {
-          "label": "parking-lekkere hamburgers en pensen en veel koopjes te doen Schrijf je in…",
-          "source": "organiser",
-          "vague": false
-        },
         {
           "label": "Parking",
           "latitude": 50.93098,
@@ -11001,11 +10943,6 @@
       "standCount": 80,
       "parkings": [
         {
-          "label": "parking, bar, gratis toilet, springkasteel, grimm. Grote Rommel- en Antiekmarkt",
-          "source": "organiser",
-          "vague": false
-        },
-        {
           "label": "Parking",
           "latitude": 50.88133,
           "longitude": 3.732,
@@ -11055,11 +10992,6 @@
       ],
       "standCount": 120,
       "parkings": [
-        {
-          "label": "op de parking van cm (De Bond) voor 1 euro",
-          "source": "organiser",
-          "vague": false
-        },
         {
           "label": "Warande (420plaatsen)",
           "latitude": 51.32539,
@@ -11116,6 +11048,13 @@
           "latitude": 51.32396,
           "longitude": 4.93831,
           "source": "osm"
+        },
+        {
+          "label": "Le Bon",
+          "latitude": 51.32154,
+          "longitude": 4.94413,
+          "source": "osm",
+          "fee": "yes"
         }
       ],
       "sourceUrl": "https://www.wattedoen.be/de-gezelligste-brocantemarkt-8759630.shtml"
@@ -11345,11 +11284,6 @@
       ],
       "standCount": 200,
       "parkings": [
-        {
-          "label": "parking tegenover de markt. Bereikbaar via E314 afrit 24 daarna 2 km richting leuven tegenover de kerk",
-          "source": "organiser",
-          "vague": false
-        },
         {
           "label": "Parking",
           "latitude": 50.94427,
@@ -12235,11 +12169,6 @@
       "standCount": null,
       "parkings": [
         {
-          "label": "Er is vanuit elke richting ruim parking voorzien",
-          "source": "organiser",
-          "vague": false
-        },
-        {
           "label": "Parking",
           "latitude": 50.78263,
           "longitude": 2.82548,
@@ -12514,11 +12443,6 @@
       "standCount": null,
       "parkings": [
         {
-          "label": "Opstellen vanaf 13 uur tot 16.30 uur .De wagen kan er niet bij maar er is parkeergelegenheid voor iedereen",
-          "source": "organiser",
-          "vague": false
-        },
-        {
           "label": "Spar",
           "latitude": 51.10263,
           "longitude": 4.27001,
@@ -12575,6 +12499,14 @@
           "label": "Parking",
           "latitude": 51.1009,
           "longitude": 4.26485,
+          "source": "osm",
+          "anonymous": true,
+          "capacity": 3
+        },
+        {
+          "label": "Parking",
+          "latitude": 51.10034,
+          "longitude": 4.26507,
           "source": "osm",
           "anonymous": true,
           "capacity": 3
@@ -14367,11 +14299,6 @@
       "standCount": 80,
       "parkings": [
         {
-          "label": "Nieuw dit jaar is de mogelijkheid om op bepaalde locaties je auto bij je standplaats te parkeren",
-          "source": "organiser",
-          "vague": false
-        },
-        {
           "label": "Parking",
           "latitude": 50.99878,
           "longitude": 4.35618,
@@ -14401,11 +14328,6 @@
       ],
       "standCount": 40,
       "parkings": [
-        {
-          "label": "Parkeren in de nabijheid van de markt mogelijk (gelieve de geldende verkeersregels te respecteren)",
-          "source": "organiser",
-          "vague": false
-        },
         {
           "label": "Parking",
           "latitude": 50.97711,
@@ -15520,11 +15442,6 @@
       ],
       "standCount": 30,
       "parkings": [
-        {
-          "label": "GRATIS parking in de nabijheid",
-          "source": "organiser",
-          "vague": true
-        },
         {
           "label": "Parking",
           "latitude": 50.78855,
@@ -17748,11 +17665,6 @@
       "standCount": 50,
       "parkings": [
         {
-          "label": "Parking in de buurt en de toegang is gratis",
-          "source": "organiser",
-          "vague": true
-        },
-        {
           "label": "Parking",
           "latitude": 50.87561,
           "longitude": 5.30862,
@@ -17931,11 +17843,6 @@
       ],
       "standCount": null,
       "parkings": [
-        {
-          "label": "5m à 10€) Gratis parking voor standhouders en bezoekers",
-          "source": "organiser",
-          "vague": true
-        },
         {
           "label": "'t IJshoorntje",
           "latitude": 50.96312,
@@ -18488,11 +18395,6 @@
       ],
       "standCount": 150,
       "parkings": [
-        {
-          "label": "parkeren in de nabijheid van de markt mogelijk",
-          "source": "organiser",
-          "vague": false
-        },
         {
           "label": "Parking",
           "latitude": 50.82077,
@@ -19637,11 +19539,6 @@
       "standCount": 100,
       "parkings": [
         {
-          "label": "Bij voldoende inschrijvingen word deze uitgebreid naar de parking",
-          "source": "organiser",
-          "vague": false
-        },
-        {
           "label": "Parking",
           "latitude": 50.97572,
           "longitude": 4.89287,
@@ -19917,9 +19814,11 @@
       "standCount": 120,
       "parkings": [
         {
-          "label": "Parkeren kan gemakkelijk in de omliggende straten",
-          "source": "organiser",
-          "vague": false
+          "label": "Parking",
+          "latitude": 51.06792,
+          "longitude": 3.72845,
+          "source": "osm",
+          "anonymous": true
         },
         {
           "label": "Dok Noord",
@@ -20308,9 +20207,11 @@
       "standCount": null,
       "parkings": [
         {
-          "label": "Anzegem (Parking)",
+          "label": "op de parking van de Roterijstraat, in de Roterijstraat en in de Klokketuin (Heirweg - Anzegem)",
           "source": "organiser",
-          "vague": false
+          "vague": false,
+          "latitude": 50.84704,
+          "longitude": 3.44928
         },
         {
           "label": "Parking",
@@ -22087,11 +21988,6 @@
       ],
       "standCount": 150,
       "parkings": [
-        {
-          "label": "Parkeren kan in omliggende straten en op voorzienen parkings",
-          "source": "organiser",
-          "vague": false
-        },
         {
           "label": "Parking",
           "latitude": 50.92651,
@@ -24393,11 +24289,6 @@
       "standCount": 120,
       "parkings": [
         {
-          "label": "parking voor standhouders en bezoekers op de speelplaatsen",
-          "source": "organiser",
-          "vague": false
-        },
-        {
           "label": "Parking",
           "latitude": 51.20133,
           "longitude": 3.21044,
@@ -24419,6 +24310,14 @@
           "longitude": 3.20969,
           "source": "osm",
           "anonymous": true
+        },
+        {
+          "label": "Parking",
+          "latitude": 51.20173,
+          "longitude": 3.2088,
+          "source": "osm",
+          "anonymous": true,
+          "capacity": 12
         },
         {
           "label": "Oesterparking A",
@@ -25381,11 +25280,6 @@
       ],
       "standCount": 30,
       "parkings": [
-        {
-          "label": "parking Total Experience – €20 5 tot 18 jaar: €10 Jonger dan 5 jaar: gratis Inclusief: Toegang tot…",
-          "source": "organiser",
-          "vague": false
-        },
         {
           "label": "Parking",
           "latitude": 51.14871,
@@ -26616,11 +26510,6 @@
       "standCount": 100,
       "parkings": [
         {
-          "label": "Parking mogelijk rond de sporthal",
-          "source": "organiser",
-          "vague": false
-        },
-        {
           "label": "Parking",
           "latitude": 50.95717,
           "longitude": 3.09795,
@@ -26660,6 +26549,14 @@
           "source": "osm",
           "anonymous": true,
           "capacity": 3
+        },
+        {
+          "label": "Parking",
+          "latitude": 50.95873,
+          "longitude": 3.1085,
+          "source": "osm",
+          "anonymous": true,
+          "capacity": 1
         }
       ],
       "sourceUrl": "https://www.wattedoen.be/binnen-rommelmarkt-8725201.shtml"
@@ -27245,11 +27142,6 @@
       ],
       "standCount": 70,
       "parkings": [
-        {
-          "label": "parking in de dichte nabijheid",
-          "source": "organiser",
-          "vague": false
-        },
         {
           "label": "Parking",
           "latitude": 51.12968,
