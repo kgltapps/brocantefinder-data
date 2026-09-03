@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T15:46:05.201Z",
+  "generatedAt": "2026-09-03T15:30:21.750Z",
   "count": 522,
   "markets": [
     {
@@ -1012,8 +1012,38 @@
       "latitude": 51.20491,
       "longitude": 3.21826,
       "geoSource": "source",
-      "street": "'t zand",
+      "street": "Begijnenvest",
       "houseNumber": null,
+      "route": [
+        "Begijnenvest",
+        "Sebrechtsstraat",
+        "Middenplein",
+        "Noordzandstraat",
+        "Zuidzandstraat",
+        "Hauwerstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.19879,
+          "longitude": 3.22347
+        },
+        {
+          "latitude": 51.20007,
+          "longitude": 3.22201
+        },
+        {
+          "latitude": 51.20761,
+          "longitude": 3.22047
+        },
+        {
+          "latitude": 51.20543,
+          "longitude": 3.21974
+        },
+        {
+          "latitude": 51.20371,
+          "longitude": 3.21467
+        }
+      ],
       "openingHours": null,
       "admission": null,
       "categories": [
@@ -2211,7 +2241,31 @@
       "longitude": 3.77193,
       "geoSource": "address",
       "street": "Wautersdreef",
-      "houseNumber": "25",
+      "houseNumber": null,
+      "route": [
+        "Wautersdreef",
+        "Magnoliastraat",
+        "Palmstraat",
+        "Tuinstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.02063,
+          "longitude": 3.77622
+        },
+        {
+          "latitude": 51.01975,
+          "longitude": 3.774
+        },
+        {
+          "latitude": 51.0197,
+          "longitude": 3.77181
+        },
+        {
+          "latitude": 51.01845,
+          "longitude": 3.77432
+        }
+      ],
       "openingHours": "9:00 - 18:00",
       "admission": null,
       "categories": [
@@ -3958,8 +4012,64 @@
       "latitude": 51.09469,
       "longitude": 3.91532,
       "geoSource": "source",
-      "street": "Garageverkoop Voor Inwonenden Van de Wijk Oudenbos",
+      "street": "Hanusdreef",
       "houseNumber": null,
+      "route": [
+        "Hanusdreef",
+        "Nieuwe Stationsstraat",
+        "Bareelstraat",
+        "Nieuwe Molenstraat",
+        "Drongenstraat",
+        "Nieuwpoortstraat",
+        "Molendeindstraat",
+        "Doorgangstraat",
+        "Singeldreef",
+        "Spoorweglaan",
+        "Peerdendreef",
+        "Leedamdreef"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.09485,
+          "longitude": 3.91197
+        },
+        {
+          "latitude": 51.08798,
+          "longitude": 3.91026
+        },
+        {
+          "latitude": 51.10304,
+          "longitude": 3.90583
+        },
+        {
+          "latitude": 51.10303,
+          "longitude": 3.91597
+        },
+        {
+          "latitude": 51.10506,
+          "longitude": 3.9306
+        },
+        {
+          "latitude": 51.10886,
+          "longitude": 3.92558
+        },
+        {
+          "latitude": 51.0974,
+          "longitude": 3.91932
+        },
+        {
+          "latitude": 51.09277,
+          "longitude": 3.91502
+        },
+        {
+          "latitude": 51.08891,
+          "longitude": 3.917
+        },
+        {
+          "latitude": 51.09452,
+          "longitude": 3.92528
+        }
+      ],
       "openingHours": "09:00-17:00",
       "admission": null,
       "categories": [
@@ -4528,6 +4638,50 @@
       "geoSource": "source",
       "street": "Grote Heimelinkstraat",
       "houseNumber": null,
+      "route": [
+        "Grote Heimelinkstraat",
+        "Ridderstraat",
+        "E. Prissestraat",
+        "Zwingelstraat",
+        "Rootputstraat",
+        "Rootputhof",
+        "Repelstraat",
+        "Vlasstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.17906,
+          "longitude": 4.16215
+        },
+        {
+          "latitude": 51.17286,
+          "longitude": 4.16205
+        },
+        {
+          "latitude": 51.17421,
+          "longitude": 4.1583
+        },
+        {
+          "latitude": 51.17655,
+          "longitude": 4.15503
+        },
+        {
+          "latitude": 51.17742,
+          "longitude": 4.15654
+        },
+        {
+          "latitude": 51.17815,
+          "longitude": 4.15673
+        },
+        {
+          "latitude": 51.17926,
+          "longitude": 4.15766
+        },
+        {
+          "latitude": 51.18028,
+          "longitude": 4.16105
+        }
+      ],
       "openingHours": "09:00-17:00",
       "admission": null,
       "categories": [
@@ -4794,8 +4948,27 @@
       "latitude": 51.15408,
       "longitude": 3.13446,
       "geoSource": "source",
-      "street": "105",
+      "street": "Heirweg",
       "houseNumber": null,
+      "route": [
+        "Heirweg",
+        "Snellegemsestraat",
+        "Eikenstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.15321,
+          "longitude": 3.13307
+        },
+        {
+          "latitude": 51.14778,
+          "longitude": 3.13312
+        },
+        {
+          "latitude": 51.14814,
+          "longitude": 3.13427
+        }
+      ],
       "openingHours": null,
       "admission": null,
       "categories": [
@@ -7237,8 +7410,37 @@
       "latitude": 51.21627,
       "longitude": 4.02806,
       "geoSource": "source",
-      "street": "Teerlingstraat , Vogelzang , Verkenstraat , Dobbelsteenstraa",
+      "street": "Teerlingstraat",
       "houseNumber": null,
+      "route": [
+        "Teerlingstraat",
+        "Verkenstraat",
+        "Dobbelsteenstraat",
+        "Vogelzangstraat",
+        "Nachtegaalstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.21425,
+          "longitude": 4.02953
+        },
+        {
+          "latitude": 51.21608,
+          "longitude": 4.0279
+        },
+        {
+          "latitude": 51.21497,
+          "longitude": 4.02836
+        },
+        {
+          "latitude": 51.22693,
+          "longitude": 4.01276
+        },
+        {
+          "latitude": 51.22024,
+          "longitude": 4.03268
+        }
+      ],
       "openingHours": "07:00-17:00",
       "admission": null,
       "categories": [
@@ -8444,8 +8646,22 @@
       "latitude": 51.09051,
       "longitude": 4.37507,
       "geoSource": "address",
-      "street": "Kerkhofstraat",
+      "street": "Advokaatstraat",
       "houseNumber": null,
+      "route": [
+        "Advokaatstraat",
+        "Kerkhofstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.08937,
+          "longitude": 4.36885
+        },
+        {
+          "latitude": 51.09051,
+          "longitude": 4.37507
+        }
+      ],
       "openingHours": "9:00 - 17:00",
       "admission": null,
       "categories": [
@@ -9030,8 +9246,67 @@
       "latitude": 50.91815,
       "longitude": 3.94886,
       "geoSource": "source",
-      "street": "Beekstraat en Omliggende Straten",
+      "street": "Beekstraat",
       "houseNumber": null,
+      "route": [
+        "Beekstraat",
+        "Koutergatstraat",
+        "Hollandstraat",
+        "Beekkantstraat",
+        "Magerstraat",
+        "Achterstraat",
+        "Oude Broekstraat",
+        "Doorsteekstraat",
+        "Hofkensweg",
+        "Bavokouter",
+        "Langestraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 50.91585,
+          "longitude": 3.96145
+        },
+        {
+          "latitude": 50.91848,
+          "longitude": 3.95527
+        },
+        {
+          "latitude": 50.92066,
+          "longitude": 3.95616
+        },
+        {
+          "latitude": 50.91882,
+          "longitude": 3.95853
+        },
+        {
+          "latitude": 50.92266,
+          "longitude": 3.96209
+        },
+        {
+          "latitude": 50.91511,
+          "longitude": 3.96025
+        },
+        {
+          "latitude": 50.91355,
+          "longitude": 3.96199
+        },
+        {
+          "latitude": 50.91249,
+          "longitude": 3.9595
+        },
+        {
+          "latitude": 50.92328,
+          "longitude": 3.9602
+        },
+        {
+          "latitude": 50.92369,
+          "longitude": 3.96117
+        },
+        {
+          "latitude": 50.91786,
+          "longitude": 3.96103
+        }
+      ],
       "openingHours": "07:00-14:00",
       "admission": null,
       "categories": [
@@ -9379,8 +9654,22 @@
       "latitude": 51.01854,
       "longitude": 4.4718,
       "geoSource": "source",
-      "street": "Hoveniersstraat",
+      "street": "Pareipoelstraat",
       "houseNumber": null,
+      "route": [
+        "Pareipoelstraat",
+        "Wijngaardstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.0175,
+          "longitude": 4.47056
+        },
+        {
+          "latitude": 51.01477,
+          "longitude": 4.46811
+        }
+      ],
       "openingHours": null,
       "admission": null,
       "categories": [
@@ -9803,8 +10092,32 @@
       "latitude": 50.83277,
       "longitude": 4.0174,
       "geoSource": "source",
-      "street": "-",
+      "street": "Centrumlaan",
       "houseNumber": null,
+      "route": [
+        "Centrumlaan",
+        "Oudstrijdersplein",
+        "Marktstraat",
+        "Geraardsbergsestraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 50.83314,
+          "longitude": 4.0166
+        },
+        {
+          "latitude": 50.83534,
+          "longitude": 4.02249
+        },
+        {
+          "latitude": 50.83493,
+          "longitude": 4.02338
+        },
+        {
+          "latitude": 50.83633,
+          "longitude": 4.0152
+        }
+      ],
       "openingHours": null,
       "admission": null,
       "categories": [
@@ -10069,8 +10382,32 @@
       "latitude": 51.00421,
       "longitude": 4.63335,
       "geoSource": "address",
-      "street": "Tremelobaan",
-      "houseNumber": "4",
+      "street": "Kempenlaan",
+      "houseNumber": null,
+      "route": [
+        "Kempenlaan",
+        "Roggestraat",
+        "Molenstraat",
+        "Tremelobaan"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.00597,
+          "longitude": 4.63108
+        },
+        {
+          "latitude": 51.0049,
+          "longitude": 4.63719
+        },
+        {
+          "latitude": 51.00567,
+          "longitude": 4.64205
+        },
+        {
+          "latitude": 50.99699,
+          "longitude": 4.66725
+        }
+      ],
       "openingHours": "9:00 - 16:30",
       "admission": null,
       "categories": [
@@ -10880,8 +11217,27 @@
       "latitude": 51.02072,
       "longitude": 4.11284,
       "geoSource": "source",
-      "street": "Burg.potiaulaan - Vijfde Januaristraat - Veldstraat",
+      "street": "Kroonveldlaan",
       "houseNumber": null,
+      "route": [
+        "Kroonveldlaan",
+        "Hullekenstraat",
+        "Potiaulaan"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.03037,
+          "longitude": 4.1118
+        },
+        {
+          "latitude": 51.02531,
+          "longitude": 4.11776
+        },
+        {
+          "latitude": 51.01956,
+          "longitude": 4.11118
+        }
+      ],
       "openingHours": "08:00-18:00",
       "admission": null,
       "categories": [
@@ -11842,8 +12198,32 @@
       "latitude": 50.94331,
       "longitude": 4.0498,
       "geoSource": "source",
-      "street": "Groenstraat -Rapenstraat",
+      "street": "Groenstraat",
       "houseNumber": null,
+      "route": [
+        "Groenstraat",
+        "Binnenstraat",
+        "Rozenweg",
+        "Rapenstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 50.94549,
+          "longitude": 4.05533
+        },
+        {
+          "latitude": 50.94832,
+          "longitude": 4.05281
+        },
+        {
+          "latitude": 50.94648,
+          "longitude": 4.05366
+        },
+        {
+          "latitude": 50.94383,
+          "longitude": 4.04937
+        }
+      ],
       "openingHours": null,
       "admission": null,
       "categories": [
@@ -13154,8 +13534,72 @@
       "latitude": 51.16634,
       "longitude": 4.39042,
       "geoSource": "source",
-      "street": "Oudestraat en Omliggende Straten",
+      "street": "Doornstraat",
       "houseNumber": null,
+      "route": [
+        "Doornstraat",
+        "Gallaitlaan",
+        "Krijgslaan",
+        "Uitspanningstraat",
+        "Cuyversstraat",
+        "Boekstraat",
+        "Dekenstraat",
+        "Vuurmolenstraat",
+        "Schansweg",
+        "Vianneystraat",
+        "Pauwelsplein",
+        "Boeksveldstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.16153,
+          "longitude": 4.39934
+        },
+        {
+          "latitude": 51.15936,
+          "longitude": 4.39323
+        },
+        {
+          "latitude": 51.16306,
+          "longitude": 4.39611
+        },
+        {
+          "latitude": 51.16394,
+          "longitude": 4.39
+        },
+        {
+          "latitude": 51.16729,
+          "longitude": 4.39042
+        },
+        {
+          "latitude": 51.16802,
+          "longitude": 4.3925
+        },
+        {
+          "latitude": 51.16884,
+          "longitude": 4.39262
+        },
+        {
+          "latitude": 51.16976,
+          "longitude": 4.39089
+        },
+        {
+          "latitude": 51.16424,
+          "longitude": 4.38748
+        },
+        {
+          "latitude": 51.16674,
+          "longitude": 4.38787
+        },
+        {
+          "latitude": 51.16798,
+          "longitude": 4.3876
+        },
+        {
+          "latitude": 51.16323,
+          "longitude": 4.38938
+        }
+      ],
       "openingHours": "09:00-17:00",
       "admission": null,
       "categories": [
@@ -14289,8 +14733,37 @@
       "latitude": 50.99932,
       "longitude": 4.35082,
       "geoSource": "source",
-      "street": "Marktplein en omliggende straten",
+      "street": "Zetselstraat",
       "houseNumber": null,
+      "route": [
+        "Zetselstraat",
+        "Kerselaarlaan",
+        "Maeyerstraat",
+        "Swaelusstraat",
+        "Schuttershofstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.01369,
+          "longitude": 4.35756
+        },
+        {
+          "latitude": 51.01436,
+          "longitude": 4.35949
+        },
+        {
+          "latitude": 51.01405,
+          "longitude": 4.35935
+        },
+        {
+          "latitude": 51.01326,
+          "longitude": 4.36109
+        },
+        {
+          "latitude": 51.0132,
+          "longitude": 4.36201
+        }
+      ],
       "openingHours": "10:00-16:00",
       "admission": null,
       "categories": [
@@ -14455,8 +14928,32 @@
       "latitude": 50.81424,
       "longitude": 3.02271,
       "geoSource": "address",
-      "street": "Vossaardestraat",
+      "street": "Boogstraat",
       "houseNumber": null,
+      "route": [
+        "Boogstraat",
+        "Vossaardestraat",
+        "Tabakstraat",
+        "Hoge Bossenstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 50.81834,
+          "longitude": 3.01896
+        },
+        {
+          "latitude": 50.81424,
+          "longitude": 3.02271
+        },
+        {
+          "latitude": 50.81678,
+          "longitude": 3.01802
+        },
+        {
+          "latitude": 50.813,
+          "longitude": 3.01909
+        }
+      ],
       "openingHours": "6:00 - 17:30",
       "admission": null,
       "categories": [
@@ -14886,8 +15383,42 @@
       "latitude": 51.13076,
       "longitude": 4.57995,
       "geoSource": "source",
-      "street": "Strijpensveld",
+      "street": "Kluizeplein",
       "houseNumber": null,
+      "route": [
+        "Kluizeplein",
+        "Lindenstraat",
+        "Peperstraat",
+        "Lookstraat",
+        "Koepoortstraat",
+        "Kluizestraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.1294,
+          "longitude": 4.5783
+        },
+        {
+          "latitude": 51.12938,
+          "longitude": 4.57987
+        },
+        {
+          "latitude": 51.12994,
+          "longitude": 4.57969
+        },
+        {
+          "latitude": 51.13066,
+          "longitude": 4.57957
+        },
+        {
+          "latitude": 51.13122,
+          "longitude": 4.57809
+        },
+        {
+          "latitude": 51.13056,
+          "longitude": 4.57833
+        }
+      ],
       "openingHours": "09:00-16:30",
       "admission": null,
       "categories": [
@@ -15032,8 +15563,42 @@
       "latitude": 51.21761,
       "longitude": 4.431,
       "geoSource": "source",
-      "street": "Groenhofstraat, Corneel Smitslei, Van Regenmortellei, l. Huy",
+      "street": "Rosekapellestraat",
       "houseNumber": null,
+      "route": [
+        "Rosekapellestraat",
+        "Groenhofstraat",
+        "Smitslei",
+        "Regenmortellei",
+        "L. Huybrechtsstraat",
+        "Sprinkhaanveldestraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.19825,
+          "longitude": 4.4877
+        },
+        {
+          "latitude": 51.19699,
+          "longitude": 4.48842
+        },
+        {
+          "latitude": 51.19654,
+          "longitude": 4.48901
+        },
+        {
+          "latitude": 51.19564,
+          "longitude": 4.48752
+        },
+        {
+          "latitude": 51.19889,
+          "longitude": 4.48415
+        },
+        {
+          "latitude": 51.19888,
+          "longitude": 4.48288
+        }
+      ],
       "openingHours": "10:00-17:00",
       "admission": null,
       "categories": [
@@ -15110,8 +15675,57 @@
       "latitude": 51.28796,
       "longitude": 4.43923,
       "geoSource": "source",
-      "street": "Antverpiastraat",
-      "houseNumber": "10",
+      "street": "Leliënlaan",
+      "houseNumber": null,
+      "route": [
+        "Leliënlaan",
+        "Asterlaan",
+        "Tulpenlaan",
+        "Antverpiastraat",
+        "Fortuinstraat",
+        "Weerstandersstraat",
+        "Caertsstraat",
+        "Wintstraat",
+        "Staeslei"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.28579,
+          "longitude": 4.43633
+        },
+        {
+          "latitude": 51.28279,
+          "longitude": 4.43863
+        },
+        {
+          "latitude": 51.2833,
+          "longitude": 4.43917
+        },
+        {
+          "latitude": 51.28811,
+          "longitude": 4.43939
+        },
+        {
+          "latitude": 51.28675,
+          "longitude": 4.43807
+        },
+        {
+          "latitude": 51.2878,
+          "longitude": 4.43677
+        },
+        {
+          "latitude": 51.28972,
+          "longitude": 4.43785
+        },
+        {
+          "latitude": 51.29009,
+          "longitude": 4.43904
+        },
+        {
+          "latitude": 51.29013,
+          "longitude": 4.44222
+        }
+      ],
       "openingHours": "08:00-16:00",
       "admission": null,
       "categories": [
@@ -15243,8 +15857,72 @@
       "latitude": 50.94491,
       "longitude": 5.5157,
       "geoSource": "source",
-      "street": null,
+      "street": "Mindersstraat",
       "houseNumber": null,
+      "route": [
+        "Mindersstraat",
+        "Bonderstraat",
+        "Mispelaarstraat",
+        "Driessenstraat",
+        "Schildershof",
+        "Landschapshof",
+        "Academiestraat",
+        "Waterbleekstraat",
+        "Greevestraat",
+        "Componistenhof",
+        "Dirigentenhof",
+        "Mailleuxstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 50.97773,
+          "longitude": 5.52917
+        },
+        {
+          "latitude": 50.9756,
+          "longitude": 5.53275
+        },
+        {
+          "latitude": 50.97491,
+          "longitude": 5.52817
+        },
+        {
+          "latitude": 50.97697,
+          "longitude": 5.52577
+        },
+        {
+          "latitude": 50.97889,
+          "longitude": 5.53036
+        },
+        {
+          "latitude": 50.97765,
+          "longitude": 5.53078
+        },
+        {
+          "latitude": 50.97893,
+          "longitude": 5.53342
+        },
+        {
+          "latitude": 50.97944,
+          "longitude": 5.53298
+        },
+        {
+          "latitude": 50.97754,
+          "longitude": 5.53267
+        },
+        {
+          "latitude": 50.97713,
+          "longitude": 5.5351
+        },
+        {
+          "latitude": 50.97686,
+          "longitude": 5.53825
+        },
+        {
+          "latitude": 50.97394,
+          "longitude": 5.53549
+        }
+      ],
       "openingHours": "09:00-14:00",
       "admission": null,
       "categories": [
@@ -15981,8 +16659,32 @@
       "latitude": 50.87165,
       "longitude": 4.33071,
       "geoSource": "source",
-      "street": "Levis Mirepoixlaan",
+      "street": "Mirepoixlaan",
       "houseNumber": null,
+      "route": [
+        "Mirepoixlaan",
+        "Warlandlaan",
+        "Clercqstraat",
+        "Faesstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 50.87226,
+          "longitude": 4.33192
+        },
+        {
+          "latitude": 50.87102,
+          "longitude": 4.33456
+        },
+        {
+          "latitude": 50.87174,
+          "longitude": 4.33328
+        },
+        {
+          "latitude": 50.87249,
+          "longitude": 4.32995
+        }
+      ],
       "openingHours": "09:00-18:00",
       "admission": null,
       "categories": [
@@ -17320,8 +18022,22 @@
       "latitude": 50.7677,
       "longitude": 4.31036,
       "geoSource": "source",
-      "street": "Schoolstraat, Dwersbos, Kerkveldstraat",
+      "street": "Schoolstraat",
       "houseNumber": null,
+      "route": [
+        "Schoolstraat",
+        "Kerkveldstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 50.76731,
+          "longitude": 4.31431
+        },
+        {
+          "latitude": 50.76908,
+          "longitude": 4.31201
+        }
+      ],
       "openingHours": "11:00-16:00",
       "admission": null,
       "categories": [
@@ -18416,7 +19132,21 @@
       "longitude": 3.78928,
       "geoSource": "source",
       "street": "Tunnellaan",
-      "houseNumber": "110",
+      "houseNumber": null,
+      "route": [
+        "Tunnellaan",
+        "Europaprijslaan"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.19335,
+          "longitude": 3.79855
+        },
+        {
+          "latitude": 51.19691,
+          "longitude": 3.79059
+        }
+      ],
       "openingHours": "08:00-16:00",
       "admission": null,
       "categories": [
@@ -18535,8 +19265,32 @@
       "latitude": 51.14965,
       "longitude": 2.95862,
       "geoSource": "source",
-      "street": "Krinkelweg Moerestraat Molenweg en de Lindenhofstraat",
+      "street": "Moerestraat",
       "houseNumber": null,
+      "route": [
+        "Moerestraat",
+        "Lindenhofstraat",
+        "Molenweg",
+        "Krinkelweg"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.14449,
+          "longitude": 2.95956
+        },
+        {
+          "latitude": 51.15075,
+          "longitude": 2.95798
+        },
+        {
+          "latitude": 51.14916,
+          "longitude": 2.95691
+        },
+        {
+          "latitude": 51.14935,
+          "longitude": 2.96001
+        }
+      ],
       "openingHours": "06:00-17:00",
       "admission": null,
       "categories": [
@@ -19269,8 +20023,27 @@
       "latitude": 51.20908,
       "longitude": 3.22793,
       "geoSource": "source",
-      "street": "Langestraat, Hoogstraat, Mallebergplaats en Philipstockstraat",
+      "street": "Langestraat",
       "houseNumber": null,
+      "route": [
+        "Langestraat",
+        "Hoogstraat",
+        "Philipstockstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.21111,
+          "longitude": 3.2364
+        },
+        {
+          "latitude": 51.20979,
+          "longitude": 3.22971
+        },
+        {
+          "latitude": 51.20956,
+          "longitude": 3.22635
+        }
+      ],
       "openingHours": null,
       "admission": null,
       "categories": [
@@ -20964,8 +21737,32 @@
       "latitude": 51.02227,
       "longitude": 4.993,
       "geoSource": "source",
-      "street": "Park Ter Heide",
+      "street": "Vorststraat",
       "houseNumber": null,
+      "route": [
+        "Vorststraat",
+        "R. Huybrechtsstraat",
+        "Abdijstraat",
+        "Sprinkhaanstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.02528,
+          "longitude": 4.99989
+        },
+        {
+          "latitude": 51.02034,
+          "longitude": 4.99388
+        },
+        {
+          "latitude": 51.02585,
+          "longitude": 4.99232
+        },
+        {
+          "latitude": 51.02422,
+          "longitude": 4.99246
+        }
+      ],
       "openingHours": "08:00-16:00",
       "admission": null,
       "categories": [
@@ -21734,8 +22531,33 @@
       "latitude": 50.99826,
       "longitude": 4.15335,
       "geoSource": "source",
-      "street": "Lindekensstraat",
-      "houseNumber": "1",
+      "street": "Heizijdestraat",
+      "houseNumber": null,
+      "route": [
+        "Heizijdestraat",
+        "Lindekensstraat",
+        "Kakemanstraat",
+        "Hulststraat",
+        "Heidehof"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.00018,
+          "longitude": 4.14966
+        },
+        {
+          "latitude": 50.99565,
+          "longitude": 4.15573
+        },
+        {
+          "latitude": 50.99455,
+          "longitude": 4.16122
+        },
+        {
+          "latitude": 50.99647,
+          "longitude": 4.15346
+        }
+      ],
       "openingHours": null,
       "admission": null,
       "categories": [
@@ -22220,8 +23042,47 @@
       "latitude": 50.94711,
       "longitude": 4.04273,
       "geoSource": "source",
-      "street": "Drie Sleutelsstraat",
+      "street": "Sleutelsstraat",
       "houseNumber": null,
+      "route": [
+        "Sleutelsstraat",
+        "Brouwerijstraat",
+        "Weverijstraat",
+        "Jasmijnstraat",
+        "Bredestraat",
+        "Tulpstraat",
+        "Bijlstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 50.94713,
+          "longitude": 4.04292
+        },
+        {
+          "latitude": 50.94921,
+          "longitude": 4.04228
+        },
+        {
+          "latitude": 50.94854,
+          "longitude": 4.04334
+        },
+        {
+          "latitude": 50.94884,
+          "longitude": 4.04469
+        },
+        {
+          "latitude": 50.95422,
+          "longitude": 4.04485
+        },
+        {
+          "latitude": 50.94821,
+          "longitude": 4.04512
+        },
+        {
+          "latitude": 50.9477,
+          "longitude": 4.04579
+        }
+      ],
       "openingHours": null,
       "admission": null,
       "categories": [
@@ -27511,8 +28372,23 @@
       "latitude": 51.20202,
       "longitude": 3.25506,
       "geoSource": "source",
-      "street": "8310",
+      "street": "Vooruitgangstraat",
       "houseNumber": null,
+      "route": [
+        "Vooruitgangstraat",
+        "Vermeylenstraat",
+        "Lindelaan"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.19891,
+          "longitude": 3.25256
+        },
+        {
+          "latitude": 51.19717,
+          "longitude": 3.25533
+        }
+      ],
       "openingHours": "08:00-17:00",
       "admission": null,
       "categories": [
