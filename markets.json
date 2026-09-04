@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T10:10:38.981Z",
+  "generatedAt": "2026-09-04T19:26:18.651Z",
   "count": 523,
   "markets": [
     {
@@ -7594,7 +7594,8 @@
       "houseNumber": null,
       "route": [
         "Teerlingstraat",
-        "Verkenstraat"
+        "Verkenstraat",
+        "Dobbelsteenstraat"
       ],
       "routePoints": [
         {
@@ -7606,6 +7607,11 @@
           "latitude": 51.21608,
           "longitude": 4.0279,
           "street": "Verkenstraat"
+        },
+        {
+          "latitude": 51.21497,
+          "longitude": 4.02836,
+          "street": "Dobbelsteenstraat"
         }
       ],
       "openingHours": "07:00-17:00",
@@ -18438,7 +18444,8 @@
       "houseNumber": null,
       "route": [
         "Scheepswerfstraat",
-        "Ursmarusstraat"
+        "Ursmarusstraat",
+        "Driehuizen"
       ],
       "routePoints": [
         {
@@ -18450,6 +18457,11 @@
           "latitude": 51.03545,
           "longitude": 4.16894,
           "street": "Ursmarusstraat"
+        },
+        {
+          "latitude": 51.03437,
+          "longitude": 4.17066,
+          "street": "Driehuizen"
         }
       ],
       "openingHours": "08:00-16:00",
@@ -18534,6 +18546,7 @@
       "houseNumber": null,
       "route": [
         "Schoolstraat",
+        "Dwersbos",
         "Kerkveldstraat"
       ],
       "routePoints": [
@@ -18541,6 +18554,11 @@
           "latitude": 50.76731,
           "longitude": 4.31431,
           "street": "Schoolstraat"
+        },
+        {
+          "latitude": 50.76479,
+          "longitude": 4.32366,
+          "street": "Dwersbos"
         },
         {
           "latitude": 50.76908,
@@ -20697,6 +20715,7 @@
       "route": [
         "Langestraat",
         "Hoogstraat",
+        "Mallebergplaats",
         "Philipstockstraat"
       ],
       "routePoints": [
@@ -20709,6 +20728,11 @@
           "latitude": 51.20979,
           "longitude": 3.22971,
           "street": "Hoogstraat"
+        },
+        {
+          "latitude": 51.20954,
+          "longitude": 3.22733,
+          "street": "Mallebergplaats"
         },
         {
           "latitude": 51.20956,
@@ -24378,7 +24402,8 @@
       "route": [
         "Groenlaan",
         "Schoolstraat",
-        "Bevrijdingsstraat"
+        "Bevrijdingsstraat",
+        "Graaf du Parclaan"
       ],
       "routePoints": [
         {
@@ -24395,6 +24420,11 @@
           "latitude": 50.88517,
           "longitude": 3.89005,
           "street": "Bevrijdingsstraat"
+        },
+        {
+          "latitude": 50.88854,
+          "longitude": 3.88769,
+          "street": "Graaf du Parclaan"
         }
       ],
       "openingHours": "10:00-18:00",
