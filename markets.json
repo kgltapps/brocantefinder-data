@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-03T15:30:21.750Z",
-  "count": 522,
+  "generatedAt": "2026-09-04T10:10:38.981Z",
+  "count": 523,
   "markets": [
     {
       "id": "3-51.10673-3.98608-1",
@@ -1025,23 +1025,28 @@
       "routePoints": [
         {
           "latitude": 51.19879,
-          "longitude": 3.22347
+          "longitude": 3.22347,
+          "street": "Begijnenvest"
         },
         {
           "latitude": 51.20007,
-          "longitude": 3.22201
+          "longitude": 3.22201,
+          "street": "Sebrechtsstraat"
         },
         {
           "latitude": 51.20761,
-          "longitude": 3.22047
+          "longitude": 3.22047,
+          "street": "Noordzandstraat"
         },
         {
           "latitude": 51.20543,
-          "longitude": 3.21974
+          "longitude": 3.21974,
+          "street": "Zuidzandstraat"
         },
         {
           "latitude": 51.20371,
-          "longitude": 3.21467
+          "longitude": 3.21467,
+          "street": "Hauwerstraat"
         }
       ],
       "openingHours": null,
@@ -2251,19 +2256,23 @@
       "routePoints": [
         {
           "latitude": 51.02063,
-          "longitude": 3.77622
+          "longitude": 3.77622,
+          "street": "Wautersdreef"
         },
         {
           "latitude": 51.01975,
-          "longitude": 3.774
+          "longitude": 3.774,
+          "street": "Magnoliastraat"
         },
         {
           "latitude": 51.0197,
-          "longitude": 3.77181
+          "longitude": 3.77181,
+          "street": "Palmstraat"
         },
         {
           "latitude": 51.01845,
-          "longitude": 3.77432
+          "longitude": 3.77432,
+          "street": "Tuinstraat"
         }
       ],
       "openingHours": "9:00 - 18:00",
@@ -3056,8 +3065,30 @@
       "latitude": 51.06006,
       "longitude": 3.69937,
       "geoSource": "source",
-      "street": "Kastanjestraat - Sparrestraat - Meibloemstraat",
+      "street": "Kastanjestraat",
       "houseNumber": null,
+      "route": [
+        "Kastanjestraat",
+        "Sparrestraat",
+        "Meibloemstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.06088,
+          "longitude": 3.69799,
+          "street": "Kastanjestraat"
+        },
+        {
+          "latitude": 51.05975,
+          "longitude": 3.69888,
+          "street": "Sparrestraat"
+        },
+        {
+          "latitude": 51.05988,
+          "longitude": 3.69571,
+          "street": "Meibloemstraat"
+        }
+      ],
       "openingHours": "09:00-17:00",
       "admission": null,
       "categories": [
@@ -3347,8 +3378,30 @@
       "latitude": 51.09553,
       "longitude": 4.19527,
       "geoSource": "source",
-      "street": "Scheldestraat - Binnenkijkstraat - Appeldijkstraat",
+      "street": "Scheldestraat",
       "houseNumber": null,
+      "route": [
+        "Scheldestraat",
+        "Binnenkijkstraat",
+        "Appeldijkstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.10275,
+          "longitude": 4.19142,
+          "street": "Scheldestraat"
+        },
+        {
+          "latitude": 51.10449,
+          "longitude": 4.21235,
+          "street": "Binnenkijkstraat"
+        },
+        {
+          "latitude": 51.09547,
+          "longitude": 4.1953,
+          "street": "Appeldijkstraat"
+        }
+      ],
       "openingHours": null,
       "admission": null,
       "categories": [
@@ -4026,48 +4079,78 @@
         "Singeldreef",
         "Spoorweglaan",
         "Peerdendreef",
-        "Leedamdreef"
+        "Leedamdreef",
+        "Nonnenbosweg",
+        "Beerveldestraat",
+        "Ganzendreef",
+        "Sint Elooistraat",
+        "Boerenkrijghof"
       ],
       "routePoints": [
         {
           "latitude": 51.09485,
-          "longitude": 3.91197
+          "longitude": 3.91197,
+          "street": "Hanusdreef"
         },
         {
           "latitude": 51.08798,
-          "longitude": 3.91026
+          "longitude": 3.91026,
+          "street": "Bareelstraat"
         },
         {
           "latitude": 51.10304,
-          "longitude": 3.90583
+          "longitude": 3.90583,
+          "street": "Drongenstraat"
         },
         {
           "latitude": 51.10303,
-          "longitude": 3.91597
+          "longitude": 3.91597,
+          "street": "Nieuwpoortstraat"
         },
         {
           "latitude": 51.10506,
-          "longitude": 3.9306
+          "longitude": 3.9306,
+          "street": "Molendeindstraat"
         },
         {
           "latitude": 51.10886,
-          "longitude": 3.92558
+          "longitude": 3.92558,
+          "street": "Doorgangstraat"
         },
         {
           "latitude": 51.0974,
-          "longitude": 3.91932
+          "longitude": 3.91932,
+          "street": "Singeldreef"
         },
         {
           "latitude": 51.09277,
-          "longitude": 3.91502
+          "longitude": 3.91502,
+          "street": "Spoorweglaan"
         },
         {
           "latitude": 51.08891,
-          "longitude": 3.917
+          "longitude": 3.917,
+          "street": "Peerdendreef"
         },
         {
           "latitude": 51.09452,
-          "longitude": 3.92528
+          "longitude": 3.92528,
+          "street": "Leedamdreef"
+        },
+        {
+          "latitude": 51.09446,
+          "longitude": 3.92147,
+          "street": "Nonnenbosweg"
+        },
+        {
+          "latitude": 51.08413,
+          "longitude": 3.93954,
+          "street": "Beerveldestraat"
+        },
+        {
+          "latitude": 51.09232,
+          "longitude": 3.92662,
+          "street": "Ganzendreef"
         }
       ],
       "openingHours": "09:00-17:00",
@@ -4088,17 +4171,33 @@
       "sourceUrl": "https://www.wattedoen.be/garageverkoop-oudenbos-8716516.shtml"
     },
     {
-      "id": "1-50.94497-3.86801-74",
+      "id": "1-50.92189-3.86664-74",
       "source": "www.rommelmarkten.be",
       "date": "2026-08-23",
       "municipality": "Sint-Lievens-Houtem",
       "postalCode": "9520",
       "province": "East Flanders",
-      "latitude": 50.94497,
-      "longitude": 3.86801,
-      "geoSource": "postal",
-      "street": "Olmenlaan + Beukenlaan + plein",
+      "latitude": 50.92189,
+      "longitude": 3.86664,
+      "geoSource": "address",
+      "street": "Olmenlaan",
       "houseNumber": null,
+      "route": [
+        "Olmenlaan",
+        "Beukenlaan"
+      ],
+      "routePoints": [
+        {
+          "latitude": 50.92189,
+          "longitude": 3.86664,
+          "street": "Olmenlaan"
+        },
+        {
+          "latitude": 50.92296,
+          "longitude": 3.86899,
+          "street": "Beukenlaan"
+        }
+      ],
       "openingHours": "9:00 - 17:00",
       "admission": null,
       "categories": [
@@ -4108,8 +4207,8 @@
       "parkings": [
         {
           "label": "Parking",
-          "latitude": 50.94369,
-          "longitude": 3.86845,
+          "latitude": 50.92242,
+          "longitude": 3.8616,
           "source": "osm",
           "anonymous": true
         }
@@ -4155,8 +4254,24 @@
       "latitude": 50.73364,
       "longitude": 5.07237,
       "geoSource": "address",
-      "street": "Walsbetsestraat en Wezerenstraat",
+      "street": "Walsbetsestraat",
       "houseNumber": null,
+      "route": [
+        "Walsbetsestraat",
+        "Wezerenstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 50.73364,
+          "longitude": 5.07237,
+          "street": "Walsbetsestraat"
+        },
+        {
+          "latitude": 50.73235,
+          "longitude": 5.10291,
+          "street": "Wezerenstraat"
+        }
+      ],
       "openingHours": "8:00 - 17:00",
       "admission": null,
       "categories": [
@@ -4607,8 +4722,24 @@
       "latitude": 50.92227,
       "longitude": 3.86611,
       "geoSource": "source",
-      "street": "Beukenlaan & Olmenlaan",
+      "street": "Beukenlaan",
       "houseNumber": null,
+      "route": [
+        "Beukenlaan",
+        "Olmenlaan"
+      ],
+      "routePoints": [
+        {
+          "latitude": 50.92296,
+          "longitude": 3.86899,
+          "street": "Beukenlaan"
+        },
+        {
+          "latitude": 50.92189,
+          "longitude": 3.86664,
+          "street": "Olmenlaan"
+        }
+      ],
       "openingHours": "09:00-17:00",
       "admission": null,
       "categories": [
@@ -4651,35 +4782,43 @@
       "routePoints": [
         {
           "latitude": 51.17906,
-          "longitude": 4.16215
+          "longitude": 4.16215,
+          "street": "Grote Heimelinkstraat"
         },
         {
           "latitude": 51.17286,
-          "longitude": 4.16205
+          "longitude": 4.16205,
+          "street": "Ridderstraat"
         },
         {
           "latitude": 51.17421,
-          "longitude": 4.1583
+          "longitude": 4.1583,
+          "street": "E. Prissestraat"
         },
         {
           "latitude": 51.17655,
-          "longitude": 4.15503
+          "longitude": 4.15503,
+          "street": "Zwingelstraat"
         },
         {
           "latitude": 51.17742,
-          "longitude": 4.15654
+          "longitude": 4.15654,
+          "street": "Rootputstraat"
         },
         {
           "latitude": 51.17815,
-          "longitude": 4.15673
+          "longitude": 4.15673,
+          "street": "Rootputhof"
         },
         {
           "latitude": 51.17926,
-          "longitude": 4.15766
+          "longitude": 4.15766,
+          "street": "Repelstraat"
         },
         {
           "latitude": 51.18028,
-          "longitude": 4.16105
+          "longitude": 4.16105,
+          "street": "Vlasstraat"
         }
       ],
       "openingHours": "09:00-17:00",
@@ -4958,15 +5097,18 @@
       "routePoints": [
         {
           "latitude": 51.15321,
-          "longitude": 3.13307
+          "longitude": 3.13307,
+          "street": "Heirweg"
         },
         {
           "latitude": 51.14778,
-          "longitude": 3.13312
+          "longitude": 3.13312,
+          "street": "Snellegemsestraat"
         },
         {
           "latitude": 51.14814,
-          "longitude": 3.13427
+          "longitude": 3.13427,
+          "street": "Eikenstraat"
         }
       ],
       "openingHours": null,
@@ -5869,8 +6011,24 @@
       "latitude": 51.07345,
       "longitude": 3.76017,
       "geoSource": "source",
-      "street": "Frans Gevaertstraat, Hugo Verrieststraat, August Sniedersstr",
+      "street": "Gevaertstraat",
       "houseNumber": null,
+      "route": [
+        "Gevaertstraat",
+        "Verrieststraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.07337,
+          "longitude": 3.76022,
+          "street": "Gevaertstraat"
+        },
+        {
+          "latitude": 51.07379,
+          "longitude": 3.76189,
+          "street": "Verrieststraat"
+        }
+      ],
       "openingHours": "09:00-17:00",
       "admission": null,
       "categories": [
@@ -6407,8 +6565,30 @@
       "latitude": 51.32149,
       "longitude": 4.44012,
       "geoSource": "source",
-      "street": "Papenboslaan, Zwarte Beeklaan en Helmstraat",
+      "street": "Papenboslaan",
       "houseNumber": null,
+      "route": [
+        "Papenboslaan",
+        "Zwarte Beeklaan",
+        "Helmstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.32131,
+          "longitude": 4.44171,
+          "street": "Papenboslaan"
+        },
+        {
+          "latitude": 51.32205,
+          "longitude": 4.44159,
+          "street": "Zwarte Beeklaan"
+        },
+        {
+          "latitude": 51.32147,
+          "longitude": 4.44017,
+          "street": "Helmstraat"
+        }
+      ],
       "openingHours": "10:00-16:00",
       "admission": null,
       "categories": [
@@ -7414,31 +7594,18 @@
       "houseNumber": null,
       "route": [
         "Teerlingstraat",
-        "Verkenstraat",
-        "Dobbelsteenstraat",
-        "Vogelzangstraat",
-        "Nachtegaalstraat"
+        "Verkenstraat"
       ],
       "routePoints": [
         {
           "latitude": 51.21425,
-          "longitude": 4.02953
+          "longitude": 4.02953,
+          "street": "Teerlingstraat"
         },
         {
           "latitude": 51.21608,
-          "longitude": 4.0279
-        },
-        {
-          "latitude": 51.21497,
-          "longitude": 4.02836
-        },
-        {
-          "latitude": 51.22693,
-          "longitude": 4.01276
-        },
-        {
-          "latitude": 51.22024,
-          "longitude": 4.03268
+          "longitude": 4.0279,
+          "street": "Verkenstraat"
         }
       ],
       "openingHours": "07:00-17:00",
@@ -8655,11 +8822,13 @@
       "routePoints": [
         {
           "latitude": 51.08937,
-          "longitude": 4.36885
+          "longitude": 4.36885,
+          "street": "Advokaatstraat"
         },
         {
           "latitude": 51.09051,
-          "longitude": 4.37507
+          "longitude": 4.37507,
+          "street": "Kerkhofstraat"
         }
       ],
       "openingHours": "9:00 - 17:00",
@@ -8836,8 +9005,30 @@
       "latitude": 51.0366,
       "longitude": 3.7264,
       "geoSource": "source",
-      "street": "Normaalschoolstraat Zwijnaardsesteenweg Ledeganckstraat",
+      "street": "Normaalschoolstraat",
       "houseNumber": null,
+      "route": [
+        "Normaalschoolstraat",
+        "Zwijnaardsesteenweg",
+        "Ledeganckstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.03817,
+          "longitude": 3.72634,
+          "street": "Normaalschoolstraat"
+        },
+        {
+          "latitude": 51.02128,
+          "longitude": 3.72017,
+          "street": "Zwijnaardsesteenweg"
+        },
+        {
+          "latitude": 51.0365,
+          "longitude": 3.72306,
+          "street": "Ledeganckstraat"
+        }
+      ],
       "openingHours": "08:00-17:00",
       "admission": null,
       "categories": [
@@ -9264,47 +9455,58 @@
       "routePoints": [
         {
           "latitude": 50.91585,
-          "longitude": 3.96145
+          "longitude": 3.96145,
+          "street": "Beekstraat"
         },
         {
           "latitude": 50.91848,
-          "longitude": 3.95527
+          "longitude": 3.95527,
+          "street": "Koutergatstraat"
         },
         {
           "latitude": 50.92066,
-          "longitude": 3.95616
+          "longitude": 3.95616,
+          "street": "Hollandstraat"
         },
         {
           "latitude": 50.91882,
-          "longitude": 3.95853
+          "longitude": 3.95853,
+          "street": "Beekkantstraat"
         },
         {
           "latitude": 50.92266,
-          "longitude": 3.96209
+          "longitude": 3.96209,
+          "street": "Magerstraat"
         },
         {
           "latitude": 50.91511,
-          "longitude": 3.96025
+          "longitude": 3.96025,
+          "street": "Achterstraat"
         },
         {
           "latitude": 50.91355,
-          "longitude": 3.96199
+          "longitude": 3.96199,
+          "street": "Oude Broekstraat"
         },
         {
           "latitude": 50.91249,
-          "longitude": 3.9595
+          "longitude": 3.9595,
+          "street": "Doorsteekstraat"
         },
         {
           "latitude": 50.92328,
-          "longitude": 3.9602
+          "longitude": 3.9602,
+          "street": "Hofkensweg"
         },
         {
           "latitude": 50.92369,
-          "longitude": 3.96117
+          "longitude": 3.96117,
+          "street": "Bavokouter"
         },
         {
           "latitude": 50.91786,
-          "longitude": 3.96103
+          "longitude": 3.96103,
+          "street": "Langestraat"
         }
       ],
       "openingHours": "07:00-14:00",
@@ -9663,11 +9865,13 @@
       "routePoints": [
         {
           "latitude": 51.0175,
-          "longitude": 4.47056
+          "longitude": 4.47056,
+          "street": "Pareipoelstraat"
         },
         {
           "latitude": 51.01477,
-          "longitude": 4.46811
+          "longitude": 4.46811,
+          "street": "Wijngaardstraat"
         }
       ],
       "openingHours": null,
@@ -10103,19 +10307,23 @@
       "routePoints": [
         {
           "latitude": 50.83314,
-          "longitude": 4.0166
+          "longitude": 4.0166,
+          "street": "Centrumlaan"
         },
         {
           "latitude": 50.83534,
-          "longitude": 4.02249
+          "longitude": 4.02249,
+          "street": "Oudstrijdersplein"
         },
         {
           "latitude": 50.83493,
-          "longitude": 4.02338
+          "longitude": 4.02338,
+          "street": "Marktstraat"
         },
         {
           "latitude": 50.83633,
-          "longitude": 4.0152
+          "longitude": 4.0152,
+          "street": "Geraardsbergsestraat"
         }
       ],
       "openingHours": null,
@@ -10393,19 +10601,23 @@
       "routePoints": [
         {
           "latitude": 51.00597,
-          "longitude": 4.63108
+          "longitude": 4.63108,
+          "street": "Kempenlaan"
         },
         {
           "latitude": 51.0049,
-          "longitude": 4.63719
+          "longitude": 4.63719,
+          "street": "Roggestraat"
         },
         {
           "latitude": 51.00567,
-          "longitude": 4.64205
+          "longitude": 4.64205,
+          "street": "Molenstraat"
         },
         {
           "latitude": 50.99699,
-          "longitude": 4.66725
+          "longitude": 4.66725,
+          "street": "Tremelobaan"
         }
       ],
       "openingHours": "9:00 - 16:30",
@@ -10621,8 +10833,42 @@
       "latitude": 50.9891,
       "longitude": 3.16251,
       "geoSource": "address",
-      "street": "Sint-Catharinastraat, Heidestraat, Hazelstraat, Duivigestraat, Kapelhoekstraat",
+      "street": "Sint-Catharinastraat",
       "houseNumber": null,
+      "route": [
+        "Sint-Catharinastraat",
+        "Heidestraat",
+        "Hazelstraat",
+        "Duivigestraat",
+        "Kapelhoekstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 50.98893,
+          "longitude": 3.16236,
+          "street": "Sint-Catharinastraat"
+        },
+        {
+          "latitude": 50.98769,
+          "longitude": 3.15775,
+          "street": "Heidestraat"
+        },
+        {
+          "latitude": 50.9882,
+          "longitude": 3.16055,
+          "street": "Hazelstraat"
+        },
+        {
+          "latitude": 50.98926,
+          "longitude": 3.1443,
+          "street": "Duivigestraat"
+        },
+        {
+          "latitude": 50.99101,
+          "longitude": 3.16428,
+          "street": "Kapelhoekstraat"
+        }
+      ],
       "openingHours": "8:30 - 16:30",
       "admission": null,
       "categories": [
@@ -11217,25 +11463,22 @@
       "latitude": 51.02072,
       "longitude": 4.11284,
       "geoSource": "source",
-      "street": "Kroonveldlaan",
+      "street": "Januaristraat",
       "houseNumber": null,
       "route": [
-        "Kroonveldlaan",
-        "Hullekenstraat",
-        "Potiaulaan"
+        "Januaristraat",
+        "Veldstraat"
       ],
       "routePoints": [
         {
-          "latitude": 51.03037,
-          "longitude": 4.1118
+          "latitude": 51.01996,
+          "longitude": 4.11419,
+          "street": "Januaristraat"
         },
         {
-          "latitude": 51.02531,
-          "longitude": 4.11776
-        },
-        {
-          "latitude": 51.01956,
-          "longitude": 4.11118
+          "latitude": 51.01834,
+          "longitude": 4.11759,
+          "street": "Veldstraat"
         }
       ],
       "openingHours": "08:00-18:00",
@@ -11425,8 +11668,30 @@
       "latitude": 51.20362,
       "longitude": 4.45711,
       "geoSource": "source",
-      "street": "Knyffstraat, de Sevillastraat, de Borrekensstraat, Van Erste",
+      "street": "Knyffstraat",
       "houseNumber": null,
+      "route": [
+        "Knyffstraat",
+        "Sevillastraat",
+        "Borrekensstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.20359,
+          "longitude": 4.45701,
+          "street": "Knyffstraat"
+        },
+        {
+          "latitude": 51.20521,
+          "longitude": 4.45523,
+          "street": "Sevillastraat"
+        },
+        {
+          "latitude": 51.2042,
+          "longitude": 4.45574,
+          "street": "Borrekensstraat"
+        }
+      ],
       "openingHours": "09:30-16:00",
       "admission": null,
       "categories": [
@@ -11462,8 +11727,30 @@
       "latitude": 51.2521,
       "longitude": 4.44784,
       "geoSource": "source",
-      "street": "Laaglandlaan, Akkerbouwstraat, Grasbloemstraat, de Meers,...",
+      "street": "Laaglandlaan",
       "houseNumber": null,
+      "route": [
+        "Laaglandlaan",
+        "Akkerbouwstraat",
+        "Grasbloemstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.26349,
+          "longitude": 4.44677,
+          "street": "Laaglandlaan"
+        },
+        {
+          "latitude": 51.25243,
+          "longitude": 4.44546,
+          "street": "Akkerbouwstraat"
+        },
+        {
+          "latitude": 51.2531,
+          "longitude": 4.44664,
+          "street": "Grasbloemstraat"
+        }
+      ],
       "openingHours": "10:00-18:00",
       "admission": null,
       "categories": [
@@ -12068,8 +12355,12 @@
       "latitude": 50.80497,
       "longitude": 4.28701,
       "geoSource": "source",
-      "street": "Sint-Stevensstraat, Gaston Deruyverstraat",
+      "street": "Sint-Stevensstraat",
       "houseNumber": null,
+      "route": [
+        "Sint-Stevensstraat",
+        "Deruyverstraat"
+      ],
       "openingHours": null,
       "admission": null,
       "categories": [
@@ -12202,26 +12493,18 @@
       "houseNumber": null,
       "route": [
         "Groenstraat",
-        "Binnenstraat",
-        "Rozenweg",
         "Rapenstraat"
       ],
       "routePoints": [
         {
           "latitude": 50.94549,
-          "longitude": 4.05533
-        },
-        {
-          "latitude": 50.94832,
-          "longitude": 4.05281
-        },
-        {
-          "latitude": 50.94648,
-          "longitude": 4.05366
+          "longitude": 4.05533,
+          "street": "Groenstraat"
         },
         {
           "latitude": 50.94383,
-          "longitude": 4.04937
+          "longitude": 4.04937,
+          "street": "Rapenstraat"
         }
       ],
       "openingHours": null,
@@ -13548,56 +13831,122 @@
         "Schansweg",
         "Vianneystraat",
         "Pauwelsplein",
-        "Boeksveldstraat"
+        "Boeksveldstraat",
+        "Boeksveldplein",
+        "Heldenplein",
+        "Eenheidstraat",
+        "Chantrainestraat",
+        "Oversneslaan",
+        "Biesthoevelaan",
+        "Standonklaan",
+        "Beecklaan",
+        "Vuurkruislaan"
       ],
       "routePoints": [
         {
           "latitude": 51.16153,
-          "longitude": 4.39934
+          "longitude": 4.39934,
+          "street": "Doornstraat"
         },
         {
           "latitude": 51.15936,
-          "longitude": 4.39323
+          "longitude": 4.39323,
+          "street": "Gallaitlaan"
         },
         {
           "latitude": 51.16306,
-          "longitude": 4.39611
+          "longitude": 4.39611,
+          "street": "Krijgslaan"
         },
         {
           "latitude": 51.16394,
-          "longitude": 4.39
+          "longitude": 4.39,
+          "street": "Uitspanningstraat"
         },
         {
           "latitude": 51.16729,
-          "longitude": 4.39042
+          "longitude": 4.39042,
+          "street": "Cuyversstraat"
         },
         {
           "latitude": 51.16802,
-          "longitude": 4.3925
+          "longitude": 4.3925,
+          "street": "Boekstraat"
         },
         {
           "latitude": 51.16884,
-          "longitude": 4.39262
+          "longitude": 4.39262,
+          "street": "Dekenstraat"
         },
         {
           "latitude": 51.16976,
-          "longitude": 4.39089
+          "longitude": 4.39089,
+          "street": "Vuurmolenstraat"
         },
         {
           "latitude": 51.16424,
-          "longitude": 4.38748
+          "longitude": 4.38748,
+          "street": "Schansweg"
         },
         {
           "latitude": 51.16674,
-          "longitude": 4.38787
+          "longitude": 4.38787,
+          "street": "Vianneystraat"
         },
         {
           "latitude": 51.16798,
-          "longitude": 4.3876
+          "longitude": 4.3876,
+          "street": "Pauwelsplein"
         },
         {
           "latitude": 51.16323,
-          "longitude": 4.38938
+          "longitude": 4.38938,
+          "street": "Boeksveldstraat"
+        },
+        {
+          "latitude": 51.1641,
+          "longitude": 4.391,
+          "street": "Boeksveldplein"
+        },
+        {
+          "latitude": 51.16461,
+          "longitude": 4.39363,
+          "street": "Heldenplein"
+        },
+        {
+          "latitude": 51.16303,
+          "longitude": 4.39134,
+          "street": "Eenheidstraat"
+        },
+        {
+          "latitude": 51.1644,
+          "longitude": 4.39263,
+          "street": "Chantrainestraat"
+        },
+        {
+          "latitude": 51.16604,
+          "longitude": 4.39374,
+          "street": "Oversneslaan"
+        },
+        {
+          "latitude": 51.16609,
+          "longitude": 4.39552,
+          "street": "Biesthoevelaan"
+        },
+        {
+          "latitude": 51.16622,
+          "longitude": 4.39244,
+          "street": "Standonklaan"
+        },
+        {
+          "latitude": 51.16351,
+          "longitude": 4.39531,
+          "street": "Beecklaan"
+        },
+        {
+          "latitude": 51.16341,
+          "longitude": 4.39388,
+          "street": "Vuurkruislaan"
         }
       ],
       "openingHours": "09:00-17:00",
@@ -14745,23 +15094,28 @@
       "routePoints": [
         {
           "latitude": 51.01369,
-          "longitude": 4.35756
+          "longitude": 4.35756,
+          "street": "Zetselstraat"
         },
         {
           "latitude": 51.01436,
-          "longitude": 4.35949
+          "longitude": 4.35949,
+          "street": "Kerselaarlaan"
         },
         {
           "latitude": 51.01405,
-          "longitude": 4.35935
+          "longitude": 4.35935,
+          "street": "Maeyerstraat"
         },
         {
           "latitude": 51.01326,
-          "longitude": 4.36109
+          "longitude": 4.36109,
+          "street": "Swaelusstraat"
         },
         {
           "latitude": 51.0132,
-          "longitude": 4.36201
+          "longitude": 4.36201,
+          "street": "Schuttershofstraat"
         }
       ],
       "openingHours": "10:00-16:00",
@@ -14899,8 +15253,24 @@
       "latitude": 50.94554,
       "longitude": 3.35677,
       "geoSource": "source",
-      "street": "Grotstraat - Molstenstraat",
+      "street": "Grotstraat",
       "houseNumber": null,
+      "route": [
+        "Grotstraat",
+        "Molstenstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 50.94573,
+          "longitude": 3.35754,
+          "street": "Grotstraat"
+        },
+        {
+          "latitude": 50.94259,
+          "longitude": 3.34774,
+          "street": "Molstenstraat"
+        }
+      ],
       "openingHours": "06:00-18:00",
       "admission": null,
       "categories": [
@@ -14939,19 +15309,23 @@
       "routePoints": [
         {
           "latitude": 50.81834,
-          "longitude": 3.01896
+          "longitude": 3.01896,
+          "street": "Boogstraat"
         },
         {
           "latitude": 50.81424,
-          "longitude": 3.02271
+          "longitude": 3.02271,
+          "street": "Vossaardestraat"
         },
         {
           "latitude": 50.81678,
-          "longitude": 3.01802
+          "longitude": 3.01802,
+          "street": "Tabakstraat"
         },
         {
           "latitude": 50.813,
-          "longitude": 3.01909
+          "longitude": 3.01909,
+          "street": "Hoge Bossenstraat"
         }
       ],
       "openingHours": "6:00 - 17:30",
@@ -15396,27 +15770,33 @@
       "routePoints": [
         {
           "latitude": 51.1294,
-          "longitude": 4.5783
+          "longitude": 4.5783,
+          "street": "Kluizeplein"
         },
         {
           "latitude": 51.12938,
-          "longitude": 4.57987
+          "longitude": 4.57987,
+          "street": "Lindenstraat"
         },
         {
           "latitude": 51.12994,
-          "longitude": 4.57969
+          "longitude": 4.57969,
+          "street": "Peperstraat"
         },
         {
           "latitude": 51.13066,
-          "longitude": 4.57957
+          "longitude": 4.57957,
+          "street": "Lookstraat"
         },
         {
           "latitude": 51.13122,
-          "longitude": 4.57809
+          "longitude": 4.57809,
+          "street": "Koepoortstraat"
         },
         {
           "latitude": 51.13056,
-          "longitude": 4.57833
+          "longitude": 4.57833,
+          "street": "Kluizestraat"
         }
       ],
       "openingHours": "09:00-16:30",
@@ -15563,40 +15943,28 @@
       "latitude": 51.21761,
       "longitude": 4.431,
       "geoSource": "source",
-      "street": "Rosekapellestraat",
+      "street": "Groenhofstraat",
       "houseNumber": null,
       "route": [
-        "Rosekapellestraat",
         "Groenhofstraat",
         "Smitslei",
-        "Regenmortellei",
-        "L. Huybrechtsstraat",
-        "Sprinkhaanveldestraat"
+        "Regenmortellei"
       ],
       "routePoints": [
         {
-          "latitude": 51.19825,
-          "longitude": 4.4877
-        },
-        {
           "latitude": 51.19699,
-          "longitude": 4.48842
+          "longitude": 4.48842,
+          "street": "Groenhofstraat"
         },
         {
           "latitude": 51.19654,
-          "longitude": 4.48901
+          "longitude": 4.48901,
+          "street": "Smitslei"
         },
         {
           "latitude": 51.19564,
-          "longitude": 4.48752
-        },
-        {
-          "latitude": 51.19889,
-          "longitude": 4.48415
-        },
-        {
-          "latitude": 51.19888,
-          "longitude": 4.48288
+          "longitude": 4.48752,
+          "street": "Regenmortellei"
         }
       ],
       "openingHours": "10:00-17:00",
@@ -15691,39 +16059,48 @@
       "routePoints": [
         {
           "latitude": 51.28579,
-          "longitude": 4.43633
+          "longitude": 4.43633,
+          "street": "Leliënlaan"
         },
         {
           "latitude": 51.28279,
-          "longitude": 4.43863
+          "longitude": 4.43863,
+          "street": "Asterlaan"
         },
         {
           "latitude": 51.2833,
-          "longitude": 4.43917
+          "longitude": 4.43917,
+          "street": "Tulpenlaan"
         },
         {
           "latitude": 51.28811,
-          "longitude": 4.43939
+          "longitude": 4.43939,
+          "street": "Antverpiastraat"
         },
         {
           "latitude": 51.28675,
-          "longitude": 4.43807
+          "longitude": 4.43807,
+          "street": "Fortuinstraat"
         },
         {
           "latitude": 51.2878,
-          "longitude": 4.43677
+          "longitude": 4.43677,
+          "street": "Weerstandersstraat"
         },
         {
           "latitude": 51.28972,
-          "longitude": 4.43785
+          "longitude": 4.43785,
+          "street": "Caertsstraat"
         },
         {
           "latitude": 51.29009,
-          "longitude": 4.43904
+          "longitude": 4.43904,
+          "street": "Wintstraat"
         },
         {
           "latitude": 51.29013,
-          "longitude": 4.44222
+          "longitude": 4.44222,
+          "street": "Staeslei"
         }
       ],
       "openingHours": "08:00-16:00",
@@ -15871,56 +16248,105 @@
         "Greevestraat",
         "Componistenhof",
         "Dirigentenhof",
-        "Mailleuxstraat"
+        "Mailleuxstraat",
+        "Lapzeisstraat",
+        "Kunstenaarshof",
+        "Neerzijstraat",
+        "Kokerstraat",
+        "Timkensbergstraat",
+        "Konkelstraat",
+        "Roedenstraat"
       ],
       "routePoints": [
         {
           "latitude": 50.97773,
-          "longitude": 5.52917
+          "longitude": 5.52917,
+          "street": "Mindersstraat"
         },
         {
           "latitude": 50.9756,
-          "longitude": 5.53275
+          "longitude": 5.53275,
+          "street": "Bonderstraat"
         },
         {
           "latitude": 50.97491,
-          "longitude": 5.52817
+          "longitude": 5.52817,
+          "street": "Mispelaarstraat"
         },
         {
           "latitude": 50.97697,
-          "longitude": 5.52577
+          "longitude": 5.52577,
+          "street": "Driessenstraat"
         },
         {
           "latitude": 50.97889,
-          "longitude": 5.53036
+          "longitude": 5.53036,
+          "street": "Schildershof"
         },
         {
           "latitude": 50.97765,
-          "longitude": 5.53078
+          "longitude": 5.53078,
+          "street": "Landschapshof"
         },
         {
           "latitude": 50.97893,
-          "longitude": 5.53342
+          "longitude": 5.53342,
+          "street": "Academiestraat"
         },
         {
           "latitude": 50.97944,
-          "longitude": 5.53298
+          "longitude": 5.53298,
+          "street": "Waterbleekstraat"
         },
         {
           "latitude": 50.97754,
-          "longitude": 5.53267
+          "longitude": 5.53267,
+          "street": "Greevestraat"
         },
         {
           "latitude": 50.97713,
-          "longitude": 5.5351
+          "longitude": 5.5351,
+          "street": "Componistenhof"
         },
         {
           "latitude": 50.97686,
-          "longitude": 5.53825
+          "longitude": 5.53825,
+          "street": "Dirigentenhof"
         },
         {
           "latitude": 50.97394,
-          "longitude": 5.53549
+          "longitude": 5.53549,
+          "street": "Mailleuxstraat"
+        },
+        {
+          "latitude": 50.97364,
+          "longitude": 5.53729,
+          "street": "Lapzeisstraat"
+        },
+        {
+          "latitude": 50.97304,
+          "longitude": 5.53585,
+          "street": "Kunstenaarshof"
+        },
+        {
+          "latitude": 50.96949,
+          "longitude": 5.53347,
+          "street": "Neerzijstraat"
+        },
+        {
+          "latitude": 50.9739,
+          "longitude": 5.5387,
+          "street": "Kokerstraat"
+        },
+        {
+          "latitude": 50.98089,
+          "longitude": 5.53255,
+          "street": "Timkensbergstraat"
+        },
+        {
+          "latitude": 50.97902,
+          "longitude": 5.52849,
+          "street": "Roedenstraat"
         }
       ],
       "openingHours": "09:00-14:00",
@@ -16169,8 +16595,30 @@
       "latitude": 50.96483,
       "longitude": 3.99172,
       "geoSource": "source",
-      "street": "Broeder de Saedeleerstraat, Hollestraat en Houtzagerijstraat",
+      "street": "Saedeleerstraat",
       "houseNumber": null,
+      "route": [
+        "Saedeleerstraat",
+        "Hollestraat",
+        "Houtzagerijstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 50.96478,
+          "longitude": 3.99663,
+          "street": "Saedeleerstraat"
+        },
+        {
+          "latitude": 50.96562,
+          "longitude": 3.99407,
+          "street": "Hollestraat"
+        },
+        {
+          "latitude": 50.96551,
+          "longitude": 3.9899,
+          "street": "Houtzagerijstraat"
+        }
+      ],
       "openingHours": "09:00-17:00",
       "admission": null,
       "categories": [
@@ -16670,19 +17118,23 @@
       "routePoints": [
         {
           "latitude": 50.87226,
-          "longitude": 4.33192
+          "longitude": 4.33192,
+          "street": "Mirepoixlaan"
         },
         {
           "latitude": 50.87102,
-          "longitude": 4.33456
+          "longitude": 4.33456,
+          "street": "Warlandlaan"
         },
         {
           "latitude": 50.87174,
-          "longitude": 4.33328
+          "longitude": 4.33328,
+          "street": "Clercqstraat"
         },
         {
           "latitude": 50.87249,
-          "longitude": 4.32995
+          "longitude": 4.32995,
+          "street": "Faesstraat"
         }
       ],
       "openingHours": "09:00-18:00",
@@ -16796,8 +17248,48 @@
       "latitude": 50.92087,
       "longitude": 4.38997,
       "geoSource": "source",
-      "street": "Sparrenlaan, Populierendallaan, Berkenlaan, Weikantlaan, Esdoornlaan en Knotwilgenlaan",
+      "street": "Sparrenlaan",
       "houseNumber": null,
+      "route": [
+        "Sparrenlaan",
+        "Populierendallaan",
+        "Berkenlaan",
+        "Weikantlaan",
+        "Esdoornlaan",
+        "Knotwilgenlaan"
+      ],
+      "routePoints": [
+        {
+          "latitude": 50.92159,
+          "longitude": 4.38075,
+          "street": "Sparrenlaan"
+        },
+        {
+          "latitude": 50.91947,
+          "longitude": 4.38824,
+          "street": "Populierendallaan"
+        },
+        {
+          "latitude": 50.92149,
+          "longitude": 4.38888,
+          "street": "Berkenlaan"
+        },
+        {
+          "latitude": 50.9194,
+          "longitude": 4.38407,
+          "street": "Weikantlaan"
+        },
+        {
+          "latitude": 50.92136,
+          "longitude": 4.38909,
+          "street": "Esdoornlaan"
+        },
+        {
+          "latitude": 50.92034,
+          "longitude": 4.39347,
+          "street": "Knotwilgenlaan"
+        }
+      ],
       "openingHours": null,
       "admission": null,
       "categories": [
@@ -17942,8 +18434,24 @@
       "latitude": 51.03529,
       "longitude": 4.16917,
       "geoSource": "source",
-      "street": "Scheepswerfstraat - St.-Ursmarusstraat - Driehuizen - Fabrie",
+      "street": "Scheepswerfstraat",
       "houseNumber": null,
+      "route": [
+        "Scheepswerfstraat",
+        "Ursmarusstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.03631,
+          "longitude": 4.1664,
+          "street": "Scheepswerfstraat"
+        },
+        {
+          "latitude": 51.03545,
+          "longitude": 4.16894,
+          "street": "Ursmarusstraat"
+        }
+      ],
       "openingHours": "08:00-16:00",
       "admission": null,
       "categories": [
@@ -18031,11 +18539,13 @@
       "routePoints": [
         {
           "latitude": 50.76731,
-          "longitude": 4.31431
+          "longitude": 4.31431,
+          "street": "Schoolstraat"
         },
         {
           "latitude": 50.76908,
-          "longitude": 4.31201
+          "longitude": 4.31201,
+          "street": "Kerkveldstraat"
         }
       ],
       "openingHours": "11:00-16:00",
@@ -19007,8 +19517,30 @@
       "latitude": 51.04983,
       "longitude": 3.74682,
       "geoSource": "source",
-      "street": "Aannemersstraat - Bouwmeestersstraat - Klinkkouterstraat",
+      "street": "Aannemersstraat",
       "houseNumber": null,
+      "route": [
+        "Aannemersstraat",
+        "Bouwmeestersstraat",
+        "Klinkkouterstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.0495,
+          "longitude": 3.74832,
+          "street": "Aannemersstraat"
+        },
+        {
+          "latitude": 51.05061,
+          "longitude": 3.74822,
+          "street": "Bouwmeestersstraat"
+        },
+        {
+          "latitude": 51.05181,
+          "longitude": 3.74858,
+          "street": "Klinkkouterstraat"
+        }
+      ],
       "openingHours": "08:00-17:00",
       "admission": null,
       "categories": [
@@ -19102,8 +19634,24 @@
       "latitude": 50.82072,
       "longitude": 3.71718,
       "geoSource": "source",
-      "street": "Teirlinckstraat , Sint Ursmarusstraat , Leeberg en Haaghoek",
+      "street": "Teirlinckstraat",
       "houseNumber": null,
+      "route": [
+        "Teirlinckstraat",
+        "Sint Ursmarusstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 50.8203,
+          "longitude": 3.71766,
+          "street": "Teirlinckstraat"
+        },
+        {
+          "latitude": 50.81994,
+          "longitude": 3.71502,
+          "street": "Sint Ursmarusstraat"
+        }
+      ],
       "openingHours": "08:00-18:00",
       "admission": null,
       "categories": [
@@ -19140,11 +19688,13 @@
       "routePoints": [
         {
           "latitude": 51.19335,
-          "longitude": 3.79855
+          "longitude": 3.79855,
+          "street": "Tunnellaan"
         },
         {
           "latitude": 51.19691,
-          "longitude": 3.79059
+          "longitude": 3.79059,
+          "street": "Europaprijslaan"
         }
       ],
       "openingHours": "08:00-16:00",
@@ -19265,30 +19815,34 @@
       "latitude": 51.14965,
       "longitude": 2.95862,
       "geoSource": "source",
-      "street": "Moerestraat",
+      "street": "Krinkelweg",
       "houseNumber": null,
       "route": [
+        "Krinkelweg",
         "Moerestraat",
-        "Lindenhofstraat",
         "Molenweg",
-        "Krinkelweg"
+        "Lindenhofstraat"
       ],
       "routePoints": [
         {
-          "latitude": 51.14449,
-          "longitude": 2.95956
+          "latitude": 51.14935,
+          "longitude": 2.96001,
+          "street": "Krinkelweg"
         },
         {
-          "latitude": 51.15075,
-          "longitude": 2.95798
+          "latitude": 51.14449,
+          "longitude": 2.95956,
+          "street": "Moerestraat"
         },
         {
           "latitude": 51.14916,
-          "longitude": 2.95691
+          "longitude": 2.95691,
+          "street": "Molenweg"
         },
         {
-          "latitude": 51.14935,
-          "longitude": 2.96001
+          "latitude": 51.15075,
+          "longitude": 2.95798,
+          "street": "Lindenhofstraat"
         }
       ],
       "openingHours": "06:00-17:00",
@@ -19586,8 +20140,12 @@
       "latitude": 51.01846,
       "longitude": 4.47866,
       "geoSource": "source",
-      "street": "Colomastraat en Willem Geetstraat",
+      "street": "Colomastraat",
       "houseNumber": null,
+      "route": [
+        "Colomastraat",
+        "Geetstraat"
+      ],
       "openingHours": null,
       "admission": null,
       "categories": [
@@ -19752,7 +20310,118 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/garageverkoop-rommelmarkt/86589664-39e3-47f0-970e-0992a66ee96b"
     },
     {
-      "id": "3-51.02568-3.69148-363",
+      "id": "3-51.05045-3.74903-363",
+      "source": "www.uitinvlaanderen.be",
+      "date": "2026-09-20",
+      "municipality": "Sint-Amandsberg",
+      "postalCode": "9040",
+      "province": "East Flanders",
+      "latitude": 51.05045,
+      "longitude": 3.74903,
+      "geoSource": "source",
+      "street": "Klinkkouterstraat",
+      "houseNumber": null,
+      "route": [
+        "Klinkkouterstraat",
+        "Aannemersstraat",
+        "Bouwmeestersstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.05181,
+          "longitude": 3.74858,
+          "street": "Klinkkouterstraat"
+        },
+        {
+          "latitude": 51.0495,
+          "longitude": 3.74832,
+          "street": "Aannemersstraat"
+        },
+        {
+          "latitude": 51.05061,
+          "longitude": 3.74822,
+          "street": "Bouwmeestersstraat"
+        }
+      ],
+      "openingHours": null,
+      "admission": null,
+      "categories": [
+        "Rommelmarkt"
+      ],
+      "standCount": null,
+      "parkings": [
+        {
+          "label": "Delhaize",
+          "latitude": 51.05213,
+          "longitude": 3.74789,
+          "source": "osm",
+          "access": "customers"
+        },
+        {
+          "label": "Parking",
+          "latitude": 51.04933,
+          "longitude": 3.74585,
+          "source": "osm",
+          "anonymous": true
+        },
+        {
+          "label": "Huisartsen Dendermondsesteenweg",
+          "latitude": 51.05232,
+          "longitude": 3.74644,
+          "source": "osm",
+          "access": "customers"
+        },
+        {
+          "label": "Parking",
+          "latitude": 51.05309,
+          "longitude": 3.74972,
+          "source": "osm",
+          "anonymous": true,
+          "capacity": 2
+        },
+        {
+          "label": "Parking",
+          "latitude": 51.04824,
+          "longitude": 3.74575,
+          "source": "osm",
+          "anonymous": true,
+          "capacity": 2
+        },
+        {
+          "label": "Parking",
+          "latitude": 51.05374,
+          "longitude": 3.74916,
+          "source": "osm",
+          "anonymous": true,
+          "capacity": 4
+        },
+        {
+          "label": "Parking",
+          "latitude": 51.05424,
+          "longitude": 3.74844,
+          "source": "osm",
+          "anonymous": true,
+          "capacity": 3
+        },
+        {
+          "label": "Buurtparking",
+          "latitude": 51.04792,
+          "longitude": 3.7407,
+          "source": "osm"
+        },
+        {
+          "label": "De Punt",
+          "latitude": 51.04441,
+          "longitude": 3.75146,
+          "source": "osm",
+          "access": "customers",
+          "capacity": 14
+        }
+      ],
+      "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-5-hoek-entrepreneurs/4bdc4346-6ee5-4c26-b31f-82761234f975"
+    },
+    {
+      "id": "3-51.02568-3.69148-364",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-20",
       "municipality": "Afsnee",
@@ -19839,7 +20508,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/vintage-tweedehandsmarkt-parking-flanders-expo/62766c83-215d-4fc1-8b0b-9b484a462567"
     },
     {
-      "id": "3-50.71975-5.09481-364",
+      "id": "3-50.71975-5.09481-365",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-20",
       "municipality": "Walsbets",
@@ -19883,7 +20552,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/whtm-rommel-en-ambachtenmarkt/6665b75a-ced9-437c-8d02-daf5a117f7d9"
     },
     {
-      "id": "3-51.46338-4.44909-365",
+      "id": "3-51.46338-4.44909-366",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-20",
       "municipality": "Essen",
@@ -19928,7 +20597,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt/b1298b98-06bc-4044-81f9-c66ba60cb50f"
     },
     {
-      "id": "3-51.00546-3.88707-366",
+      "id": "3-51.00546-3.88707-367",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-20",
       "municipality": "Massemen",
@@ -20014,7 +20683,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-zeshoek/cc78cc11-f425-4f1b-98e4-59981ae6e4af"
     },
     {
-      "id": "3-51.20908-3.22793-367",
+      "id": "3-51.20908-3.22793-368",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-20",
       "municipality": "Brugge",
@@ -20033,15 +20702,18 @@
       "routePoints": [
         {
           "latitude": 51.21111,
-          "longitude": 3.2364
+          "longitude": 3.2364,
+          "street": "Langestraat"
         },
         {
           "latitude": 51.20979,
-          "longitude": 3.22971
+          "longitude": 3.22971,
+          "street": "Hoogstraat"
         },
         {
           "latitude": 51.20956,
-          "longitude": 3.22635
+          "longitude": 3.22635,
+          "street": "Philipstockstraat"
         }
       ],
       "openingHours": null,
@@ -20126,7 +20798,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/braderie-en-rommelmarkt-laho/f1a129a8-697f-454a-80c1-5fe66d8a1299"
     },
     {
-      "id": "3-51.08571-3.02069-368",
+      "id": "3-51.08571-3.02069-369",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-20",
       "municipality": "Ichtegem",
@@ -20155,7 +20827,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/binnen-rommelmarkt/3593a671-c7fc-45a3-b930-32853b789188"
     },
     {
-      "id": "3-50.80991-3.18267-369",
+      "id": "3-50.80991-3.18267-370",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-20",
       "municipality": "Wevelgem",
@@ -20225,7 +20897,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt/937080cc-5ccb-405d-b389-f638c5722a26"
     },
     {
-      "id": "3-51.04619-2.91664-370",
+      "id": "3-51.04619-2.91664-371",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-20",
       "municipality": "Kaaskerke",
@@ -20254,7 +20926,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-vladslo-2026/f5112611-b2d5-4a0c-a650-417c18b46f9f"
     },
     {
-      "id": "1-50.89675-5.11036-371",
+      "id": "1-50.89675-5.11036-372",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-26",
       "municipality": "Geetbets",
@@ -20293,7 +20965,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133836/rommelmarkt-met-barbecue-geetbets"
     },
     {
-      "id": "1-50.97539-4.89331-372",
+      "id": "1-50.97539-4.89331-373",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-26",
       "municipality": "Rillaar",
@@ -20344,7 +21016,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133546/rommelweekend-zaal-den-akker-rillaar--aarschot--rillaar"
     },
     {
-      "id": "1-50.92452-4.72104-373",
+      "id": "1-50.92452-4.72104-374",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-26",
       "municipality": "Wilsele",
@@ -20381,7 +21053,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133943/rommelmarkt--dorpsfeest-wilsele-wilsele"
     },
     {
-      "id": "2-51.29681-4.69426-374",
+      "id": "2-51.29681-4.69426-375",
       "source": "www.wattedoen.be",
       "date": "2026-09-26",
       "municipality": "Westmalle",
@@ -20439,7 +21111,7 @@
       "sourceUrl": "https://www.wattedoen.be/garageverkoop-8748834.shtml"
     },
     {
-      "id": "2-51.19112-4.40004-375",
+      "id": "2-51.19112-4.40004-376",
       "source": "www.wattedoen.be",
       "date": "2026-09-26",
       "municipality": "Antwerpen",
@@ -20524,7 +21196,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelant-tweedaagse-8759168.shtml"
     },
     {
-      "id": "2-51.17736-4.36615-376",
+      "id": "2-51.17736-4.36615-377",
       "source": "www.wattedoen.be",
       "date": "2026-09-26",
       "municipality": "Hoboken",
@@ -20568,7 +21240,7 @@
       "sourceUrl": "https://www.wattedoen.be/23e-jaarlijkse-rommelmarkt-8761127.shtml"
     },
     {
-      "id": "2-51.06783-3.72909-377",
+      "id": "2-51.06783-3.72909-378",
       "source": "www.wattedoen.be",
       "date": "2026-09-26",
       "municipality": "Gent",
@@ -20648,7 +21320,7 @@
       "sourceUrl": "https://www.wattedoen.be/jaarlijkse-gezellige-8750390.shtml"
     },
     {
-      "id": "2-50.89105-3.91082-378",
+      "id": "2-50.89105-3.91082-379",
       "source": "www.wattedoen.be",
       "date": "2026-09-26",
       "municipality": "Ressegem",
@@ -20679,7 +21351,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-met-grime-8758512.shtml"
     },
     {
-      "id": "2-51.13406-3.04467-379",
+      "id": "2-51.13406-3.04467-380",
       "source": "www.wattedoen.be",
       "date": "2026-09-26",
       "municipality": "Ichtegem",
@@ -20709,7 +21381,7 @@
       "sourceUrl": "https://www.wattedoen.be/garageverkoop-rommelmarkt-8759767.shtml"
     },
     {
-      "id": "3-50.92868-3.55796-380",
+      "id": "3-50.92868-3.55796-381",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-26",
       "municipality": "Kruishoutem",
@@ -20739,7 +21411,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-lozer/2e2f37cc-f92f-40b9-87c7-3b91b2719f86"
     },
     {
-      "id": "3-51.00885-3.85281-381",
+      "id": "3-51.00885-3.85281-382",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-26",
       "municipality": "Massemen",
@@ -20768,7 +21440,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-met-kinderanimatie/b2d815c8-f03a-405d-b155-5e7983ff2466"
     },
     {
-      "id": "3-50.89215-3.91005-382",
+      "id": "3-50.89215-3.91005-383",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-26",
       "municipality": "Ressegem",
@@ -20799,7 +21471,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/18de-rommel-en-antiekmarkt-ressegem/bd4318b3-2d5f-45f5-947f-13d8355e2af7"
     },
     {
-      "id": "3-50.92006-3.25483-383",
+      "id": "3-50.92006-3.25483-384",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-26",
       "municipality": "Ingelmunster",
@@ -20890,7 +21562,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/unizo-ingelmunster-rommelmarkt-dd-26-09-2026/1a574776-21d2-4fc6-94be-3e44320f9233"
     },
     {
-      "id": "3-50.92609-4.45591-384",
+      "id": "3-50.92609-4.45591-385",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-26",
       "municipality": "Peutie",
@@ -20925,7 +21597,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-op-de-septemberfeesten-peutie/3d6c2e19-e9f8-4b38-b3f5-950b634445e3"
     },
     {
-      "id": "2-50.79826-5.63362-385",
+      "id": "2-50.79826-5.63362-386",
       "source": "www.wattedoen.be",
       "date": "2026-09-27",
       "municipality": "Riemst",
@@ -20960,7 +21632,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-zussen-8758565.shtml"
     },
     {
-      "id": "1-50.84704-3.44928-386",
+      "id": "1-50.84704-3.44928-387",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-27",
       "municipality": "Anzegem",
@@ -20997,7 +21669,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133974/rommelmarkt-heirweg---anzegem-anzegem"
     },
     {
-      "id": "1-51.09531-3.20483-387",
+      "id": "1-51.09531-3.20483-388",
       "source": "www.rommelmarkten.be",
       "date": "2026-09-27",
       "municipality": "Ruddervoorde",
@@ -21074,7 +21746,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133403/ruddervoorde-kermis-ruddervoorde"
     },
     {
-      "id": "2-50.89804-3.40154-388",
+      "id": "2-50.89804-3.40154-389",
       "source": "www.wattedoen.be",
       "date": "2026-09-27",
       "municipality": "Sint-Eloois-Vijve",
@@ -21155,7 +21827,7 @@
       "sourceUrl": "https://www.wattedoen.be/antiek-rommelmarkt-te-8727119.shtml"
     },
     {
-      "id": "2-51.23989-4.6458-389",
+      "id": "2-51.23989-4.6458-390",
       "source": "www.wattedoen.be",
       "date": "2026-09-27",
       "municipality": "Halle",
@@ -21224,7 +21896,7 @@
       "sourceUrl": "https://www.wattedoen.be/40-ste-jaar-en-rommelmarkt-8725845.shtml"
     },
     {
-      "id": "2-51.13288-4.3321-390",
+      "id": "2-51.13288-4.3321-391",
       "source": "www.wattedoen.be",
       "date": "2026-09-27",
       "municipality": "Hemiksem",
@@ -21318,7 +21990,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-8735237.shtml"
     },
     {
-      "id": "2-51.38868-4.59882-391",
+      "id": "2-51.38868-4.59882-392",
       "source": "www.wattedoen.be",
       "date": "2026-09-27",
       "municipality": "Wuustwezel",
@@ -21353,7 +22025,7 @@
       "sourceUrl": "https://www.wattedoen.be/dorpsdag-rommelmarkt-8749150.shtml"
     },
     {
-      "id": "2-50.99695-4.47972-392",
+      "id": "2-50.99695-4.47972-393",
       "source": "www.wattedoen.be",
       "date": "2026-09-27",
       "municipality": "Mechelen",
@@ -21389,7 +22061,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-geerdegemstraat-8749781.shtml"
     },
     {
-      "id": "2-51.03383-4.4569-393",
+      "id": "2-51.03383-4.4569-394",
       "source": "www.wattedoen.be",
       "date": "2026-09-27",
       "municipality": "Mechelen",
@@ -21418,7 +22090,7 @@
       "sourceUrl": "https://www.wattedoen.be/garageverkoop-battel-8752120.shtml"
     },
     {
-      "id": "2-51.25578-4.50962-394",
+      "id": "2-51.25578-4.50962-395",
       "source": "www.wattedoen.be",
       "date": "2026-09-27",
       "municipality": "Schoten",
@@ -21427,8 +22099,24 @@
       "latitude": 51.25578,
       "longitude": 4.50962,
       "geoSource": "source",
-      "street": "Schotenhofdreef + Heikantstraat",
+      "street": "Schotenhofdreef",
       "houseNumber": null,
+      "route": [
+        "Schotenhofdreef",
+        "Heikantstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.25629,
+          "longitude": 4.51126,
+          "street": "Schotenhofdreef"
+        },
+        {
+          "latitude": 51.25454,
+          "longitude": 4.51044,
+          "street": "Heikantstraat"
+        }
+      ],
       "openingHours": "09:00-16:00",
       "admission": null,
       "categories": [
@@ -21505,7 +22193,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-schotenhofdreef-8757618.shtml"
     },
     {
-      "id": "2-51.26976-5.51542-395",
+      "id": "2-51.26976-5.51542-396",
       "source": "www.wattedoen.be",
       "date": "2026-09-27",
       "municipality": "Hamont-Achel",
@@ -21535,7 +22223,7 @@
       "sourceUrl": "https://www.wattedoen.be/garageverkoop-8761389.shtml"
     },
     {
-      "id": "2-51.20169-3.3232-396",
+      "id": "2-51.20169-3.3232-397",
       "source": "www.wattedoen.be",
       "date": "2026-09-27",
       "municipality": "Sijsele",
@@ -21603,7 +22291,7 @@
       "sourceUrl": "https://www.wattedoen.be/feestelijke-buitenrommelmarkt-8695148.shtml"
     },
     {
-      "id": "2-50.77908-3.45118-397",
+      "id": "2-50.77908-3.45118-398",
       "source": "www.wattedoen.be",
       "date": "2026-09-27",
       "municipality": "Avelgem",
@@ -21661,7 +22349,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelmarkten-8724735.shtml"
     },
     {
-      "id": "2-50.96991-4.18897-398",
+      "id": "2-50.96991-4.18897-399",
       "source": "www.wattedoen.be",
       "date": "2026-09-27",
       "municipality": "Opwijk",
@@ -21698,7 +22386,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelmarkten-opwijk-seizoen-8726657.shtml"
     },
     {
-      "id": "2-50.79987-4.18856-399",
+      "id": "2-50.79987-4.18856-400",
       "source": "www.wattedoen.be",
       "date": "2026-09-27",
       "municipality": "Lennik",
@@ -21728,7 +22416,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-antiekmarkt-8746957.shtml"
     },
     {
-      "id": "2-51.02227-4.993-400",
+      "id": "2-51.02227-4.993-401",
       "source": "www.wattedoen.be",
       "date": "2026-09-27",
       "municipality": "Averbode",
@@ -21748,19 +22436,23 @@
       "routePoints": [
         {
           "latitude": 51.02528,
-          "longitude": 4.99989
+          "longitude": 4.99989,
+          "street": "Vorststraat"
         },
         {
           "latitude": 51.02034,
-          "longitude": 4.99388
+          "longitude": 4.99388,
+          "street": "R. Huybrechtsstraat"
         },
         {
           "latitude": 51.02585,
-          "longitude": 4.99232
+          "longitude": 4.99232,
+          "street": "Abdijstraat"
         },
         {
           "latitude": 51.02422,
-          "longitude": 4.99246
+          "longitude": 4.99246,
+          "street": "Sprinkhaanstraat"
         }
       ],
       "openingHours": "08:00-16:00",
@@ -21792,7 +22484,7 @@
       "sourceUrl": "https://www.wattedoen.be/grote-garageverkoop-8751167.shtml"
     },
     {
-      "id": "2-51.00539-4.98412-401",
+      "id": "2-51.00539-4.98412-402",
       "source": "www.wattedoen.be",
       "date": "2026-09-27",
       "municipality": "Zichem",
@@ -21828,7 +22520,7 @@
       "sourceUrl": "https://www.wattedoen.be/garageverkoop-raak-punt-8760145.shtml"
     },
     {
-      "id": "3-51.09674-4.60805-402",
+      "id": "3-51.09674-4.60805-403",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-27",
       "municipality": "Lier",
@@ -21865,7 +22557,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/garageverkoop-koningshooikt/f2fb8d8b-97f2-4281-aa13-eb01ee586770"
     },
     {
-      "id": "3-51.45459-4.44566-403",
+      "id": "3-51.45459-4.44566-404",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-27",
       "municipality": "Essen",
@@ -21926,7 +22618,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-heikant/16d956bf-f4d9-4288-a877-0c479fa52c58"
     },
     {
-      "id": "3-51.20409-3.32213-404",
+      "id": "3-51.20409-3.32213-405",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-27",
       "municipality": "Damme",
@@ -22000,7 +22692,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/feestelijke-buiten-rommelmarkt/a657e662-5386-44ba-9138-dab62a70237c"
     },
     {
-      "id": "3-51.081-3.18021-405",
+      "id": "3-51.081-3.18021-406",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-27",
       "municipality": "Oostkamp",
@@ -22044,7 +22736,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-ruddervoorde/b6344949-3063-4ed5-98e7-c691dffc823f"
     },
     {
-      "id": "3-51.20668-4.07738-406",
+      "id": "3-51.20668-4.07738-407",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-27",
       "municipality": "Stekene",
@@ -22090,7 +22782,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/antiek-en-rommelmarkt-tijdens-de-kermis-in-kemzeke/1126e350-32ab-4c3a-8482-6c94a3f598a0"
     },
     {
-      "id": "3-50.96646-3.98283-407",
+      "id": "3-50.96646-3.98283-408",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-27",
       "municipality": "Wanzele",
@@ -22145,7 +22837,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-kasteeldreef-lede/cb088e97-3845-4293-8e18-eb8196d75302"
     },
     {
-      "id": "3-51.00546-3.88707-408",
+      "id": "3-51.00546-3.88707-409",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-27",
       "municipality": "Massemen",
@@ -22231,7 +22923,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-zeshoek/53222dcf-7fc6-45b7-930b-993006ca9692"
     },
     {
-      "id": "3-50.8878-3.35404-409",
+      "id": "3-50.8878-3.35404-410",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-09-27",
       "municipality": "Desselgem",
@@ -22272,7 +22964,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/straete-kermis-desselgem-de-gezelligste-kermis-van-het-jaar-/ce1e1d68-b045-44e6-bf15-cd829a38b9ac"
     },
     {
-      "id": "2-51.09478-4.07216-410",
+      "id": "2-51.09478-4.07216-411",
       "source": "www.wattedoen.be",
       "date": "2026-10-03",
       "municipality": "Hamme",
@@ -22302,7 +22994,7 @@
       "sourceUrl": "https://www.wattedoen.be/openlucht-rommel-en-8748779.shtml"
     },
     {
-      "id": "1-50.875-3.3448-411",
+      "id": "1-50.875-3.3448-412",
       "source": "www.rommelmarkten.be",
       "date": "2026-10-03",
       "municipality": "Beveren-Leie (waregem)",
@@ -22348,7 +23040,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133584/beveren-leie--waregem-"
     },
     {
-      "id": "2-51.08571-3.02069-412",
+      "id": "2-51.08571-3.02069-413",
       "source": "www.wattedoen.be",
       "date": "2026-10-03",
       "municipality": "Ichtegem",
@@ -22377,7 +23069,7 @@
       "sourceUrl": "https://www.wattedoen.be/buitenrommelmarkt-8695151.shtml"
     },
     {
-      "id": "3-50.96544-4.94883-413",
+      "id": "3-50.96544-4.94883-414",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-10-03",
       "municipality": "Scherpenheuvel",
@@ -22414,7 +23106,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/garageverkoop-en-rommelmarkt-schoonderbuken/9a7a023e-a49d-4bfb-acb2-3a5d03bb756f"
     },
     {
-      "id": "3-51.09916-3.82423-414",
+      "id": "3-51.09916-3.82423-415",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-10-03",
       "municipality": "Lochristi",
@@ -22492,7 +23184,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-meer-dan-300-standhouders-n-a-v-80-j-kapellekens/3ba0cfcd-66e1-4e35-89e1-3dbd22641067"
     },
     {
-      "id": "3-51.29523-4.44796-415",
+      "id": "3-51.29523-4.44796-416",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-10-03",
       "municipality": "Brasschaat",
@@ -22522,7 +23214,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/sfeervolle-rommelmarkt/cbcb290c-39ef-456f-86b9-6a1eb71287ba"
     },
     {
-      "id": "3-50.99826-4.15335-416",
+      "id": "3-50.99826-4.15335-417",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-10-03",
       "municipality": "Denderbelle",
@@ -22543,19 +23235,23 @@
       "routePoints": [
         {
           "latitude": 51.00018,
-          "longitude": 4.14966
+          "longitude": 4.14966,
+          "street": "Heizijdestraat"
         },
         {
           "latitude": 50.99565,
-          "longitude": 4.15573
+          "longitude": 4.15573,
+          "street": "Lindekensstraat"
         },
         {
           "latitude": 50.99455,
-          "longitude": 4.16122
+          "longitude": 4.16122,
+          "street": "Kakemanstraat"
         },
         {
           "latitude": 50.99647,
-          "longitude": 4.15346
+          "longitude": 4.15346,
+          "street": "Hulststraat"
         }
       ],
       "openingHours": null,
@@ -22583,7 +23279,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-heizijde/14085c4d-9bcf-485f-88ac-88bf88f9e247"
     },
     {
-      "id": "2-51.22335-4.43858-417",
+      "id": "2-51.22335-4.43858-418",
       "source": "www.wattedoen.be",
       "date": "2026-10-04",
       "municipality": "Antwerpen 6",
@@ -22655,7 +23351,7 @@
       "sourceUrl": "https://www.wattedoen.be/sfeervolle-rommelmarkt-in-8762289.shtml"
     },
     {
-      "id": "2-51.28422-4.42793-418",
+      "id": "2-51.28422-4.42793-419",
       "source": "www.wattedoen.be",
       "date": "2026-10-04",
       "municipality": "Ekeren",
@@ -22716,7 +23412,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-buntse-feesten-8749556.shtml"
     },
     {
-      "id": "1-50.87101-4.27879-419",
+      "id": "1-50.87101-4.27879-420",
       "source": "www.rommelmarkten.be",
       "date": "2026-10-04",
       "municipality": "Groot – Bijgaarden",
@@ -22792,7 +23488,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133916/collect-hit-groot---bijgaarden"
     },
     {
-      "id": "2-50.92746-4.85665-420",
+      "id": "2-50.92746-4.85665-421",
       "source": "www.wattedoen.be",
       "date": "2026-10-04",
       "municipality": "Houwaart",
@@ -22821,7 +23517,7 @@
       "sourceUrl": "https://www.wattedoen.be/gezellige-rommelmarkt-met-8745986.shtml"
     },
     {
-      "id": "2-50.88509-3.43683-421",
+      "id": "2-50.88509-3.43683-422",
       "source": "www.wattedoen.be",
       "date": "2026-10-04",
       "municipality": "Waregem",
@@ -22914,7 +23610,7 @@
       "sourceUrl": "https://www.wattedoen.be/antiek-rommelmarkt-te-8728800.shtml"
     },
     {
-      "id": "2-50.84469-4.43572-422",
+      "id": "2-50.84469-4.43572-423",
       "source": "www.wattedoen.be",
       "date": "2026-10-04",
       "municipality": "Sint-Lambrechts-Woluwe",
@@ -23004,7 +23700,7 @@
       "sourceUrl": "https://www.wattedoen.be/grote-rommelmarkt-8762158.shtml"
     },
     {
-      "id": "3-51.19941-5.55701-423",
+      "id": "3-51.19941-5.55701-424",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-10-04",
       "municipality": "Reppel",
@@ -23033,7 +23729,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-in-de-rondestraat-te-lozen-bocholt-op-04-oktober/40d01b80-f1fe-4037-adef-9cf13044b99e"
     },
     {
-      "id": "3-50.94711-4.04273-424",
+      "id": "3-50.94711-4.04273-425",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-10-04",
       "municipality": "Aalst",
@@ -23056,31 +23752,38 @@
       "routePoints": [
         {
           "latitude": 50.94713,
-          "longitude": 4.04292
+          "longitude": 4.04292,
+          "street": "Sleutelsstraat"
         },
         {
           "latitude": 50.94921,
-          "longitude": 4.04228
+          "longitude": 4.04228,
+          "street": "Brouwerijstraat"
         },
         {
           "latitude": 50.94854,
-          "longitude": 4.04334
+          "longitude": 4.04334,
+          "street": "Weverijstraat"
         },
         {
           "latitude": 50.94884,
-          "longitude": 4.04469
+          "longitude": 4.04469,
+          "street": "Jasmijnstraat"
         },
         {
           "latitude": 50.95422,
-          "longitude": 4.04485
+          "longitude": 4.04485,
+          "street": "Bredestraat"
         },
         {
           "latitude": 50.94821,
-          "longitude": 4.04512
+          "longitude": 4.04512,
+          "street": "Tulpstraat"
         },
         {
           "latitude": 50.9477,
-          "longitude": 4.04579
+          "longitude": 4.04579,
+          "street": "Bijlstraat"
         }
       ],
       "openingHours": null,
@@ -23160,7 +23863,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-de-gebieren/a97cc69b-ee0c-44c6-851a-402144d5fd6b"
     },
     {
-      "id": "3-50.87473-5.57436-425",
+      "id": "3-50.87473-5.57436-426",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-10-04",
       "municipality": "Bilzen",
@@ -23189,7 +23892,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/jaarlijkse-rommelmarkt-de-hartenberg/fc122d74-8b66-4793-a3fa-0d32dfdd5fe7"
     },
     {
-      "id": "3-51.00546-3.88707-426",
+      "id": "3-51.00546-3.88707-427",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-10-04",
       "municipality": "Massemen",
@@ -23275,7 +23978,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-zeshoek/8c21025d-e921-4c6d-9358-8e8a1361d3c5"
     },
     {
-      "id": "1-51.11946-3.74024-427",
+      "id": "1-51.11946-3.74024-428",
       "source": "www.rommelmarkten.be",
       "date": "2026-10-09",
       "municipality": "Evergem",
@@ -23304,7 +24007,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133825/buiten-avondrommelmarkt-kermis-kerkbrugge-evergem-evergem"
     },
     {
-      "id": "2-50.97805-4.08007-428",
+      "id": "2-50.97805-4.08007-429",
       "source": "www.wattedoen.be",
       "date": "2026-10-10",
       "municipality": "Wieze",
@@ -23340,7 +24043,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelbeurs-antiek-en-8726796.shtml"
     },
     {
-      "id": "2-51.02925-4.50383-429",
+      "id": "2-51.02925-4.50383-430",
       "source": "www.wattedoen.be",
       "date": "2026-10-10",
       "municipality": "Mechelen",
@@ -23383,7 +24086,7 @@
       "sourceUrl": "https://www.wattedoen.be/bras-rommelmarkt-8729188.shtml"
     },
     {
-      "id": "2-51.14225-4.87137-430",
+      "id": "2-51.14225-4.87137-431",
       "source": "www.wattedoen.be",
       "date": "2026-10-10",
       "municipality": "Olen",
@@ -23428,7 +24131,7 @@
       "sourceUrl": "https://www.wattedoen.be/gezellige-rommelmarkt-8759261.shtml"
     },
     {
-      "id": "3-51.04264-4.32602-431",
+      "id": "3-51.04264-4.32602-432",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-10-10",
       "municipality": "Breendonk",
@@ -23513,7 +24216,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-72ste-breendonk-jaarmarkt/264eda54-5024-41a6-87d9-0f243e845c74"
     },
     {
-      "id": "1-51.22213-4.44841-432",
+      "id": "1-51.22213-4.44841-433",
       "source": "www.rommelmarkten.be",
       "date": "2026-10-11",
       "municipality": "Antwerpen",
@@ -23571,7 +24274,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133460/antwerpen"
     },
     {
-      "id": "2-51.13092-4.57013-433",
+      "id": "2-51.13092-4.57013-434",
       "source": "www.wattedoen.be",
       "date": "2026-10-11",
       "municipality": "Lier",
@@ -23661,7 +24364,7 @@
       "sourceUrl": "https://www.wattedoen.be/vintage-retro-brocanterie-8737314.shtml"
     },
     {
-      "id": "2-50.88483-3.88919-434",
+      "id": "2-50.88483-3.88919-435",
       "source": "www.wattedoen.be",
       "date": "2026-10-11",
       "municipality": "Herzele",
@@ -23670,8 +24373,30 @@
       "latitude": 50.88483,
       "longitude": 3.88919,
       "geoSource": "source",
-      "street": "Groenlaan, Schoolstraat, Bevrijdingsstraat, Graaf du Parclaa",
+      "street": "Groenlaan",
       "houseNumber": null,
+      "route": [
+        "Groenlaan",
+        "Schoolstraat",
+        "Bevrijdingsstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 50.88387,
+          "longitude": 3.89104,
+          "street": "Groenlaan"
+        },
+        {
+          "latitude": 50.88439,
+          "longitude": 3.88827,
+          "street": "Schoolstraat"
+        },
+        {
+          "latitude": 50.88517,
+          "longitude": 3.89005,
+          "street": "Bevrijdingsstraat"
+        }
+      ],
       "openingHours": "10:00-18:00",
       "admission": null,
       "categories": [
@@ -23724,7 +24449,7 @@
       "sourceUrl": "https://www.wattedoen.be/antiek-en-rommelmarkt-8735344.shtml"
     },
     {
-      "id": "2-50.98827-3.75202-435",
+      "id": "2-50.98827-3.75202-436",
       "source": "www.wattedoen.be",
       "date": "2026-10-11",
       "municipality": "Merelbeke",
@@ -23785,7 +24510,7 @@
       "sourceUrl": "https://www.wattedoen.be/antiek-rommelmarkt-te-8728803.shtml"
     },
     {
-      "id": "2-51.22847-4.44102-436",
+      "id": "2-51.22847-4.44102-437",
       "source": "www.wattedoen.be",
       "date": "2026-10-11",
       "municipality": "Antwerpen",
@@ -23873,7 +24598,7 @@
       "sourceUrl": "https://www.wattedoen.be/mega-grote-openlucht-8733623.shtml"
     },
     {
-      "id": "2-51.25248-5.54375-437",
+      "id": "2-51.25248-5.54375-438",
       "source": "www.wattedoen.be",
       "date": "2026-10-11",
       "municipality": "Hamont-Achel",
@@ -23964,7 +24689,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-8698299.shtml"
     },
     {
-      "id": "3-51.22345-4.44594-438",
+      "id": "3-51.22345-4.44594-439",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-10-11",
       "municipality": "Berchem",
@@ -24036,7 +24761,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/mega-grote-openlucht-rommelmarkt-park-spoor-oost-antwerpen-l/199db6e9-8c96-4225-8f54-efa84390e53e"
     },
     {
-      "id": "2-51.20147-3.31641-439",
+      "id": "2-51.20147-3.31641-440",
       "source": "www.wattedoen.be",
       "date": "2026-10-17",
       "municipality": "Sijsele",
@@ -24110,7 +24835,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-8759174.shtml"
     },
     {
-      "id": "2-50.74243-5.07903-440",
+      "id": "2-50.74243-5.07903-441",
       "source": "www.wattedoen.be",
       "date": "2026-10-17",
       "municipality": "Landen",
@@ -24163,7 +24888,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-emi-domein-tpark-8761391.shtml"
     },
     {
-      "id": "2-51.18447-4.58995-441",
+      "id": "2-51.18447-4.58995-442",
       "source": "www.wattedoen.be",
       "date": "2026-10-18",
       "municipality": "Ranst",
@@ -24192,7 +24917,7 @@
       "sourceUrl": "https://www.wattedoen.be/grote-overdekte-rommelmarkt-8733626.shtml"
     },
     {
-      "id": "2-51.17366-4.14493-442",
+      "id": "2-51.17366-4.14493-443",
       "source": "www.wattedoen.be",
       "date": "2026-10-18",
       "municipality": "Sint-Niklaas",
@@ -24259,7 +24984,7 @@
       "sourceUrl": "https://www.wattedoen.be/antiek-rommelmarkt-te-8728804.shtml"
     },
     {
-      "id": "2-51.25576-4.09157-443",
+      "id": "2-51.25576-4.09157-444",
       "source": "www.wattedoen.be",
       "date": "2026-10-18",
       "municipality": "De Klinge",
@@ -24288,7 +25013,7 @@
       "sourceUrl": "https://www.wattedoen.be/garageverkoop-over-heel-het-8732602.shtml"
     },
     {
-      "id": "2-51.04697-3.46274-444",
+      "id": "2-51.04697-3.46274-445",
       "source": "www.wattedoen.be",
       "date": "2026-10-18",
       "municipality": "Lotenhulle",
@@ -24325,7 +25050,7 @@
       "sourceUrl": "https://www.wattedoen.be/binnen-rommelmark-afgelast-8699083.shtml"
     },
     {
-      "id": "2-51.12994-3.02596-445",
+      "id": "2-51.12994-3.02596-446",
       "source": "www.wattedoen.be",
       "date": "2026-10-18",
       "municipality": "Eernegem",
@@ -24375,7 +25100,7 @@
       "sourceUrl": "https://www.wattedoen.be/binnen-rommelmarkt-8699079.shtml"
     },
     {
-      "id": "2-51.19112-4.40004-446",
+      "id": "2-51.19112-4.40004-447",
       "source": "www.wattedoen.be",
       "date": "2026-10-24",
       "municipality": "Antwerpen",
@@ -24460,7 +25185,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelant-tweedaagse-8759169.shtml"
     },
     {
-      "id": "1-51.24504-4.42188-447",
+      "id": "1-51.24504-4.42188-448",
       "source": "www.rommelmarkten.be",
       "date": "2026-10-25",
       "municipality": "Antwerpen",
@@ -24503,7 +25228,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133454/mega-grote-indoor-rommelmarkt-kinepolis-antwerpen-antwerpen"
     },
     {
-      "id": "2-51.20147-3.31641-448",
+      "id": "2-51.20147-3.31641-449",
       "source": "www.wattedoen.be",
       "date": "2026-10-25",
       "municipality": "Sijsele",
@@ -24578,7 +25303,7 @@
       "sourceUrl": "https://www.wattedoen.be/antiek-rommelmarkt-te-8752760.shtml"
     },
     {
-      "id": "2-51.246-4.41655-449",
+      "id": "2-51.246-4.41655-450",
       "source": "www.wattedoen.be",
       "date": "2026-10-25",
       "municipality": "Antwerpen 3",
@@ -24621,7 +25346,7 @@
       "sourceUrl": "https://www.wattedoen.be/mega-grote-verwarmde-en-8734208.shtml"
     },
     {
-      "id": "1-51.08813-4.33094-450",
+      "id": "1-51.08813-4.33094-451",
       "source": "www.rommelmarkten.be",
       "date": "2026-10-31",
       "municipality": "Puurs-Sint-Amands",
@@ -24667,7 +25392,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133044/rommelland-halloweenmarkt-puurs-sint-amands"
     },
     {
-      "id": "1-51.17109-4.39615-451",
+      "id": "1-51.17109-4.39615-452",
       "source": "www.rommelmarkten.be",
       "date": "2026-10-31",
       "municipality": "Wilrijk",
@@ -24743,7 +25468,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133092/boekenmarkt-kursief-wilrijk"
     },
     {
-      "id": "1-50.98067-3.52495-452",
+      "id": "1-50.98067-3.52495-453",
       "source": "www.rommelmarkten.be",
       "date": "2026-10-31",
       "municipality": "Deinze",
@@ -24806,7 +25531,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133077/antiek-and-rommelmarkt-te-deinze-deinze"
     },
     {
-      "id": "1-51.16153-4.67189-453",
+      "id": "1-51.16153-4.67189-454",
       "source": "www.rommelmarkten.be",
       "date": "2026-11-01",
       "municipality": "Nijlen",
@@ -24881,7 +25606,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133293/gezellige-binnenrommelmarkt-nijlen"
     },
     {
-      "id": "2-51.18447-4.58995-454",
+      "id": "2-51.18447-4.58995-455",
       "source": "www.wattedoen.be",
       "date": "2026-11-01",
       "municipality": "Ranst",
@@ -24910,7 +25635,7 @@
       "sourceUrl": "https://www.wattedoen.be/grote-overdekte-rommelmarkt-8733628.shtml"
     },
     {
-      "id": "2-50.8553-4.72838-455",
+      "id": "2-50.8553-4.72838-456",
       "source": "www.wattedoen.be",
       "date": "2026-11-01",
       "municipality": "Heverlee",
@@ -24980,7 +25705,7 @@
       "sourceUrl": "https://www.wattedoen.be/brocanterie-brabanthal-leuven-8747540.shtml"
     },
     {
-      "id": "1-51.02463-3.1363-456",
+      "id": "1-51.02463-3.1363-457",
       "source": "www.rommelmarkten.be",
       "date": "2026-11-01",
       "municipality": "Lichtervelde",
@@ -25043,7 +25768,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133975/grote-rommel--and-brocantemarkt-lichtervelde"
     },
     {
-      "id": "2-50.94326-3.13313-457",
+      "id": "2-50.94326-3.13313-458",
       "source": "www.wattedoen.be",
       "date": "2026-11-01",
       "municipality": "Roeselare",
@@ -25130,7 +25855,7 @@
       "sourceUrl": "https://www.wattedoen.be/antiek-rommelmarkt-te-8728807.shtml"
     },
     {
-      "id": "1-51.20066-3.21066-458",
+      "id": "1-51.20066-3.21066-459",
       "source": "www.rommelmarkten.be",
       "date": "2026-11-01",
       "municipality": "Sint-Andries Brugge",
@@ -25214,7 +25939,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132800/rommelbeurs-sint-lodewijkscollege---org--jovan-sint-andries-brugge"
     },
     {
-      "id": "2-51.14225-4.87137-459",
+      "id": "2-51.14225-4.87137-460",
       "source": "www.wattedoen.be",
       "date": "2026-11-07",
       "municipality": "Olen",
@@ -25259,7 +25984,7 @@
       "sourceUrl": "https://www.wattedoen.be/gezellige-rommelmarkt-8759262.shtml"
     },
     {
-      "id": "2-50.97995-3.52524-460",
+      "id": "2-50.97995-3.52524-461",
       "source": "www.wattedoen.be",
       "date": "2026-11-07",
       "municipality": "Deinze",
@@ -25330,7 +26055,7 @@
       "sourceUrl": "https://www.wattedoen.be/antiek-rommelmarkt-te-8728808.shtml"
     },
     {
-      "id": "2-51.20524-4.64443-461",
+      "id": "2-51.20524-4.64443-462",
       "source": "www.wattedoen.be",
       "date": "2026-11-08",
       "municipality": "Zandhoven",
@@ -25359,7 +26084,7 @@
       "sourceUrl": "https://www.wattedoen.be/grote-overdekte-rommelmarkt-8733630.shtml"
     },
     {
-      "id": "2-51.25248-5.54375-462",
+      "id": "2-51.25248-5.54375-463",
       "source": "www.wattedoen.be",
       "date": "2026-11-08",
       "municipality": "Hamont-Achel",
@@ -25450,7 +26175,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-8698300.shtml"
     },
     {
-      "id": "2-51.33386-3.23729-463",
+      "id": "2-51.33386-3.23729-464",
       "source": "www.wattedoen.be",
       "date": "2026-11-08",
       "municipality": "Heist-Aan-Zee",
@@ -25486,7 +26211,7 @@
       "sourceUrl": "https://www.wattedoen.be/binnen-rommelmarkt-8703554.shtml"
     },
     {
-      "id": "3-51.33387-3.23736-464",
+      "id": "3-51.33387-3.23736-465",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-11-08",
       "municipality": "Knokke",
@@ -25522,7 +26247,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/binnen-rommelmarkt/730c90d0-b97a-4ef8-8658-e2a480445afe"
     },
     {
-      "id": "1-50.98213-4.83833-465",
+      "id": "1-50.98213-4.83833-466",
       "source": "www.rommelmarkten.be",
       "date": "2026-11-11",
       "municipality": "Aarschot",
@@ -25597,7 +26322,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133294/gezellige-binnenrommelmarkt-aarschot"
     },
     {
-      "id": "2-51.00301-3.32754-466",
+      "id": "2-51.00301-3.32754-467",
       "source": "www.wattedoen.be",
       "date": "2026-11-11",
       "municipality": "Tielt",
@@ -25686,7 +26411,7 @@
       "sourceUrl": "https://www.wattedoen.be/antiek-rommelmarkt-te-tielt-8728809.shtml"
     },
     {
-      "id": "1-51.24474-5.30695-467",
+      "id": "1-51.24474-5.30695-468",
       "source": "www.rommelmarkten.be",
       "date": "2026-11-14",
       "municipality": "Lommel",
@@ -25735,7 +26460,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133295/gezellige-binnenrommelmarkt-lommel"
     },
     {
-      "id": "2-50.97805-4.08007-468",
+      "id": "2-50.97805-4.08007-469",
       "source": "www.wattedoen.be",
       "date": "2026-11-14",
       "municipality": "Wieze",
@@ -25771,7 +26496,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelbeurs-antiek-en-8726798.shtml"
     },
     {
-      "id": "3-50.87252-4.40331-469",
+      "id": "3-50.87252-4.40331-470",
       "source": "www.uitinvlaanderen.be",
       "date": "2026-11-14",
       "municipality": "Evere",
@@ -25844,7 +26569,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/rommelmarkt-spellen-en-speelgoed/af72edf5-9764-4bd7-80a9-3f622fe024ea"
     },
     {
-      "id": "1-51.18249-3.10217-470",
+      "id": "1-51.18249-3.10217-471",
       "source": "www.rommelmarkten.be",
       "date": "2026-11-15",
       "municipality": "Jabbeke",
@@ -25911,7 +26636,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132801/rommelbeurs-jabbeke---org--jovan-jabbeke"
     },
     {
-      "id": "1-50.96037-4.77504-471",
+      "id": "1-50.96037-4.77504-472",
       "source": "www.rommelmarkten.be",
       "date": "2026-11-20",
       "municipality": "Wezemaal",
@@ -25941,7 +26666,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133937/vlooienmarkt---verkoop-per-opbod----wezemaal"
     },
     {
-      "id": "2-50.98827-3.75202-472",
+      "id": "2-50.98827-3.75202-473",
       "source": "www.wattedoen.be",
       "date": "2026-11-22",
       "municipality": "Merelbeke",
@@ -26002,7 +26727,7 @@
       "sourceUrl": "https://www.wattedoen.be/antiek-rommelmarkt-te-8728815.shtml"
     },
     {
-      "id": "2-51.17339-4.14278-473",
+      "id": "2-51.17339-4.14278-474",
       "source": "www.wattedoen.be",
       "date": "2026-11-22",
       "municipality": "Sint-Niklaas",
@@ -26081,7 +26806,7 @@
       "sourceUrl": "https://www.wattedoen.be/grote-overdekte-rommelmarkt-8733632.shtml"
     },
     {
-      "id": "2-51.13142-3.03563-474",
+      "id": "2-51.13142-3.03563-475",
       "source": "www.wattedoen.be",
       "date": "2026-11-22",
       "municipality": "Eernegem",
@@ -26123,7 +26848,7 @@
       "sourceUrl": "https://www.wattedoen.be/binnen-rommelmarkt-8711718.shtml"
     },
     {
-      "id": "2-51.14915-4.55973-475",
+      "id": "2-51.14915-4.55973-476",
       "source": "www.wattedoen.be",
       "date": "2026-11-28",
       "municipality": "Lier",
@@ -26152,7 +26877,7 @@
       "sourceUrl": "https://www.wattedoen.be/vintage-reclame-beurs-8753806.shtml"
     },
     {
-      "id": "2-51.02925-4.50383-476",
+      "id": "2-51.02925-4.50383-477",
       "source": "www.wattedoen.be",
       "date": "2026-11-28",
       "municipality": "Mechelen",
@@ -26195,7 +26920,7 @@
       "sourceUrl": "https://www.wattedoen.be/bras-rommelmarkt-8729189.shtml"
     },
     {
-      "id": "1-51.18226-3.00861-477",
+      "id": "1-51.18226-3.00861-478",
       "source": "www.rommelmarkten.be",
       "date": "2026-11-29",
       "municipality": "Oudenburg",
@@ -26265,7 +26990,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/132802/rommelbeurs-oudenburg---org--jovan-oudenburg"
     },
     {
-      "id": "2-50.97805-4.08007-478",
+      "id": "2-50.97805-4.08007-479",
       "source": "www.wattedoen.be",
       "date": "2026-12-05",
       "municipality": "Wieze",
@@ -26301,7 +27026,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelbeurs-antiek-en-8726804.shtml"
     },
     {
-      "id": "2-51.19112-4.40004-479",
+      "id": "2-51.19112-4.40004-480",
       "source": "www.wattedoen.be",
       "date": "2026-12-05",
       "municipality": "Antwerpen",
@@ -26386,7 +27111,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelant-tweedaagse-8759170.shtml"
     },
     {
-      "id": "2-51.18385-4.59114-480",
+      "id": "2-51.18385-4.59114-481",
       "source": "www.wattedoen.be",
       "date": "2026-12-06",
       "municipality": "Ranst",
@@ -26415,7 +27140,7 @@
       "sourceUrl": "https://www.wattedoen.be/grote-overdekte-rommelmarkt-8733633.shtml"
     },
     {
-      "id": "2-51.02574-3.69121-481",
+      "id": "2-51.02574-3.69121-482",
       "source": "www.wattedoen.be",
       "date": "2026-12-06",
       "municipality": "Gent",
@@ -26503,7 +27228,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommel-en-brocantebeurs-8717073.shtml"
     },
     {
-      "id": "2-50.85629-3.60662-482",
+      "id": "2-50.85629-3.60662-483",
       "source": "www.wattedoen.be",
       "date": "2026-12-06",
       "municipality": "Oudenaarde",
@@ -26570,7 +27295,7 @@
       "sourceUrl": "https://www.wattedoen.be/antiek-rommelmarkt-te-8728824.shtml"
     },
     {
-      "id": "2-50.97995-3.52524-483",
+      "id": "2-50.97995-3.52524-484",
       "source": "www.wattedoen.be",
       "date": "2026-12-13",
       "municipality": "Deinze",
@@ -26641,7 +27366,7 @@
       "sourceUrl": "https://www.wattedoen.be/antiek-rommelmarkt-te-8728825.shtml"
     },
     {
-      "id": "1-50.98213-4.83833-484",
+      "id": "1-50.98213-4.83833-485",
       "source": "www.rommelmarkten.be",
       "date": "2026-12-13",
       "municipality": "Aarschot",
@@ -26716,7 +27441,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133297/gezellige-binnenrommelmarkt-aarschot"
     },
     {
-      "id": "2-51.25248-5.54375-485",
+      "id": "2-51.25248-5.54375-486",
       "source": "www.wattedoen.be",
       "date": "2026-12-13",
       "municipality": "Hamont-Achel",
@@ -26807,7 +27532,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelmarkt-8698301.shtml"
     },
     {
-      "id": "2-51.12994-3.02596-486",
+      "id": "2-51.12994-3.02596-487",
       "source": "www.wattedoen.be",
       "date": "2026-12-13",
       "municipality": "Eernegem",
@@ -26857,7 +27582,7 @@
       "sourceUrl": "https://www.wattedoen.be/binnen-rommelmarkt-8715396.shtml"
     },
     {
-      "id": "2-51.33308-3.20495-487",
+      "id": "2-51.33308-3.20495-488",
       "source": "www.wattedoen.be",
       "date": "2026-12-20",
       "municipality": "Zeebrugge",
@@ -26926,7 +27651,7 @@
       "sourceUrl": "https://www.wattedoen.be/antiek-rommelmarkt-te-8728826.shtml"
     },
     {
-      "id": "2-50.98827-3.75202-488",
+      "id": "2-50.98827-3.75202-489",
       "source": "www.wattedoen.be",
       "date": "2026-12-26",
       "municipality": "Merelbeke",
@@ -26987,7 +27712,7 @@
       "sourceUrl": "https://www.wattedoen.be/antiek-rommelmarkt-te-8741594.shtml"
     },
     {
-      "id": "2-51.09471-2.58749-489",
+      "id": "2-51.09471-2.58749-490",
       "source": "www.wattedoen.be",
       "date": "2026-12-27",
       "municipality": "De Panne",
@@ -27075,7 +27800,7 @@
       "sourceUrl": "https://www.wattedoen.be/antiek-rommelmarkt-te-de-8741597.shtml"
     },
     {
-      "id": "2-51.17366-4.14493-490",
+      "id": "2-51.17366-4.14493-491",
       "source": "www.wattedoen.be",
       "date": "2027-01-03",
       "municipality": "Sint-Niklaas",
@@ -27142,7 +27867,7 @@
       "sourceUrl": "https://www.wattedoen.be/antiek-rommelmarkt-te-8752762.shtml"
     },
     {
-      "id": "2-50.97805-4.08007-491",
+      "id": "2-50.97805-4.08007-492",
       "source": "www.wattedoen.be",
       "date": "2027-01-16",
       "municipality": "Wieze",
@@ -27178,7 +27903,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelbeurs-antiek-en-8726805.shtml"
     },
     {
-      "id": "2-50.97995-3.52524-492",
+      "id": "2-50.97995-3.52524-493",
       "source": "www.wattedoen.be",
       "date": "2027-01-17",
       "municipality": "Deinze",
@@ -27249,7 +27974,7 @@
       "sourceUrl": "https://www.wattedoen.be/antiek-rommelmarkt-te-8758129.shtml"
     },
     {
-      "id": "2-50.98827-3.75202-493",
+      "id": "2-50.98827-3.75202-494",
       "source": "www.wattedoen.be",
       "date": "2027-01-23",
       "municipality": "Merelbeke",
@@ -27310,7 +28035,7 @@
       "sourceUrl": "https://www.wattedoen.be/antiek-rommelmarkt-te-8758180.shtml"
     },
     {
-      "id": "2-51.13142-3.03563-494",
+      "id": "2-51.13142-3.03563-495",
       "source": "www.wattedoen.be",
       "date": "2027-01-24",
       "municipality": "Eernegem",
@@ -27352,7 +28077,7 @@
       "sourceUrl": "https://www.wattedoen.be/binnen-rommelmarkt-8725120.shtml"
     },
     {
-      "id": "2-50.95753-3.09743-495",
+      "id": "2-50.95753-3.09743-496",
       "source": "www.wattedoen.be",
       "date": "2027-01-30",
       "municipality": "Roeselare",
@@ -27423,7 +28148,7 @@
       "sourceUrl": "https://www.wattedoen.be/binnen-rommelmarkt-8725201.shtml"
     },
     {
-      "id": "2-50.80652-3.27638-496",
+      "id": "2-50.80652-3.27638-497",
       "source": "www.wattedoen.be",
       "date": "2027-01-31",
       "municipality": "Kortrijk",
@@ -27525,7 +28250,7 @@
       "sourceUrl": "https://www.wattedoen.be/retro-brocante-vintage-te-8758181.shtml"
     },
     {
-      "id": "1-50.88205-3.42584-497",
+      "id": "1-50.88205-3.42584-498",
       "source": "www.rommelmarkten.be",
       "date": "2027-02-07",
       "municipality": "Waregem",
@@ -27626,7 +28351,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133860/antiek-and-rommelmarkt-te-waregem-waregem"
     },
     {
-      "id": "1-50.98067-3.52495-498",
+      "id": "1-50.98067-3.52495-499",
       "source": "www.rommelmarkten.be",
       "date": "2027-02-14",
       "municipality": "Deinze",
@@ -27688,7 +28413,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133863/27ste-mega-muziek-beurs---boekenbeurs-te-deinze-deinze"
     },
     {
-      "id": "1-51.17796-4.83534-499",
+      "id": "1-51.17796-4.83534-500",
       "source": "www.rommelmarkten.be",
       "date": "2027-02-20",
       "municipality": "Herentals",
@@ -27749,7 +28474,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133936/gezellige-rommelmarkt-herentals"
     },
     {
-      "id": "1-50.98067-3.52495-500",
+      "id": "1-50.98067-3.52495-501",
       "source": "www.rommelmarkten.be",
       "date": "2027-02-20",
       "municipality": "Deinze",
@@ -27812,7 +28537,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133870/antiek-and-rommelmarkt-te-deinze--deinze"
     },
     {
-      "id": "3-51.08472-4.81054-501",
+      "id": "3-51.08472-4.81054-502",
       "source": "www.uitinvlaanderen.be",
       "date": "2027-02-21",
       "municipality": "Hulshout",
@@ -27850,7 +28575,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/binnen-rommelmarkt/880e21ee-5885-4ac0-aa0e-910a2512d21f"
     },
     {
-      "id": "2-50.97805-4.08007-502",
+      "id": "2-50.97805-4.08007-503",
       "source": "www.wattedoen.be",
       "date": "2027-02-27",
       "municipality": "Wieze",
@@ -27886,7 +28611,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelbeurs-antiek-en-8726808.shtml"
     },
     {
-      "id": "1-51.1858-3.5768-503",
+      "id": "1-51.1858-3.5768-504",
       "source": "www.rommelmarkten.be",
       "date": "2027-02-28",
       "municipality": "Eeklo",
@@ -27935,7 +28660,7 @@
       "sourceUrl": "https://www.rommelmarkten.be/rommelmarkt/133871/antiek-and-rommelmarkt-te-eeklo--eeklo"
     },
     {
-      "id": "3-51.13016-3.02606-504",
+      "id": "3-51.13016-3.02606-505",
       "source": "www.uitinvlaanderen.be",
       "date": "2027-02-28",
       "municipality": "Ichtegem",
@@ -27985,7 +28710,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/binnen-rommelmarkt/b6a35e14-c558-4773-ac07-942be271f9b4"
     },
     {
-      "id": "2-51.12994-3.02596-505",
+      "id": "2-51.12994-3.02596-506",
       "source": "www.wattedoen.be",
       "date": "2027-03-07",
       "municipality": "Eernegem",
@@ -28035,7 +28760,7 @@
       "sourceUrl": "https://www.wattedoen.be/binnen-rommelmarkt-8729255.shtml"
     },
     {
-      "id": "2-51.33386-3.23729-506",
+      "id": "2-51.33386-3.23729-507",
       "source": "www.wattedoen.be",
       "date": "2027-03-07",
       "municipality": "Heist-Aan-Zee",
@@ -28071,7 +28796,7 @@
       "sourceUrl": "https://www.wattedoen.be/binnen-rommelmarkt-8732397.shtml"
     },
     {
-      "id": "3-51.33387-3.23736-507",
+      "id": "3-51.33387-3.23736-508",
       "source": "www.uitinvlaanderen.be",
       "date": "2027-03-07",
       "municipality": "Knokke",
@@ -28107,7 +28832,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/binnen-rommelmarkt/7fbb54a0-7a39-4510-b0e1-77b49b4c5ac3"
     },
     {
-      "id": "2-51.17366-4.14493-508",
+      "id": "2-51.17366-4.14493-509",
       "source": "www.wattedoen.be",
       "date": "2027-03-14",
       "municipality": "Sint-Niklaas",
@@ -28174,7 +28899,7 @@
       "sourceUrl": "https://www.wattedoen.be/antiek-rommelmarkt-te-8752766.shtml"
     },
     {
-      "id": "2-50.97805-4.08007-509",
+      "id": "2-50.97805-4.08007-510",
       "source": "www.wattedoen.be",
       "date": "2027-03-20",
       "municipality": "Wieze",
@@ -28210,7 +28935,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelbeurs-antiek-en-8734202.shtml"
     },
     {
-      "id": "2-50.97805-4.08007-510",
+      "id": "2-50.97805-4.08007-511",
       "source": "www.wattedoen.be",
       "date": "2027-04-17",
       "municipality": "Wieze",
@@ -28246,7 +28971,7 @@
       "sourceUrl": "https://www.wattedoen.be/rommelbeurs-antiek-en-8734245.shtml"
     },
     {
-      "id": "2-51.14061-3.33266-511",
+      "id": "2-51.14061-3.33266-512",
       "source": "www.wattedoen.be",
       "date": "2027-05-02",
       "municipality": "Beernem",
@@ -28297,7 +29022,7 @@
       "sourceUrl": "https://www.wattedoen.be/buitenrommelmarkt-8746588.shtml"
     },
     {
-      "id": "2-51.12873-3.0138-512",
+      "id": "2-51.12873-3.0138-513",
       "source": "www.wattedoen.be",
       "date": "2027-05-09",
       "municipality": "Eernegem",
@@ -28334,7 +29059,7 @@
       "sourceUrl": "https://www.wattedoen.be/buitenrommelmarkt-8746589.shtml"
     },
     {
-      "id": "2-50.88717-5.611-513",
+      "id": "2-50.88717-5.611-514",
       "source": "www.wattedoen.be",
       "date": "2027-06-06",
       "municipality": "Lanaken",
@@ -28343,8 +29068,24 @@
       "latitude": 50.88717,
       "longitude": 5.611,
       "geoSource": "source",
-      "street": "Sint- Augustinus - Sint - Laurentiusstraat- Kloosterstraat",
+      "street": "Laurentiusstraat",
       "houseNumber": null,
+      "route": [
+        "Laurentiusstraat",
+        "Kloosterstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 50.88587,
+          "longitude": 5.61239,
+          "street": "Laurentiusstraat"
+        },
+        {
+          "latitude": 50.88676,
+          "longitude": 5.60978,
+          "street": "Kloosterstraat"
+        }
+      ],
       "openingHours": "06:00-06:00",
       "admission": null,
       "categories": [
@@ -28363,7 +29104,7 @@
       "sourceUrl": "https://www.wattedoen.be/openlucht-rommelmarkt-8758337.shtml"
     },
     {
-      "id": "2-51.20202-3.25506-514",
+      "id": "2-51.20202-3.25506-515",
       "source": "www.wattedoen.be",
       "date": "2027-06-06",
       "municipality": "Assebroek",
@@ -28376,17 +29117,25 @@
       "houseNumber": null,
       "route": [
         "Vooruitgangstraat",
+        "Korte Vooruitgangstraat",
         "Vermeylenstraat",
         "Lindelaan"
       ],
       "routePoints": [
         {
           "latitude": 51.19891,
-          "longitude": 3.25256
+          "longitude": 3.25256,
+          "street": "Vooruitgangstraat"
+        },
+        {
+          "latitude": 51.19891,
+          "longitude": 3.25256,
+          "street": "Korte Vooruitgangstraat"
         },
         {
           "latitude": 51.19717,
-          "longitude": 3.25533
+          "longitude": 3.25533,
+          "street": "Lindelaan"
         }
       ],
       "openingHours": "08:00-17:00",
@@ -28424,7 +29173,7 @@
       "sourceUrl": "https://www.wattedoen.be/garageverkoop-rommelmarkt-8752929.shtml"
     },
     {
-      "id": "2-51.12241-2.9559-515",
+      "id": "2-51.12241-2.9559-516",
       "source": "www.wattedoen.be",
       "date": "2027-06-06",
       "municipality": "Moere",
@@ -28453,7 +29202,7 @@
       "sourceUrl": "https://www.wattedoen.be/buitenrommelmarkt-8752934.shtml"
     },
     {
-      "id": "2-51.16904-3.12309-516",
+      "id": "2-51.16904-3.12309-517",
       "source": "www.wattedoen.be",
       "date": "2027-06-20",
       "municipality": "Snellegem",
@@ -28482,7 +29231,7 @@
       "sourceUrl": "https://www.wattedoen.be/feestelijke-buitenrommelmarkt-8752946.shtml"
     },
     {
-      "id": "3-51.15806-3.01991-517",
+      "id": "3-51.15806-3.01991-518",
       "source": "www.uitinvlaanderen.be",
       "date": "2027-06-20",
       "municipality": "Jabbeke",
@@ -28511,7 +29260,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/feestelijke-buiten-rommelmarkt/94fa3fae-e04d-4001-8ac0-add9079f8ac8"
     },
     {
-      "id": "2-51.24309-3.24548-518",
+      "id": "2-51.24309-3.24548-519",
       "source": "www.wattedoen.be",
       "date": "2027-06-27",
       "municipality": "Koolkerke",
@@ -28520,8 +29269,24 @@
       "latitude": 51.24309,
       "longitude": 3.24548,
       "geoSource": "source",
-      "street": "Arendstraat , Brugsesteenweg , en Omgeving",
+      "street": "Arendstraat",
       "houseNumber": null,
+      "route": [
+        "Arendstraat",
+        "Brugsesteenweg"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.24426,
+          "longitude": 3.24232,
+          "street": "Arendstraat"
+        },
+        {
+          "latitude": 51.23742,
+          "longitude": 3.24583,
+          "street": "Brugsesteenweg"
+        }
+      ],
       "openingHours": "06:30-17:30",
       "admission": null,
       "categories": [
@@ -28540,7 +29305,7 @@
       "sourceUrl": "https://www.wattedoen.be/feestelijke-buitenrommelmarkt-8752963.shtml"
     },
     {
-      "id": "2-51.12664-3.0298-519",
+      "id": "2-51.12664-3.0298-520",
       "source": "www.wattedoen.be",
       "date": "2027-06-27",
       "municipality": "Eernegem",
@@ -28549,8 +29314,24 @@
       "latitude": 51.12664,
       "longitude": 3.0298,
       "geoSource": "source",
-      "street": "Aartrijkestraat en Ooievaarstraat",
+      "street": "Aartrijkestraat",
       "houseNumber": null,
+      "route": [
+        "Aartrijkestraat",
+        "Ooievaarstraat"
+      ],
+      "routePoints": [
+        {
+          "latitude": 51.1248,
+          "longitude": 3.03108,
+          "street": "Aartrijkestraat"
+        },
+        {
+          "latitude": 51.12687,
+          "longitude": 3.0319,
+          "street": "Ooievaarstraat"
+        }
+      ],
       "openingHours": "06:00-18:00",
       "admission": null,
       "categories": [
@@ -28591,7 +29372,7 @@
       "sourceUrl": "https://www.wattedoen.be/buitenrommelmarkt-8753019.shtml"
     },
     {
-      "id": "3-50.86927-3.1458-520",
+      "id": "3-50.86927-3.1458-521",
       "source": "www.uitinvlaanderen.be",
       "date": "2027-06-27",
       "municipality": "Ledegem",
@@ -28620,7 +29401,7 @@
       "sourceUrl": "https://www.uitinvlaanderen.be/agenda/e/3-brocante-rommelmarkt/1cefcf92-f7f5-4664-b827-bc5eb2ee30b2"
     },
     {
-      "id": "2-51.28123-3.17839-521",
+      "id": "2-51.28123-3.17839-522",
       "source": "www.wattedoen.be",
       "date": "2027-07-11",
       "municipality": "Koekelare",
@@ -28640,7 +29421,7 @@
       "sourceUrl": "https://www.wattedoen.be/buitenrommelmarkt-8760253.shtml"
     },
     {
-      "id": "2-51.23075-2.91716-522",
+      "id": "2-51.23075-2.91716-523",
       "source": "www.wattedoen.be",
       "date": "2027-07-25",
       "municipality": "Moere",
@@ -28649,8 +29430,12 @@
       "latitude": 51.23075,
       "longitude": 2.91716,
       "geoSource": "source",
-      "street": "Moerdijkstraat en Christinastraat",
+      "street": "Moerdijkstraat",
       "houseNumber": null,
+      "route": [
+        "Moerdijkstraat",
+        "Christinastraat"
+      ],
       "openingHours": "06:00-18:00",
       "admission": null,
       "categories": [
