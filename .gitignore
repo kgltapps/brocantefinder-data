@@ -1,3 +1,9 @@
 # Only markets.json, privacy.html, LICENSE and affiches/ are published to GitHub.
 merge.log.txt
 merge.config.json
+
+# Werkbestanden van de pijplijn, nooit publiceren
+markets.json.old*
+*.nieuw.json
+merge.stats.json
+publish.stats.json

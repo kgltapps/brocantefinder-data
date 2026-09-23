@@ -1,0 +1,66 @@
+BrocanteFinder — rommelmarktgegevens (markets.json)
+Copyright © 2026 KGLTAPPS. Alle rechten voorbehouden.
+
+
+1. WAT DIT BESTAND DEKT
+
+Deze licentie geldt voor markets.json en de bijhorende bestanden in deze map:
+de samengestelde databank van rommelmarkten, garageverkopen en antiekbeurzen in
+België, met inbegrip van de structuur, de ontdubbeling, de categorie-indeling en
+de toegevoegde coördinaten.
+
+Het samenstellen van deze databank vergde een substantiële investering. De
+databank wordt beschermd door het auteursrecht en door het databankenrecht
+(Boek XI, Titel 7 van het Belgisch Wetboek van economisch recht / Richtlijn
+96/9/EG).
+
+
+2. GEBRUIKSVOORWAARDEN
+
+Zonder voorafgaande schriftelijke toestemming van KGLTAPPS is het niet
+toegestaan om deze databank of een substantieel deel ervan op te vragen, te
+hergebruiken, te kopiëren, te herpubliceren, te verspreiden, commercieel te
+exploiteren of in een andere toepassing, website of dienst op te nemen.
+Geautomatiseerd of herhaald ophalen van niet-substantiële delen dat neerkomt op
+het reconstrueren van de databank, is evenmin toegestaan.
+
+De gegevens worden geleverd "zoals ze zijn", zonder garantie op juistheid,
+volledigheid of beschikbaarheid. Gebruik op eigen risico.
+
+Aanvragen voor hergebruik: kgltapps@outlook.com
+
+
+3. RECHTEN VAN DERDEN
+
+De onderliggende feitelijke gegevens zijn afkomstig van publiek toegankelijke
+webpagina's. De rechten op die oorspronkelijke gegevens blijven bij hun
+respectieve eigenaars. Deze licentie doet geen afbreuk aan hun rechten en
+verleent er geen enkel recht op.
+
+
+4. LOCATIEGEGEVENS EN PARKEERTERREINEN UIT OPENSTREETMAP
+
+Een deel van de coördinaten is afgeleid van OpenStreetMap: © OpenStreetMap-
+bijdragers, beschikbaar onder de Open Database License (ODbL),
+https://www.openstreetmap.org/copyright
+
+Daarnaast bevat markets.json parkeerterreinen die rechtstreeks uit
+OpenStreetMap komen. Het gaat om de regels in het veld "parkings" met
+  "source": "osm"
+en de gegevens die daarbij horen: naam, coördinaten, "fee" en "access".
+
+Dit bestand is in de zin van de ODbL een verzamelde databank (collective
+database): die OSM-regels blijven onder de ODbL en staan naast de eigen
+gegevens van KGLTAPPS, zonder daarmee te versmelten.
+
+Voor dat OSM-deel geldt bijgevolg:
+
+  - het blijft beschikbaar onder de Open Database License (ODbL) 1.0,
+    https://opendatacommons.org/licenses/odbl/1-0/
+  - het mag vrij gekopieerd, hergebruikt en verspreid worden onder de
+    voorwaarden van die licentie, ook door derden
+  - bronvermelding is verplicht: "© OpenStreetMap-bijdragers"
+  - de beperkingen uit punt 2 hierboven gelden er niet voor
+
+De beperkingen uit punt 2 gelden onverkort voor al het overige: de selectie,
+de ontdubbeling, de categorie-indeling, de teksten en de eigen coördinaten.
