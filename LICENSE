@@ -1,66 +1,72 @@
-BrocanteFinder — rommelmarktgegevens (markets.json)
-Copyright © 2026 KGLTAPPS. Alle rechten voorbehouden.
+Copyright © 2026 KGLTAPPS. Alle rechten voorbehouden. / Tous droits réservés. / All rights reserved.
+
+NEDERLANDS
+
+Deze software ("BrocanteFinder"), met inbegrip van de broncode, de vormgeving,
+de teksten, de logo's, de pictogrammen en de samengestelde rommelmarktgegevens,
+is eigendom van KGLTAPPS en wordt beschermd door het auteursrecht en andere
+wetten inzake intellectuele eigendom.
+
+Zonder voorafgaande schriftelijke toestemming van de rechthebbende is het niet
+toegestaan om dit werk of enig deel ervan te kopiëren, te wijzigen, samen te
+voegen, te publiceren, te verspreiden, in sublicentie te geven, te verkopen, te
+decompileren, te disassembleren of er afgeleide werken van te maken.
+
+De naam "BrocanteFinder", het logo en de huisstijl mogen niet worden gebruikt
+voor een andere toepassing of dienst.
+
+Deze software wordt geleverd "zoals ze is", zonder enige uitdrukkelijke of
+stilzwijgende garantie. De auteur is niet aansprakelijk voor enige schade die
+voortvloeit uit het gebruik ervan.
+
+Gegevens en software van derden blijven onderworpen aan hun eigen licenties;
+zie het scherm "Licenties" in de app en data/99-merge/LICENSE.
+
+Contact voor licenties en toestemmingen: kgltapps@outlook.com
 
 
-1. WAT DIT BESTAND DEKT
+FRANÇAIS
 
-Deze licentie geldt voor markets.json en de bijhorende bestanden in deze map:
-de samengestelde databank van rommelmarkten, garageverkopen en antiekbeurzen in
-België, met inbegrip van de structuur, de ontdubbeling, de categorie-indeling en
-de toegevoegde coördinaten.
+Ce logiciel (« BrocanteFinder »), y compris son code source, son design, ses
+textes, ses logos, ses icônes et les données de brocantes compilées, appartient
+à KGLTAPPS et est protégé par le droit d'auteur et les autres lois relatives à
+la propriété intellectuelle.
 
-Het samenstellen van deze databank vergde een substantiële investering. De
-databank wordt beschermd door het auteursrecht en door het databankenrecht
-(Boek XI, Titel 7 van het Belgisch Wetboek van economisch recht / Richtlijn
-96/9/EG).
+Sans autorisation écrite préalable du titulaire des droits, il est interdit de
+copier, modifier, fusionner, publier, distribuer, sous-licencier, vendre,
+décompiler, désassembler ce travail ou toute partie de celui-ci, ou d'en créer
+des œuvres dérivées.
 
+Le nom « BrocanteFinder », le logo et l'identité visuelle ne peuvent pas être
+utilisés pour une autre application ou un autre service.
 
-2. GEBRUIKSVOORWAARDEN
+Ce logiciel est fourni « en l'état », sans garantie d'aucune sorte, expresse ou
+implicite. L'auteur ne peut être tenu responsable de tout dommage résultant de
+son utilisation.
 
-Zonder voorafgaande schriftelijke toestemming van KGLTAPPS is het niet
-toegestaan om deze databank of een substantieel deel ervan op te vragen, te
-hergebruiken, te kopiëren, te herpubliceren, te verspreiden, commercieel te
-exploiteren of in een andere toepassing, website of dienst op te nemen.
-Geautomatiseerd of herhaald ophalen van niet-substantiële delen dat neerkomt op
-het reconstrueren van de databank, is evenmin toegestaan.
+Les données et logiciels de tiers restent soumis à leurs propres licences ;
+voir l'écran « Licences » dans l'application et data/99-merge/LICENSE.
 
-De gegevens worden geleverd "zoals ze zijn", zonder garantie op juistheid,
-volledigheid of beschikbaarheid. Gebruik op eigen risico.
-
-Aanvragen voor hergebruik: kgltapps@outlook.com
+Contact pour les licences et autorisations : kgltapps@outlook.com
 
 
-3. RECHTEN VAN DERDEN
+ENGLISH
 
-De onderliggende feitelijke gegevens zijn afkomstig van publiek toegankelijke
-webpagina's. De rechten op die oorspronkelijke gegevens blijven bij hun
-respectieve eigenaars. Deze licentie doet geen afbreuk aan hun rechten en
-verleent er geen enkel recht op.
+This software ("BrocanteFinder"), including its source code, design, texts,
+logos, icons and the compiled flea market data, is owned by KGLTAPPS and is
+protected by copyright and other intellectual property laws.
 
+Without the prior written permission of the rights holder, you may not copy,
+modify, merge, publish, distribute, sublicense, sell, decompile, disassemble or
+create derivative works from this work or any part of it.
 
-4. LOCATIEGEGEVENS EN PARKEERTERREINEN UIT OPENSTREETMAP
+The name "BrocanteFinder", the logo and the visual identity may not be used for
+any other application or service.
 
-Een deel van de coördinaten is afgeleid van OpenStreetMap: © OpenStreetMap-
-bijdragers, beschikbaar onder de Open Database License (ODbL),
-https://www.openstreetmap.org/copyright
+This software is provided "as is", without warranty of any kind, express or
+implied. The author is not liable for any damages arising from its use.
 
-Daarnaast bevat markets.json parkeerterreinen die rechtstreeks uit
-OpenStreetMap komen. Het gaat om de regels in het veld "parkings" met
-  "source": "osm"
-en de gegevens die daarbij horen: naam, coördinaten, "fee" en "access".
+Third-party data and software remains subject to its own licences; see the
+"Licences" screen in the app and data/99-merge/LICENSE.
 
-Dit bestand is in de zin van de ODbL een verzamelde databank (collective
-database): die OSM-regels blijven onder de ODbL en staan naast de eigen
-gegevens van KGLTAPPS, zonder daarmee te versmelten.
-
-Voor dat OSM-deel geldt bijgevolg:
-
-  - het blijft beschikbaar onder de Open Database License (ODbL) 1.0,
-    https://opendatacommons.org/licenses/odbl/1-0/
-  - het mag vrij gekopieerd, hergebruikt en verspreid worden onder de
-    voorwaarden van die licentie, ook door derden
-  - bronvermelding is verplicht: "© OpenStreetMap-bijdragers"
-  - de beperkingen uit punt 2 hierboven gelden er niet voor
-
-De beperkingen uit punt 2 gelden onverkort voor al het overige: de selectie,
-de ontdubbeling, de categorie-indeling, de teksten en de eigen coördinaten.
+Contact for licences and permissions: kgltapps@outlook.com
